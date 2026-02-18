@@ -298,6 +298,41 @@ _Intent: codify what is common, restricted, stagnant, and strategically decisive
   - larger group/public contexts re-impose consensus behavior,
   - cumulative cognitive dissonance appears as social stress-fractures.
 
+## 14) First Act Assembly Notes (2026-02-17, structure only)
+
+### A) Entry pressure
+- EDF marine squad inbound to Belt engagement.
+- Squad discontent signals expendability (no powered armor allocation).
+
+### B) CO–Sergeant private beat
+- CO is implanted and holds governor-module authority.
+- Existing relationship history includes sergeant previously saving CO in combat.
+- Sergeant requests command-channel access for extraction coordination.
+- CO grants access; visible emotional leak (tear) marks first explicit humanity crack.
+- CO states he will not join mission, implying asymmetric risk assignment.
+
+### C) Mission truth reveal
+- Objective framing: cover high-value asset extraction at all costs.
+- Sergeant overhears command-channel nuke authorization (codeword) post-extraction.
+- Realization: squad disposal is planned once mission utility ends.
+
+### D) Contact/betrayal sequence
+- Team moves to defensive position near Blackfly stealth craft extraction zone.
+- Spec Ops element (jet-black powered armor, 8 operators) exits with medium cargo crate.
+- Sergeant plans to fold squad into Blackfly withdrawal under covering fire.
+- Spec Ops counters by aiming rifles and directing squad into ditch (possible execution or abandonment).
+
+### E) External intervention + escape
+- Spec Ops armored operators abruptly spasm/fail (violent system disruption).
+- Unknown encrypted voice issues urgent embark order.
+- Liv (corporal) is designated pilot.
+- Blackfly departs at full burn; voice provides heading + burn profile.
+- Instruction to cut power after detonation; nuke plasma wave passes; ship goes dark and coasts.
+
+### F) Constraint for current phase
+- Treat this as **story architecture**, not prose draft mandate.
+- Continue in assembly mode (world/systems/character scaffolding) until explicit write command.
+
 ---
 
 _Recorded from Chris dictation on 2026-02-16 and follow-up direction lock on 2026-02-17. Pending refinement into locked canon entries._
