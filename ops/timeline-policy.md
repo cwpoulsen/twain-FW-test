@@ -19,3 +19,8 @@ Before locking chapters:
 - Verify scene timestamps align with event chronology.
 - Verify character location feasibility by elapsed time.
 - Verify tech operations obey known constraints.
+
+
+## Quantitative Reference
+- Travel math authority: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`
+- Timeline locks must cite lane distance, accel envelope, and comm delay when operationally relevant.

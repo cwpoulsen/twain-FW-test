@@ -69,18 +69,23 @@ Authority: `factions/factions-doctrine-ledger-v1.md` (primary), `canon/canon-led
 
 ---
 
-## 5) Belt Autonomist Fronts
-**Type:** Resistance umbrella (civic federalists to militant separatists)  
-**Core incentive:** End remote cognitive sovereignty and extraction without reciprocity.
+## 5) Asterion League (Belt Anti-Consensus Bloc)
+**Type:** Resistance-federalist coalition with militant wing integration  
+**Core incentive:** End remote cognitive sovereignty and secure Belt fabrication sovereignty.
 
 **Strategic posture**
 - Information warfare, selective sabotage, convoy interdiction, clandestine support chains.
+- Flagship pole: **Asterion Concord**, anti-Consensus techno-sovereignty bloc with first Belt-built Class 1 capability.
+- Operates dual track: municipal diplomacy + deep-deniable technical insurgency.
+- Confirmed creator of a clandestine **Class 1 seed-fabricator line** (low-throughput, existentially destabilizing).
 
 **Strengths**
 - Asymmetric adaptability, political energy, difficult to extinguish fully.
+- First credible non-Earth breach of Class 1 monopoly assumptions.
 
 **Weaknesses**
 - Internal doctrine splits, civilian blowback risk when tactics escalate.
+- Severe vulnerability to precision raids while Class 1 line remains fragile and distributed.
 
 ---
 

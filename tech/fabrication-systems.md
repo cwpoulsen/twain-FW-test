@@ -77,7 +77,9 @@ Dormant lines and covert queue reserves that can be activated for strategic surp
 ## 4) Earth-Belt Implication Layer
 
 - Belt can sustain wide autonomy with Class 4/3 ecosystems.
-- Earth retains leverage by controlling Class 2 distribution and concealing Class 1 reality.
+- Blackfly’s constrained Class 2 module gives protagonists episodic precision sovereignty but not mass-scale independence.
+- Asterion League’s fragile Class 1 seed-line breaks monopoly certainty while remaining throughput-limited.
+- Earth retains macro leverage through scale, logistics depth, and institutional queue control.
 - As comm latency grows, Earth control shifts from direct behavioral steering to queue pressure, sanctions, and narrative shaping.
 
 ---

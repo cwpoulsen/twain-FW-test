@@ -95,7 +95,7 @@ Most strategic defeats begin as administrative fractures before they appear as b
 
 ---
 
-## 5) Belt Autonomist Fronts
+## 5) Belt Autonomist Fronts (Asterion Concord-led)
 
 ### Doctrine
 - No remote cognitive rule.

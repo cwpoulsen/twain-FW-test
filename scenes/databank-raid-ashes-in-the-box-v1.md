@@ -4,14 +4,14 @@
 Store this as a core character-defining scene concept for John. This is **not** the team’s first free-team engagement. Place approximately one-third to halfway through Book 1.
 
 ## Strategic Context
-- Team objective: recover a Belt-held databank containing broad human knowledge backups, including major engineering schematics from immediately pre-Consensus singularity years.
+- Team objective: recover a Belt-held databank containing broad human knowledge backups, including major engineering schematics from immediately pre-Consensus singularity years and a sealed emergent AI seed package.
 - Hostile faction alignment: partially anti-Consensus but brutal/counterproductive methods.
 - Team assumes powered armor + nonlethal munitions will be sufficient for quick suppression and low-casualty extraction.
 
 ## Operational Plan (Intent)
 1. Hard breach in SOF black armor.
 2. Rapid nonlethal suppression.
-3. Secure datacube/databank.
+3. Secure datacube/databank plus sealed artifact case (later identified as a new AI seed/system payload).
 4. Fast exfiltration with minimal bloodshed.
 
 ## What Actually Happens
@@ -36,9 +36,15 @@ Store this as a core character-defining scene concept for John. This is **not** 
 
 ## Series Function
 - Tone pivot for Book 1 onward: war decisions become increasingly brutal, enemy pressure intensifies, protagonist forces are pushed farther from Earth into a fighting retreat.
+- The recovered box now anchors the long-arc strategic stake: it contains a **new AI seed/system**, making the squad a target for every faction seeking post-Consensus compute sovereignty.
 - Establishes long-tail thematic rule: choose human life over convenience, speed, and personal safety whenever possible.
 
 ## Notes
 - Keep tactical logic clean and believable before collapse.
 - Preserve operational tempo in prose, then let emotional realization land in delayed beats.
 - This scene should leave residue across subsequent command decisions, squad trust dynamics, and John/Val interactions.
+
+
+## Canon Lock Addendum (2026-02-19)
+- The recovered “box” is confirmed to contain a **new AI seed/system artifact**, not just archival data.
+- Handling rule: no blind boot, no isolated “magic helper” activation; all interactions require chain-of-custody + sandbox constraints + political consequence tracking.

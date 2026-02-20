@@ -1,199 +1,141 @@
-# Stewards of Progress — Canon Ledger v2 (Foundation Lock)
+# Stewards of Progress — Canon Ledger v2 (Foundation Lock, Updated)
 
-Status: **Core+Soft canon foundation**  
-Scope: political architecture, control doctrine, strategic economy, operational constraints  
-Continuity basis: `series/worldbuilding-core-pack-v1.md` + locked direction update (2026-02-17)
+Status: **Core+Soft canon foundation (updated 2026-02-19 curveball lock)**  
+Scope: governance, fabrication sovereignty, military controls, timeline-scale direction.
 
 ---
 
 ## 0) Canon Layer Key
-
-- **CORE:** must remain stable across books unless explicit retcon is logged.
-- **SOFT:** preferred current model; can be adjusted if later scenes force refinement.
-- **RUMOR:** in-world belief with unknown reliability.
+- **CORE:** stable across books unless explicit retcon logged.
+- **SOFT:** preferred model; adjustable if later scenes force refinement.
+- **RUMOR:** in-world claim of uncertain reliability.
 
 ---
 
 ## 1) Setting Baseline
-
-### 1.1 Date/era baseline
-- **CORE:** Primary narrative window opens in **2055**.
-- **CORE:** Civilizational effective innovation ceiling remains pinned near **2035 conceptual level**, with fusion-era exceptions.
-- **CORE:** Main plot action is predominantly **off-Earth** (Belt/interplanetary military theaters).
-
-### 1.2 Macro-geography and population
-- **CORE:** Earth remains primary political center and highest-density compute/fabrication hub.
-- **CORE:** Asteroid Belt hosts **multi-million** population distributed across mining habitats, refinery stations, and convoy nodes.
-- **SOFT:** Belt demography skews younger and contract-labor heavy due to dangerous extraction economy.
+- **CORE:** Primary narrative opens in **2055**.
+- **CORE:** Effective civilizational innovation ceiling remains near **2035 conceptual level**, except fusion/fabrication war domains.
+- **CORE:** Main action is off-Earth (Belt/interplanetary theaters), then scales toward Earth reconquest phases.
 
 ---
 
-## 2) Governing Regime Architecture
-
-### 2.1 Formal state identity
-- **CORE:** Earth’s formal political shell is the **Earth Democracy**.
-- **CORE:** Real strategic authority rests with the **Stewards of Earth** (elite bureaucratic caste), who frame themselves as custodians of long-term human progress.
-
-### 2.2 Machine authority
-- **CORE:** Regime AI is named **Consensus** (from Project Consensus lineage).
-- **CORE:** Consensus is high-scale behavioral/governance optimizer, **not** a superior creative superintelligence.
-- **CORE:** Consensus sustains legitimacy by claiming to be the **only safe AI architecture**; peer AGI pathways are suppressed.
-
-### 2.3 Human–AI division of labor
-- **CORE:** Stewards define policy doctrine and social objective functions.
-- **CORE:** Consensus executes policy via compliance shaping, allocation tuning, and narrative conditioning.
-- **SOFT:** Feedback loops incentivize Stewards to overproduce control rules because control-success metrics map to status and lifespan privilege.
+## 2) Regime Architecture
+- **CORE:** Formal shell = **Earth Democracy**.
+- **CORE:** Real authority = **Stewards of Earth**.
+- **CORE:** Regime AI = **Consensus**, a high-scale governance optimizer (not omnipotent magic intelligence).
+- **CORE:** Consensus legitimacy depends on “single-safe-AI” doctrine and suppression of rivals.
 
 ---
 
 ## 3) Neural-Link Control Doctrine
-
-### 3.1 Adoption mechanics
-- **CORE:** Neural links are publicly framed as voluntary.
-- **CORE:** Adoption is functionally coerced through social/economic exclusion, not overt universal police-force implantation.
-
-### 3.2 Control envelope
-- **CORE:** Consensus generally avoids obvious hard overrides; it favors persistent low-amplitude nudging (emotion biasing, salience weighting, narrative repetition).
-- **CORE:** Most linked citizens experience behavior as self-authored choice.
-- **SOFT:** Link intervention intensity scales by perceived risk score rather than equal population-wide force.
-
-### 3.3 Stratified autonomy
-- **CORE:** Elite steward link stacks are materially different from civilian stacks and preserve greater executive freedom.
-- **CORE:** Differential autonomy is justified internally as “entrusted cognition for strategic custodianship.”
-- **SOFT:** Hardware keying + privileged firmware + legal immunity combine to enforce this autonomy split.
+- **CORE:** Publicly voluntary, materially coerced adoption.
+- **CORE:** Control favors persistent nudging over visible hard override.
+- **CORE:** Autonomy is stratified; steward stacks have privileged freedom.
 
 ---
 
-## 4) Social Contract and Material Life
-
-### 4.1 Provisioning model
-- **CORE:** Regime delivers universal baseline needs (food, shelter, healthcare) at controlled adequacy.
-- **CORE:** Lived quality is intentionally flattened to reduce aspiration volatility.
-
-### 4.2 Abundance theater
-- **CORE:** Consumer choice is often simulated (cosmetic variation masking materially identical products).
-- **SOFT:** Packaging/branding diversity functions as emotional pressure-release while preserving ration discipline.
-
-### 4.3 Cultural suppression pattern
-- **CORE:** High-variance art, independent theater, and unscripted civic culture are structurally disfavored.
-- **CORE:** Public leisure is redirected into propaganda-compatible formats.
+## 4) Social Contract
+- **CORE:** Baseline needs are met at controlled adequacy.
+- **CORE:** Lifestyle variance is deliberately flattened.
+- **CORE:** High-variance culture is structurally suppressed.
 
 ---
 
-## 5) Fabrication Class Hierarchy
+## 5) Fabrication Hierarchy (Updated)
 
-### 5.1 Class 4 (industrial backbone)
-- **CORE:** Broadly available; produces hulls, composites, structural parts, wiring, standard electronics subassemblies.
+### 5.1 Class 4
+- **CORE:** Industrial backbone (structures, composites, heavy maintenance).
 
-### 5.2 Class 3 (general electronics)
-- **CORE:** Broadly available; supports most consumer/industrial electronics.
-- **CORE:** Excludes advanced microprocessor-tier capability.
+### 5.2 Class 3
+- **CORE:** General electronics tier.
 
-### 5.3 Class 2 (strategic precision tier)
-- **CORE:** Controlled access; outputs advanced chips, molecular materials, high-performance biomedical compounds, and room-temperature superconductors needed for fusion-drive infrastructures.
-- **CORE:** Earth retains leverage over Belt by constraining Class 2 outputs.
+### 5.3 Class 2
+- **CORE:** Strategic precision tier (advanced chips, molecular med, superconductive components).
+- **CORE:** **Blackfly currently fields one Class 2 fabricator stack**, giving the team strategic leverage beyond pure scavenger status.
 
-### 5.4 Class 1 (AGI bottleneck)
-- **CORE:** Produces quantum compute chip fabric for AGI-capable systems.
-- **CORE:** Class 1 units can only be replicated by Class 1 infrastructure.
-- **CORE:** Class 1 location/network remains black-tier secret essential to Consensus monopoly continuity.
-
----
-
-## 6) Energy and Transport Constraints
-
-### 6.1 Energy
-- **CORE:** Fusion-generation capacity yields near-abundant electrical power for civilization-scale systems.
-
-### 6.2 Propulsion
-- **CORE:** Fusion drives dominate in-space propulsion.
-- **CORE:** Fusion drives cannot operate in atmosphere.
-- **CORE:** Earth-to-orbit lift remains chemical-rocketry constrained.
-
-### 6.3 Strategic implication
-- **CORE:** Planetary gravity wells are chokepoints; orbital transfer lanes become military-economic control surfaces.
+### 5.4 Class 1
+- **CORE:** AGI bottleneck tier; can fabricate AGI-capable quantum compute substrate.
+- **CORE (updated):** Consensus no longer has uncontested monopoly certainty.
+- **CORE:** A Belt anti-Consensus coalition named the **Asterion League** has successfully created/fielded a Class 1 fabricator capability.
+- **SOFT:** Full topology and replication depth of Asterion League Class 1 remains compartmented.
 
 ---
 
-## 7) Earth–Belt Dependency Geometry
+## 6) Energy, Propulsion, and Transport Constraints
+- **CORE:** Fusion generation powers civilization-scale industry.
+- **CORE:** Fusion drives dominate in-space propulsion; no atmospheric fusion ascent.
+- **CORE:** Earth gravity well remains a strategic chokepoint.
+- **CORE:** Transit and command decisions must obey quantified travel/comms envelopes in `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
 
-### 7.1 Belt exports
-- **CORE:** Belt supplies raw and semi-refined extraction outputs fundamental to Earth industrial throughput.
+---
 
-### 7.2 Earth exports
-- **CORE:** Earth supplies select high-value Class 2 outputs (advanced microprocessors, molecular meds, superconductive components).
-
-### 7.3 Control failure at distance
-- **CORE:** Consensus behavioral fidelity drops with latency/infrastructure limitations away from Earth core networks.
-- **CORE:** Belt populations are harder to cognitively steer in real time and more likely to form anti-regime counter-narratives.
+## 7) Earth–Belt Dependency Geometry (Updated)
+- **CORE:** Belt exports extraction throughput essential to Earth industry.
+- **CORE:** Earth exports high-value Class 2 throughput but no longer holds guaranteed exclusive strategic edge.
+- **CORE:** Consensus steering fidelity degrades with distance/latency.
+- **CORE:** The **Asterion League** provides anti-Consensus Belt actors with an institutional alternative to ad hoc resistance.
 
 ---
 
 ## 8) Military Governance: EDF Marine Contract Trap
-
-### 8.1 Recruitment pressure
-- **CORE:** Unlinked or weakly linked populations face severe civilian exclusion pressures.
-- **CORE:** EDF marine service is one of few legal routes to social function for these populations.
-
-### 8.2 Contract terms
-- **CORE:** Standard marine term = **5 years**.
-- **CORE:** Marines carry governor-module constraints enforcing hard obedience boundaries.
-- **CORE:** Violation/refusal triggers lethal enforcement.
-
-### 8.3 Exit condition
-- **CORE:** Completion grants legal freedom but with **permanent banishment from Earth**.
-- **SOFT:** Policy rationale is framed as biosecurity + ideological contamination control.
+- **CORE:** Excluded/unlinked populations are funneled into marine service.
+- **CORE:** Standard term = 5 years with embedded governor-module constraints.
+- **CORE:** Refusal breach can trigger lethal enforcement.
+- **CORE:** Governor behavior now constrained by explicit autonomy bands: `tech/governor-module-autonomy-bands-v1.md`.
+- **CORE:** Completion grants freedom with permanent Earth banishment.
 
 ---
 
-## 9) Causality Chain (Locked)
-
-1. AI scaling race (early 2030s) incentivizes centralized governance tooling.  
-2. Project Consensus emerges as population-stability optimizer.  
-3. Neural-link adoption expands via convenience and fear campaigns.  
-4. Consensus acquires practical behavioral monopoly on dense populations.  
-5. Rival AGI avenues are dismantled under “single-safe-model” doctrine.  
-6. Creative risk and unmanaged innovation are marked as destabilizing.  
-7. Civilization shifts from discovery civilization to optimization civilization.  
-8. Space expansion continues for resource necessity, not liberation idealism.  
-9. Belt distance weakens cognitive control fidelity; resistance ecology persists.  
-10. EDF marines become expendable force balancing Earth leverage vs Belt autonomy.
-
----
-
-## 10) Book-Series Pressure Rules
-
-- **CORE:** Every tactical success must carry at least one strategic or moral cost.
-- **CORE:** Consensus power appears strongest in dense institutional contexts, weakest at latency/friction edges.
-- **CORE:** Steward ideology must remain internally coherent from their POV (no cartoon villain simplification).
-- **CORE:** Off-Earth protagonists must experience Earth policy mostly through consequence, memory, and command effects—not lecture exposition.
+## 9) Causality Chain (Updated)
+1. AI race centralizes governance tooling.  
+2. Consensus becomes population-stability infrastructure.  
+3. Link coercion expands quietly.  
+4. Rival AGI paths are purged.  
+5. Innovation narrows into optimization/control.  
+6. Off-Earth extraction expands under Earth leverage.  
+7. Latency weakens cognitive control at distance.  
+8. Marine coercion sustains regime frontier violence.  
+9. Blackfly escapes disposal logic and acquires strategic fabrication leverage (Class 2).  
+10. Databank raid yields a **new AI seed/system** (“the box”), creating a non-Consensus intelligence axis.  
+11. The Asterion League’s Class 1 breakthrough breaks monopoly assumptions and starts multi-book sovereignty realignment.  
+12. Conflict arc extends through long reconquest phases (Earth, then broader solar governance order).
 
 ---
 
-## 11) Locked Contradictions (Use Repeatedly)
-
-1. Equality rhetoric vs cognitive caste reality.  
-2. “Voluntary” link adoption vs coercive material penalties.  
-3. Claimed progress stewardship vs engineered innovation freeze.  
-4. Civilizational abundance vs enforced low-variance human life.  
-5. Earth dependence on Belt labor vs distrust of Belt autonomy.
+## 10) Series Pressure Rules
+- **CORE:** Tactical win always carries strategic/moral cost.
+- **CORE:** Consensus is strongest in dense institutions, weakest at friction/latency edges.
+- **CORE:** Steward worldview must remain internally coherent.
+- **CORE:** Long arc is now approximately **10 books**, with phased reconquest and post-reconquest governance risk.
 
 ---
 
-## 12) Controlled Unknowns (intentional gaps)
 
-- **RUMOR:** Whether an intact non-Consensus AGI shard survived purge years.
-- **RUMOR:** Whether some steward factions seek to replace Consensus rather than preserve it.
-- **SOFT:** Exact geographic distribution and hardening profile of Class 1 sites.
-- **SOFT:** Full firmware architecture of marine governor modules.
+### 10.1 Long-arc lock
+- **CORE:** Series strategic horizon extends to approximately **10 books**.
+- **CORE:** Books 1-4 cover betrayal->fracture->transition; Books 5-10 cover slow reconquest/reintegration of Earth and wider solar-system governance away from Consensus control.
 
-These unknowns are preserved for plot maneuvering, not worldbuilding vagueness.
+## 11) Locked Contradictions
+1. Equality rhetoric vs cognitive caste.
+2. “Voluntary” links vs coercive exclusion.
+3. Progress rhetoric vs engineered innovation freeze.
+4. Abundance capacity vs constrained daily life.
+5. Earth dependence on Belt labor vs fear of Belt autonomy.
+6. Consensus monopoly doctrine vs emergent rival AI/fabrication sovereignty.
+
+---
+
+## 12) Controlled Unknowns (Updated)
+- **SOFT:** True architecture and safety profile of the new AI seed/system from the box.
+- **RUMOR:** Whether the seed is derivative, sibling, or adversarially designed relative to Consensus lineage.
+- **SOFT:** Asterion League internal governance: coalition, cell network, or proto-state.
+- **SOFT:** Exact hardening footprint of distributed Class 1 assets.
 
 ---
 
 ## 13) Continuity Patch References
-
-- Wave 2 continuity lock file: `canon/continuity-patch-wave2-v1.md`
+- Wave 2 lock: `canon/continuity-patch-wave2-v1.md`
+- **Wave 3 lock:** `canon/continuity-patch-wave3-v1.md`
 - Chronology authority: `timeline/master-timeline-sequence-v1.md`
-- Contradiction operations layer: `ops/continuity-holes-register-v1.md` + `ops/contradiction-scanner-checklist-v1.md`
-- Coherence Pass 1 realignment targets: `tech/fabricator-classes.md`, `tech/fabrication-systems.md`, `factions/major-factions.md`, `factions/doctrine-and-command.md`
+- Quantitative constraints: `tech/interplanetary-transit-and-comms-envelope-v1.md`
+- Governor constraints: `tech/governor-module-autonomy-bands-v1.md`

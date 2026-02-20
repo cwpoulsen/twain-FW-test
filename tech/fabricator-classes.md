@@ -48,6 +48,7 @@ This file resolves prior class-number drift. Class labels are now strictly **Cla
 **Hard limits / governance constraints**
 - DAL and release-key controls are treated as sovereignty instruments.
 - Queue access often functions as political reward/punishment.
+- **Lock update:** Blackfly hosts a covert Class 2 microfabrication enclave (throughput-limited, tactically decisive for chips/meds/superconductive repair sets).
 
 ---
 
@@ -62,6 +63,7 @@ This file resolves prior class-number drift. Class labels are now strictly **Cla
 **Hard limits / structural facts**
 - Class 1 can only replicate Class 1.
 - Site locations, redundancy topology, and operator chain remain compartmented.
+- **Lock update:** Asterion Concord achieved a Belt-side Class 1 node, ending Earth-only Class 1 exclusivity and triggering existential escalation logic.
 
 ---
 
@@ -91,5 +93,7 @@ These are operational topologies, not alternate class names.
 ## 4) Story Constraints to Reuse
 
 - Belt actors can often sustain war with Class 4/3 improvisation, but struggle to scale precision dependence without Class 2 access.
-- Earth can win queue wars without major fleet action by throttling Class 2 outputs.
+- **Blackfly exception (CORE):** Blackfly mounts a constrained Class 2 module (limited wafer/molecular lots, high maintenance burden), giving protagonists intermittent precision independence.
+- **Asterion exception (CORE):** Asterion League maintains a fragile Class 1 seed-fabricator line; throughput is tiny, but strategic deterrence value is enormous.
+- Earth can still win queue wars at scale by throttling institutional Class 2 outputs.
 - Any credible threat to Class 1 secrecy escalates immediately to existential-level policy response.

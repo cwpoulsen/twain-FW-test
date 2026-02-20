@@ -1,6 +1,6 @@
 # Stewards of Progress — Series Architecture v2
 
-Status: **Foundation lock for Books 1–4**  
+Status: **Foundation lock for Books 1–10 (Books 1–4 detailed spine)**  
 Objective: enforce continuity through causal escalation, not episodic reset.
 
 ---
@@ -21,7 +21,7 @@ Rule: each book must include all three lenses, but with one dominant lens per vo
 
 ---
 
-## 3) Four-Book Structural Spine
+## 3) Books 1–4 Structural Spine (Phase I)
 
 ## Book 1 — **Ashes in the Box** (working subtitle)
 
@@ -177,9 +177,53 @@ No skipping rungs; each rung requires consequences from prior rung.
 
 ---
 
-## 9) Open Architecture Tasks (Next pass)
+## 9) Long-Arc Extension (Books 5–10, Phase II)
+
+Premise: Books 1–4 break monopoly legitimacy and open strategic space; Books 5–10 execute the slow reconquest of Earth governance and then broader Solar institutions from Consensus control.
+
+### Book 5 — Transitional Collapse Governance
+- Coalition must keep life-support, food, and med supply running while old command chains fragment.
+- AI-seed custody conflict begins (who can train/host/use it).
+
+### Book 6 — Earth Foothold Campaign
+- First durable anti-Consensus enclaves established on/around Earth infrastructure nodes.
+- Political victory is procedural before territorial.
+
+### Book 7 — Orbitals and Chokepoints War
+- LEO/MEO logistics and launch windows become the main battlefield.
+- Earth gravity well chokepoints are contested through queue-control, not pure fleet duels.
+
+### Book 8 — Inner System Legitimacy War
+- Mars/Luna/inner corridors choose sides in treaty layers.
+- Reconquest shifts from raids to recognition + enforceable jurisdiction.
+
+### Book 9 — Outer System Settlement
+- Belt and outer stations negotiate sovereignty compacts under new constraints.
+- Former opportunist blocs either integrate, fracture, or become insurgent spoilers.
+
+### Book 10 — Constitutional Endgame
+- Final settlement defines compute/fabrication governance, AI-seed oversight, and anti-monopoly safeguards.
+- End-state remains imperfect: plural sovereignty with enforceable limits, not utopia.
+
+## 10) Canon Additions Required in All Phases
+
+- Databank raid artifact case includes a **new AI seed/system**.
+- Asterion League is the named Belt anti-Consensus bloc and creator of a fragile **Class 1 seed-fabricator**.
+- Blackfly carries a constrained **Class 2 fabricator**.
+- Fabrication power growth is now a staged ladder across the long arc, not a one-book jump.
+
+## 11) Open Architecture Tasks (Next pass)
 
 - Define named ministries/councils within Steward governance chain.
 - Define Belt coalition charter failure points.
 - Define postwar compute/fabrication oversight regime (treaty mechanics).
-- Build book-by-book event index binding this architecture to dated timeline entries.
+- Build book-by-book event index binding this architecture to dated timeline entries (Books 1–10).
+
+
+## Book 5–10 Strategic Continuation (Lock)
+- **Book 5:** Begin slow reconquest of Earth control nodes; expose fragility of liberation logistics.
+- **Book 6:** Hold-and-govern campaigns; reclaimed populations resist both old and new authorities.
+- **Book 7:** Interplanetary legitimacy conflicts spread (cislunar/Mars/Belt treaty breakdown cycles).
+- **Book 8:** AI custody wars over seed-derived systems and anti-Consensus successor models.
+- **Book 9:** Systemwide reconstruction under scarcity, sabotage, and revenge politics.
+- **Book 10:** Durable but contested solar constitutional order; no return to single cognitive monopoly.

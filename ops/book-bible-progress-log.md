@@ -26,3 +26,18 @@
     - `characters/core-squad-depth-pack-v1.md`
     - `characters/valerie-brother-reveal-blueprint-v1.md`
   - Added cross-links in `canon/canon-ledger-v2.md` section 13.
+- Wave 3 curveball lock integrated:
+  - Canon updates locked:
+    - `canon/continuity-patch-wave3-v1.md`
+    - `canon/canon-ledger-v2.md` updated for AI-seed box payload, Aegis Spiral naming, Blackfly Class 2, and 10-book arc direction.
+  - Added quantitative constraint docs:
+    - `tech/interplanetary-transit-and-comms-envelope-v1.md` (equations, assumptions, thrust/trajectory model, lane matrix, comms latency)
+    - `tech/governor-module-autonomy-bands-v1.md`
+    - `ops/logistics-replenishment-cadence-table-v1.md`
+  - Timeline upgraded for long arc:
+    - `timeline/books1-10-strategic-reconquest-map-v1.md`
+    - `timeline/master-timeline-sequence-v1.md` updated with AI-seed and reconquest-phase anchors
+    - `timeline/books1-4-operational-sequence-map-v1.md` reframed as Phase I of 10-book arc
+  - Continuity ops synced:
+    - `ops/continuity-holes-register-v1.md`
+    - `ops/continuity-dependency-map-v1.md`

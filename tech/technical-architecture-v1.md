@@ -7,6 +7,8 @@ Purpose: constrain plot decisions through explicit engineering and logistics rul
 
 ## 1) Propulsion and Transit
 
+Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
+
 ## 1.1 Propulsion stack
 - **Chemical launch systems:** required for all atmospheric ascent/descent in meaningful gravity wells.
 - **Fusion drives:** primary inter-orbital and interplanetary propulsion once clear of atmosphere.
@@ -54,6 +56,7 @@ Purpose: constrain plot decisions through explicit engineering and logistics rul
 - Belt can sustain broad infrastructure with Class 3/4 ecosystems.
 - Belt cannot fully sovereignize high-end computation/biomedical stacks without Class 2 access.
 - Earth cannot sustain industrial scale without Belt extraction throughput.
+- Blackfly possession of a Class 2 stack and Aegis Spiral Class 1 emergence end the assumption of uncontested Earth monopoly.
 
 ## 3.3 Failure modes for story
 - Sabotage of calibration libraries can silently poison fab outputs.
@@ -137,3 +140,37 @@ Purpose: constrain plot decisions through explicit engineering and logistics rul
 6. What technical side effect follows the chosen workaround?
 
 If a scene cannot answer these, it is under-specified.
+
+---
+
+## 9) Cross-Arc Technology Consequence Ledger (Pass 2 Lock)
+
+### Fabrication Class Asymmetry (Class 2/1 bottleneck)
+- **Book 1/2 choice:** squad and allies expose class-tier control evidence.
+- **Ripple:** Earth tightens export/firmware keys; Belt compensates with gray-market libraries.
+- **Long-tail cost:** by Book 4, counterfeit medical/fab stacks create reliability disasters that complicate any liberation narrative.
+
+### Governor-Module Dependence
+- **Book 1 choice:** coercive command uses hard boundary enforcement as disposal insurance.
+- **Ripple:** operators learn to optimize inside constraint envelopes rather than trust command.
+- **Long-tail cost:** by Book 3–4, post-crisis demobilization is unstable because veterans cannot easily reintegrate into normal command contracts.
+
+### Latency + Relay Vulnerability
+- **Book 2/3 choice:** both regime and resistance weaponize delay-tolerant comm gaps.
+- **Ripple:** authenticity protocols become as important as raw intelligence capture.
+- **Long-tail cost:** by Book 4, governance settlements require slower but auditable decision pipelines, reducing emergency response speed.
+
+### Calibration Library Sabotage
+- **Book 2 choice:** targeted corruption of fab calibration sources used as low-signature warfare.
+- **Ripple:** maintenance failures look like incompetence before sabotage is proven.
+- **Long-tail cost:** by Book 3, trust in shared supply chains collapses; by Book 4, coalition-building must fund expensive verification infrastructure.
+
+### Medical Stratification + Trauma Burden
+- **Book 1–2 choice:** deny restricted-tier care to politically inconvenient populations.
+- **Ripple:** black-market enhancement and triage economies expand.
+- **Long-tail cost:** by Book 3–4, untreated/undertreated veterans and civilians become a structural governance crisis, not background texture.
+
+### Cyber Centralization Tradeoff
+- **Book 3 choice:** strike identity roots and trust anchors instead of only hardware.
+- **Ripple:** rapid disruption succeeds but also degrades neutral civil services riding the same trust stack.
+- **Long-tail cost:** Book 4 transition arc must carry restoration burden (identity re-issuance, court admissibility, aid routing), consuming political capital.

@@ -1,27 +1,22 @@
-# Continuity Dependency Map v1
+# Continuity Dependency Map v1 (Wave 3 Updated)
 
-Purpose: define which canon pillars must be true for each major Book 1-3 beat to remain coherent.
+Purpose: define canon pillars required for major beats to remain coherent.
 
 Cross-refs:
 - Holes register: `ops/continuity-holes-register-v1.md`
-- Contradiction scanner: `ops/contradiction-scanner-checklist-v1.md`
 - Canon ledger: `canon/canon-ledger-v2.md`
-- Patch set: `canon/continuity-patch-wave2-v1.md`
+- Patch sets: `canon/continuity-patch-wave2-v1.md`, `canon/continuity-patch-wave3-v1.md`
 
 ---
 
 ## A) Dependency Backbone (Top-Level)
 
 1. **Governance Control Doctrine** (`canon/canon-ledger-v2.md` §§2–4)
-   - Required by: coercion motives, marine trap architecture, social legitimacy conflict.
-2. **Fabrication Hierarchy + Class 1/2 Monopoly** (`canon/canon-ledger-v2.md` §5)
-   - Required by: strategic stakes of databank, evidence-war stakes in Books 2–3.
-3. **Latency-Limited Cognitive Control** (`canon/canon-ledger-v2.md` §7.3)
-   - Required by: plausibility of Belt resistance and off-Earth tactical uncertainty.
-4. **Marine Contract Trap** (`canon/canon-ledger-v2.md` §8)
-   - Required by: squad expendability logic and betrayal mechanics.
-5. **Master Timeline Sequence Authority** (`timeline/master-timeline-sequence-v1.md`)
-   - Required by: scene ordering, emotional causality, and reveal timing.
+2. **Fabrication Sovereignty Ladder incl. Blackfly Class 2 + Aegis Spiral Class 1** (`canon/canon-ledger-v2.md` §5)
+3. **Latency-Limited Control + Quantified Transit/Comms Envelope** (`canon/canon-ledger-v2.md` §§6–7, `tech/interplanetary-transit-and-comms-envelope-v1.md`)
+4. **Marine Contract Trap + Governor Autonomy Bands** (`canon/canon-ledger-v2.md` §8, `tech/governor-module-autonomy-bands-v1.md`)
+5. **Master Timeline + 10-Book Arc Map** (`timeline/master-timeline-sequence-v1.md`, `timeline/books1-10-strategic-reconquest-map-v1.md`)
+6. **AI Seed Custody Chain** (`timeline/master-timeline-sequence-v1.md` seq 0180, `canon/continuity-patch-wave3-v1.md`)
 
 ---
 
@@ -29,29 +24,21 @@ Cross-refs:
 
 | Story Beat | Must Depend On | Failure If Broken |
 |---|---|---|
-| B1 Betrayal + Escape | Marine disposal doctrine + command secrecy + comms corridor window | Becomes coincidence escape with no systemic logic |
-| B1 Databank Raid Moral Pivot | Post-betrayal free-team operations + misinformation battles + constrained nonlethal doctrine | Loses emotional weight or appears redundant with betrayal beat |
-| B2 Alliance Market | Belt autonomy + Earth supply leverage + latency-limited control | Belt politics flatten into generic chase plot |
-| B2 Brother Pre-Reveal/Reveal | Long-seeded intervention traces + risk-bearing inside source constraints | Reveal feels unearned and melodramatic |
-| B3 Proof War | Shadow ledger integrity + distributed evidence mirrors + anti-scrub tradecraft | “Expose truth” arc collapses under easy denial/scrub |
+| B1 Betrayal + Escape | Marine disposal doctrine + comm corridor constraints | Coincidence escape with no systemic logic |
+| B1 Databank Raid / Box Recovery | Post-betrayal free-team ops + AI-seed custody lock | Moral pivot loses strategic consequence |
+| B2 Alliance Market | Belt autonomy + Class 2 leverage + latency constraints | Generic chase plot, no strategic economy |
+| B3 Proof War | Chain-of-custody + anti-scrub tradecraft | Truth arc collapses under easy denial |
+| B4 Transition Fracture | Broken monopoly assumptions + institutional panic | Conflict scale appears unjustified |
+| B5+ Reconquest | Sustained logistics/transit realism + coalition governance strain | Unrealistic fast victory arc |
 
 ---
 
-## C) Character Arc Dependency Links
+## C) Update Protocol for New Scene/Bio Changes
 
-- **Hale arc (protector -> deliberate leader)** depends on strict ordering of betrayal before later moral-injury operations.
-- **Valerie arc (rage -> precision)** depends on delayed reveal structure (seed in B1, forced decision in B2).
-- **Isaac arc (ghost -> strategist)** depends on early shadow-ledger start and later chain-of-custody pressure.
-- **Marko arc** depends on persistent autonomy-threat environment (not one-off panic gimmick).
-- **Lin arc** depends on repeated debrief-fracture scenes proving social truth divergence.
-
----
-
-## D) Update Protocol for Any New Scene/Bio Change
-
-1. Attach sequence index and UTC/local time marker.
-2. Check if edit changes dependency in sections A-C.
-3. If yes, update both:
+1. Attach sequence index and UTC/local markers.
+2. Attach lane + burn class + latency + authority mode where relevant.
+3. Attach governor band fields where marine coercion exists.
+4. If dependency changes, update:
    - `ops/continuity-holes-register-v1.md`
-   - either `canon/continuity-patch-wave2-v1.md` or `timeline/master-timeline-sequence-v1.md`
-4. Log ripple impacts in `ops/book-bible-progress-log.md`.
+   - `canon/continuity-patch-wave3-v1.md` or timeline authority files
+5. Log ripple impacts in `ops/book-bible-progress-log.md`.

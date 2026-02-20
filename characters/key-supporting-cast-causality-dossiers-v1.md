@@ -140,3 +140,37 @@ If identity confirms under countdown pressure, Valerie must choose mission conti
 - **Autonomy vs control:** Rourke, Voss, Kite each represent different control logics.
 - **Truth vs narrative:** Isaac/Ilyin/Rourke/Pike networks define whether evidence survives.
 - **Care vs coercion:** Valerie’s source line and Lin-facing civilian intermediaries test whether protection can exist without ownership.
+
+---
+
+## Cross-Book Character Decision Ripple Ledger (Pass 2 Lock)
+
+### Rourke
+- **Book 1–2 decision:** covertly help without openly defecting.
+- **Cost:** aid arrives late/incomplete; squad suffers avoidable losses of trust and opportunity.
+- **Ripple:** by Book 3 his partial complicity is exploitable propaganda; by Book 4 he can broker transition only if he accepts public accountability.
+
+### Pike
+- **Book 2 decision:** prioritize civilian survivability channels over squad-exclusive loyalty.
+- **Cost:** mission windows close when she withholds routes too risky for habitat populations.
+- **Ripple:** by Book 3 her network is thinner and more surveilled; by Book 4 she becomes essential to ration legitimacy debates.
+
+### Ilyin
+- **Book 2/3 decision:** leak medically grounded coercion evidence.
+- **Cost:** immediate patient confidentiality breach fallout and retaliatory targeting.
+- **Ripple:** by Book 3 evidence credibility rises, but by Book 4 tribunals must adjudicate tainted-but-necessary disclosures.
+
+### Voss
+- **Book 3 decision:** escalate from narrative management to direct suppression.
+- **Cost:** short-term control gains but permanent loss of plausible procedural legitimacy.
+- **Ripple:** by Book 4 moderates inside steward institutions defect or stonewall, accelerating regime fragmentation.
+
+### Kite
+- **Book 2/3 decision:** adapt tactics toward increasingly total kill-boxes against squad analogs.
+- **Cost:** collateral exposure increases, undermining myth of clean precision.
+- **Ripple:** by Book 4 anti-Blackframe sentiment constrains any successor state’s deniable-force doctrine.
+
+### Brother-Figure Source
+- **Book 2 decision:** reveal identity and provide actionable intelligence under countdown pressure.
+- **Cost:** burns long-cultivated cover; triggers personal and strategic retaliation.
+- **Ripple:** by Book 3 his survival or loss reconfigures Valerie’s command style; by Book 4 his disclosures force reconciliation of justice vs reconciliation politics.

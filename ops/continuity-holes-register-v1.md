@@ -1,4 +1,4 @@
-# Continuity Holes Register v1 (Wave 2)
+# Continuity Holes Register v1 (Wave 3 Updated)
 
 Status: active continuity audit ledger  
 Owner: bible maintenance pass  
@@ -7,7 +7,7 @@ Last updated: 2026-02-19
 Cross-refs:
 - Dependency map: `ops/continuity-dependency-map-v1.md`
 - Scanner checklist: `ops/contradiction-scanner-checklist-v1.md`
-- Canon patch set: `canon/continuity-patch-wave2-v1.md`
+- Canon patch sets: `canon/continuity-patch-wave2-v1.md`, `canon/continuity-patch-wave3-v1.md`
 - Master timeline authority: `timeline/master-timeline-sequence-v1.md`
 
 ---
@@ -23,24 +23,20 @@ Cross-refs:
 
 | Hole ID | Severity | Type | Problem Statement | Affected Docs | Resolution Status |
 |---|---|---|---|---|---|
-| H-001 | P0 | Sequence contradiction | Book 1 scaffold placed databank corruption reveal before betrayal confirmation, while locked timeline had betrayal/escape before databank raid event. | `series/book-and-series-arc-scaffolds-v1.md`, `timeline/master-timeline-sequence-v1.md`, `timeline/character-arc-turning-points-v1.md` | **FIXED** via canon chronology lock + scaffold retune |
-| H-002 | P0 | Character-arc timing conflict | Valerie brother thread timing conflicted between Book 1 late-turn cues and Book 2 reveal architecture. | `characters/core-squad-depth-pack-v1.md`, `series/book-and-series-arc-scaffolds-v1.md`, `timeline/character-arc-turning-points-v1.md`, `characters/valerie-brother-reveal-blueprint-v1.md` | **FIXED** by defining Book 1 = signal seed only; Book 2 = pre-reveal and full reveal |
-| H-003 | P1 | Mechanism gap | Unknown intervention during Blackfly escape lacked hard comms/latency/corridor mechanism, risking “plot magic.” | `timeline/master-timeline-sequence-v1.md`, `canon/continuity-patch-wave2-v1.md`, `tech/technical-architecture-v1.md` | **FIXED (SOFT->LOCKED-SOFT)** corridor-window mechanism + delayed packet model |
-| H-004 | P1 | Identity chain ambiguity | Unknown helper identity and trust chain lacked rules, risking arbitrary rescue repetition. | `canon/continuity-patch-wave2-v1.md`, future scenes | **PARTIAL** helper remains intentionally unnamed; use-of-intervention now constrained by rule set |
-| H-005 | P2 | Evidence chain fragility | “Shadow truth ledger” existed conceptually but lacked canon-level audit requirements for admissible proof. | `timeline/character-arc-turning-points-v1.md`, `canon/continuity-patch-wave2-v1.md` | **FIXED** via evidence continuity requirements |
-
----
-
-## Fixed-in-Wave2 Summary
-1. Book 1 chronology is now unambiguous: betrayal/escape first, databank raid later under free-team conditions.
-2. Valerie brother continuity now clean: seed in Book 1, pressure + reveal in Book 2.
-3. Intervention mechanics constrained by comms windows and pre-positioned exploit work, not omniscient realtime control.
-4. Evidence continuity now requires chain-of-custody metadata and mirrored logs before major information-war beats.
+| H-001 | P0 | Sequence contradiction | Databank reveal ordering conflict with betrayal lock. | `series/book-and-series-arc-scaffolds-v1.md`, timeline docs | **FIXED** |
+| H-002 | P0 | Character-arc timing conflict | Valerie brother timing split across Book 1/2 layers. | character + timeline docs | **FIXED** |
+| H-003 | P1 | Mechanism gap | Escape intervention lacked latency-grounded mechanism. | timeline + canon + tech | **FIXED** |
+| H-004 | P1 | Identity chain ambiguity | Unknown helper identity/trust chain underdefined. | canon + future scenes | **PARTIAL (intentional unknown)** |
+| H-005 | P2 | Evidence chain fragility | Strategic proof lacked explicit custody requirements. | timeline + canon | **FIXED** |
+| H-006 | P0 | Payload contradiction | Box contents underdefined; now required to contain new AI seed/system. | canon + timeline | **FIXED (Wave 3 CP-005)** |
+| H-007 | P0 | Strategic-balance contradiction | Class 1 monopoly assumption conflicted with new Belt capability directive. | canon + timeline + tech | **FIXED (Wave 3 CP-006)** |
+| H-008 | P1 | Arc-scale mismatch | 4-book scaffold no longer matched 10-book reconquest directive. | timeline docs | **FIXED (Books 1–10 map added)** |
+| H-009 | P1 | Quantitative transit gap | Need equations/assumptions for travel realism. | tech + ops | **FIXED** |
+| H-010 | P1 | Governor autonomy ambiguity | Needed explicit governor-module autonomy bands. | tech + canon | **FIXED** |
 
 ---
 
 ## Remaining Risks (next pass)
-1. **R-001 (P1):** Need explicit travel-time matrix by lane and burn class to prevent tactical teleport effects.
-2. **R-002 (P1):** Need governor-module firmware constraints table (allowed autonomy bands per mission state).
-3. **R-003 (P2):** Need standardized scene header schema enforcing sequence index + local timestamp + comms latency note.
-4. **R-004 (P2):** Need recurring antagonist adaptation cadence table (Kite counter-evolution per major contact).
+1. **R-005 (P2):** Add standardized scene packet template with required transit/comms/governor fields.
+2. **R-006 (P2):** Add Aegis Spiral internal governance charter constraints to prevent faction behavior drift.
+3. **R-007 (P2):** Add AI-seed safety doctrine (containment, test protocol, failure escalation ladder).

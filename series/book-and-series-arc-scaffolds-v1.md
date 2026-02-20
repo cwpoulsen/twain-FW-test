@@ -2,12 +2,17 @@
 
 _Status: Structure scaffold aligned to hybrid episodic + macro spine_
 
-## Series Spine (Macro)
+## Series Spine (Macro, 10-book lock)
 - **Book 1:** Betrayal and survival break the illusion of command legitimacy.
 - **Book 2:** Squad builds independent operational doctrine while hunted.
 - **Book 3:** Information asymmetry war; expose contradictions in Consensus governance.
-- **Book 4:** Coalition politics (Belt factions, defectors, internal fractures).
-- **Book 5:** Contest for post-control order: what replaces Consensus and steward monopoly.
+- **Book 4:** Coalition politics and transition rupture (Phase I close).
+- **Book 5:** Emergency governance under collapse pressure; AI-seed custody conflicts begin.
+- **Book 6:** Earth foothold campaigns and institutional beachheads.
+- **Book 7:** Orbital chokepoint war (launch, queues, transfer lanes).
+- **Book 8:** Inner-system legitimacy and treaty contest.
+- **Book 9:** Outer-system settlement and spoiler suppression.
+- **Book 10:** Constitutional endgame and enforceable post-Consensus order.
 
 ---
 
@@ -32,7 +37,7 @@ A marine squad sent on a high-risk extraction realizes they were designed to die
 - Lin: intuition support -> mission-critical decision voice.
 
 ### Continuity Hook to Book 2
-Recovered payload includes partial archive proving strategic manipulation and class-tier medicine/compute controls.
+Recovered payload includes partial archive proving strategic manipulation and class-tier medicine/compute controls, plus a boxed **new AI seed/system** that re-weights every factional objective.
 
 ---
 
@@ -85,3 +90,27 @@ Not just overthrow question now—governance replacement question arrives before
 2. Every emotional breakthrough must change later tactical behavior.
 3. At least one core pair relationship should materially shift per book.
 4. Ending hooks should open exactly one dominant forward question, not many.
+
+---
+
+## Consequence Pass Addendum — Non-Reversible Arc Costs
+
+### Book 1 -> Book 2 Carryover Costs
+- Databank success brands squad as strategic threat, collapsing any plausible amnesty track.
+- Psychological corrosion from B1 lethal-call events reduces trust elasticity during B2 alliance negotiations.
+- Early proof chain forces adversaries to adopt witness-erasure doctrine sooner than planned.
+
+### Book 2 -> Book 3 Carryover Costs
+- Saving source/human bond asset over pure strategic optimization preserves conscience but burns covert channels.
+- Conditional Belt alliances create debt obligations callable at worst possible timings in B3.
+- Valerie restraint choices improve command reliability but increase internal pressure when facing brother-linked operations.
+
+### Book 3 -> Book 4 Carryover Costs
+- Evidence victories fracture monopoly legitimacy without producing immediate replacement institutions.
+- Counterintelligence war normalizes emergency measures across all sides, shrinking civil-liberty baseline entering transition.
+- Infrastructure-linked strikes degrade both regime control and civilian service confidence, raising reconstruction burden.
+
+### Book 4 -> Book 5 Carryover Costs
+- Coalition bargaining requires moral compromise records becoming public; leadership credibility is partially pre-spent before settlement implementation.
+- Anti-predation/security centralization tools needed for stabilization risk recreating smaller-scale versions of prior control abuses.
+- Any constitutional settlement that moves too fast triggers supply panic; too slow triggers militia entrepreneurship.
