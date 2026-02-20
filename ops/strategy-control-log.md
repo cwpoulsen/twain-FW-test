@@ -68,3 +68,18 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 1. Treat grep suite as mandatory pre/post wave gate.
 2. Require explicit triage classification for hits (policy/archive vs active canon violation).
 3. Close process drift immediately when authority pointers go stale (auditability first).
+
+## 2026-02-19T20:23-05:00 — Post-250k reconciliation framework locked (Wave 14 prep)
+
+### What changed
+- Added `ops/post-250k-reconciliation-framework-v1.md`.
+- Framework includes:
+  1. Final audit checklist
+  2. Lock verification matrix (execution form)
+  3. Contradiction triage workflow with severity/exit criteria
+  4. Pass-by-pass global cleanup order (Pass 0-8)
+
+### Enforcement posture
+1. Treat reconciliation as freeze-window operation with commit-auditable evidence output.
+2. Stop-line any unresolved L3/P0 contradictions before downstream passes.
+3. Close only when full regression (grep A-E + contradiction/domain gates) passes and logs are updated.
