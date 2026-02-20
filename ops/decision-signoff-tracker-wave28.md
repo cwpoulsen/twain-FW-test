@@ -2,7 +2,7 @@
 
 Date: 2026-02-20  
 Companion to: `ops/decision-ballot-pack-wave27.md` | Supersedes: `ops/unresolved-decisions-brief-wave26.md`
-Routing note (Wave 30): supporting decision execution tracker; primary decision-call route remains `ops/unresolved-decisions-brief-wave26.md` until explicit final signoff closure.
+Routing note (Wave 41): supporting decision execution tracker; active decision-call route is `ops/decision-quickfill-card-wave32.md`, signoff sequencing is `ops/decision-finalization-queue-wave33.md`, and final capture/apply route is `ops/decision-capture-sheet-wave36.md` (legacy `ops/unresolved-decisions-brief-wave26.md` retained for provenance/history only).
 
 Purpose: execution tracker for Wave 27 decision signoff items with explicit status, ownership, due-by dates, and impact tiers.
 
