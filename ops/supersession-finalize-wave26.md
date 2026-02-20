@@ -1,5 +1,8 @@
 # Supersession Finalize — Wave 26 (Consolidation-Only Step 1)
 
+Companion to: `ops/doc-merge-plan-wave25.md` (merge/archive staging), `ops/doc-routing-prune-wave27.md` (primary-route lock), and `ops/start-here-review-path.md` (active entry routes).
+Routing note (Wave 28): supporting metadata/supersession control log; primary review entry routes remain in `ops/start-here-review-path.md`.
+
 Date: 2026-02-20
 Scope: apply low-risk review-routing supersession/primary-route annotations to remaining overlapping ops guides.
 Constraint honored: **CANON LOCKS unchanged** (ops-layer metadata only; no canon-domain edits).

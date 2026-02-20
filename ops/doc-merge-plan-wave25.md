@@ -1,5 +1,8 @@
 # Doc Merge/Archive Plan — Wave 25
 
+Companion to: `ops/doc-map-dedupe-wave24.md` (overlap analysis), `ops/supersession-finalize-wave26.md` (metadata pass), and `ops/doc-routing-prune-wave27.md` (primary-route lock).
+Routing note (Wave 28): supporting merge/archive execution plan; primary review entry routes remain in `ops/start-here-review-path.md`.
+
 Date: 2026-02-20  
 Input basis: `ops/doc-map-dedupe-wave24.md` + latest strategy entry (`ops/strategy-control-log.md`, 2026-02-20T01:12-05:00).
 

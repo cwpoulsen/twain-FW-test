@@ -1,7 +1,8 @@
 # Decision Ballot Pack — Wave 27
 
 Date: 2026-02-20  
-Companion to: `ops/decision-queue-wave25.md` | Supersedes: `ops/unresolved-decisions-brief-wave26.md`
+Companion to: `ops/unresolved-decisions-brief-wave26.md` (primary decision-call route) and `ops/decision-queue-wave25.md` (analysis backlog).
+Routing note (Wave 28): supporting one-screen response form; primary decision-call route remains `ops/unresolved-decisions-brief-wave26.md`.
 
 **How to answer:** keep checked default, or switch to an alternative box.
 
