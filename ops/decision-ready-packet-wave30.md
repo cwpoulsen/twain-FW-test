@@ -2,7 +2,7 @@
 
 Date: 2026-02-20  
 Companion to: `ops/decision-ballot-pack-wave27.md`, `ops/strategy-control-log.md` (decision-first cadence, 2026-02-20T01:23-05:00)  
-Supersedes: `ops/decision-resolution-sheet-wave29.md`, `ops/decision-signoff-tracker-wave28.md`
+Supersedes: `ops/archive/review-routing-legacy/decision-resolution-sheet-wave29.md`, `ops/archive/review-routing-legacy/decision-signoff-tracker-wave28.md`
 
 Purpose: one-pass decision form for Chris. Fill the **Selected option** column only.
 

@@ -2,7 +2,7 @@
 
 Date: 2026-02-20  
 Companion to: `ops/decision-ready-packet-wave30.md`, `ops/decision-quickfill-card-wave32.md`, `ops/strategy-control-log.md` (2026-02-20T01:23-05:00 decision-first cadence)  
-Supersedes: `ops/decision-answers-template-wave31.md`
+Supersedes: `ops/archive/review-routing-legacy/decision-answers-template-wave31.md`
 
 Purpose: explicit signoff order for Chris this week, optimized for fastest closure while preserving gates.
 

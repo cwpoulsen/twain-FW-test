@@ -2,7 +2,7 @@
 
 Date: 2026-02-20  
 Companion to: `ops/decision-quickfill-card-wave32.md`, `ops/decision-finalization-queue-wave33.md`, `ops/strategy-control-log.md` (2026-02-20T01:23-05:00 decision-first cadence)  
-Supersedes: `ops/decision-answers-template-wave31.md`
+Supersedes: `ops/archive/review-routing-legacy/decision-answers-template-wave31.md`
 
 Purpose: chat-fast signoff script Chris can answer in one message (D-01..D-07), directly mappable to quickfill + finalization queue + commit targets.
 

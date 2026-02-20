@@ -34,5 +34,5 @@ Scope: review-routing docs from Waves 20–31 only; classify current role as **p
   `ops/reviewer-checklist-wave21.md`, `ops/handoff-briefing-wave23.md`, `ops/decision-ready-packet-wave30.md`, `ops/route-map-single-page-wave31.md`.
 - **Explicitly superseded chain in decision routing:**  
   `unresolved-decisions-brief-wave26.md` → `decision-resolution-sheet-wave29.md` → `decision-ready-packet-wave30.md` → `decision-answers-template-wave31.md` (now superseded by W32 quickfill card).
-- **Legacy recommendation executed as path-only (non-destructive):**  
-  `ops/unresolved-decisions-brief-wave26.md` is the only W20–W31 review-routing doc recommended for archive move at this stage.
+- **Archive move status (Wave 42):**  
+  Legacy/superseded decision docs were moved to `ops/archive/review-routing-legacy/` (W26/W28/W29/W31) while active decision surfaces remain W30/W32/W33/W36.
