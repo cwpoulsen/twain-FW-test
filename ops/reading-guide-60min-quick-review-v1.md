@@ -4,6 +4,8 @@ Date: 2026-02-19
 Audience: Chris  
 Goal: fastest high-signal read to confirm release readiness and remaining risk posture.
 
+Supersession note (Wave 25): this guide is retained as a legacy time-box variant. Primary routing now starts at `ops/start-here-review-path.md`, with current status in `ops/executive-summary-wave20.md` and action sequencing in `ops/handoff-briefing-wave23.md`.
+
 ## What “done” looks like in 60 minutes
 By the end of this pass, you should be able to answer:
 1. Is there any active P0/P1 contradiction blocker?  

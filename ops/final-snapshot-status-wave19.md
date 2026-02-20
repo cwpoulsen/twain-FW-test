@@ -3,6 +3,8 @@
 Date: 2026-02-19  
 Scope: final snapshot after Wave 18 expansion, including corpus size, recent commit phases, risk state, and authority docs.
 
+Supersession note (Wave 25): this file is a historical baseline snapshot (pre-W20 routing model). For current decisions and run order, use `ops/executive-summary-wave20.md`, `ops/start-here-review-path.md`, and `ops/handoff-briefing-wave23.md`.
+
 ---
 
 ## 1) Current Corpus Wordcount

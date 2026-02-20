@@ -4,6 +4,8 @@ Date: 2026-02-19
 Audience: Chris  
 Goal: full-coverage confidence pass across canon authority, causality spine, domain mechanics, and residual risk controls.
 
+Supersession note (Wave 25): this deep-review path is retained as a legacy variant. Primary route ownership is `ops/start-here-review-path.md`; use `ops/executive-summary-wave20.md` for current status and `ops/handoff-briefing-wave23.md` for next actions.
+
 ## Outcomes for end-of-day signoff
 By completion, you should be able to certify:
 1. Canon truth and sequence authority are internally consistent.

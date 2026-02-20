@@ -4,6 +4,8 @@ Date: 2026-02-19
 Audience: Chris review  
 Scope: Bible navigation and release-readiness indexing after post-250k reconciliation closeout.
 
+Supersession note (Wave 25): this is a historical Wave 17 RC index snapshot. For current routing, use `ops/start-here-review-path.md` (primary route), `ops/executive-summary-wave20.md` (status), and `ops/handoff-briefing-wave23.md` (action queue).
+
 ---
 
 ## 1) Reader Navigation Notes (Start Here)

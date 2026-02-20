@@ -4,6 +4,8 @@ Date: 2026-02-19
 Scope: Final practical review summary after post-250k reconciliation closeout.  
 Primary anchors: `ops/strategy-control-log.md`, `ops/release-candidate-index-pack-wave17-v1.md`, `ops/post250k-reconciliation-completion-status-2026-02-19.md`.
 
+Supersession note (Wave 25): retained as historical Wave 17 signoff context. Primary current-flow docs are `ops/start-here-review-path.md` (route), `ops/executive-summary-wave20.md` (status), and `ops/handoff-briefing-wave23.md` (decisions/actions).
+
 ---
 
 ## 1) What changed since ~200k (practical delta)
