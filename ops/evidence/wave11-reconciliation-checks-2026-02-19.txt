@@ -1,0 +1,13 @@
+Wave11 reconciliation evidence - 2026-02-19
+--- duplicate boilerplate scan
+--- canonical actor naming presence
+series/wave10-latency-coalition-justice-resilience-v1.md:4:- Canonical actors: Steward Directorate, Consensus Operations Complex, Earth Defense Fleet (EDF), Belt Municipal Compacts, Asterion League.
+series/wave10-latency-coalition-justice-resilience-v1.md:6:- Fabrication ladder lock: Class 4/3/2/1; Blackfly constrained Class 2, Asterion League fragile Class 1.
+canon/canon-ledger-v2.md:9:- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+canon/canon-ledger-v2.md:31:- **CORE:** Real authority = **Steward Directorate** ("Stewards of Earth" in internal shorthand; ministerial caucus and emergency boards hold actual firing authority).
+canon/canon-ledger-v2.md:66:- **CORE:** A Belt anti-Consensus coalition named the **Asterion League** has successfully created/fielded a Class 1 fabricator capability.
+canon/canon-ledger-v2.md:67:- **SOFT:** Full topology and replication depth of Asterion League Class 1 remains compartmented.
+canon/canon-ledger-v2.md:83:- **CORE:** The **Asterion League** provides anti-Consensus Belt actors with an institutional alternative to ad hoc resistance.
+canon/canon-ledger-v2.md:108:11. The Asterion League’s Class 1 breakthrough shatters monopoly certainty and starts multi-book sovereignty realignment.  
+canon/canon-ledger-v2.md:142:- **SOFT:** Asterion League internal governance: coalition, cell network, or proto-state.
+--- contradictions quick locks

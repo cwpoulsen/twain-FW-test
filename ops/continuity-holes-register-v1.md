@@ -100,3 +100,33 @@ Scope executed: added automated-style continuity guard docs (grep recipes, lock-
 - **Omniscient tracking:** no active omniscient-control assertions found; existing references are anti-omniscience guardrails.
 - **Low-g physics:** strengthened by adding series-level hard constraint; no conflicting Earthlike-combat rule found in active ops/canon constraints.
 - **Result:** No remaining P0/P1 contradiction introduced by this pass; residual risk is P2 legacy-language drift in provisional reservoir docs only.
+
+---
+
+## Wave 11 High-Volume Reconciliation Scan (2026-02-19)
+
+Scope executed: comprehensive reconciliation of newly added high-volume docs since commit `56c1998`, with focus on lock consistency, duplicate phrasing removal, nomenclature alignment, and contradiction residue cleanup.
+
+### Closed this pass
+- **W11-001 (Closed, P1 duplication drift):** mass duplicated boilerplate blocks in high-volume additions.
+  - Patched and de-duplicated:
+    - `canon/coalition-wartime-institutions-bible-v1.md`
+    - `factions/black-market-logistics-economics-dossier-v1.md`
+    - `locations/contested-lanes-haven-governance-atlas-v1.md`
+    - `ops/contested-lane-adjudication-protocols-v1.md`
+    - `series/refugee-governance-under-latency-series-framework-v1.md`
+- **W11-002 (Closed, P1 nomenclature lock consistency):** normalized Wave 10 actor/class lock framing to canon-ledger v2 authority set and Class 4/3/2/1 taxonomy.
+  - Patched: `series/wave10-latency-coalition-justice-resilience-v1.md`
+- **W11-003 (Closed, P1 residual contradiction risk):** removed repetitive templating that obscured section-specific causality, creating false appearance of policy contradiction across diplomacy/justice clusters.
+  - Patched: `series/wave10-latency-coalition-justice-resilience-v1.md`
+
+### Open / monitor
+- **W11-R1 (Open, P2 monitor):** reconciled docs are now concise and lock-clean but should receive future depth re-expansion with section-specific evidence examples (without reintroducing duplicate boilerplate).
+
+### Evidence
+- `ops/evidence/wave11-reconciliation-checks-2026-02-19.txt`
+
+### Result summary
+- No new P0/P1 canon contradiction detected in reconciled high-volume additions.
+- Duplicate phrase blocks removed from targeted files.
+- Canon lock nomenclature aligned to ledger v2 actor names and fabrication taxonomy.
