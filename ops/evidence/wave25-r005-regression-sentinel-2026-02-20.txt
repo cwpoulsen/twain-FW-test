@@ -1,0 +1,51 @@
+# Wave 25 R-005 Regression Sentinel - 2026-02-20
+
+Scope: scene packet authority docs (Books 1-4, 5-7, 8-10)
+Prior evidence baseline: ops/evidence/wave24-r005-gate-check-2026-02-20.txt
+Authority refs: ops/monitor-pack-wave21.md; ops/packet-doc-lint-checklist-v1.md; ops/continuity-holes-register-v1.md
+
+## ST-1 Template-lock block present
+PASS: series/scene-packets-books1-4-v1.md
+PASS: series/scene-packets-books5-7-bridge-v1.md
+PASS: series/scene-packets-books8-10-endgame-bridge-v1.md
+ST-1 RESULT: PASS
+
+## ST-2 Required field coverage count check
+series/scene-packets-books1-4-v1.md | packets=24 mission=24 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+series/scene-packets-books5-7-bridge-v1.md | packets=20 mission=20 objective=20 conflict=20 tactical=20 reality=20 emotional=20 consequence=20 refs=20
+series/scene-packets-books8-10-endgame-bridge-v1.md | packets=24 mission=24 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+ST-2 RESULT: PASS
+
+## ST-3 Required field order check
+PASS series/scene-packets-books1-4-v1.md
+PASS series/scene-packets-books5-7-bridge-v1.md
+PASS series/scene-packets-books8-10-endgame-bridge-v1.md
+ST-3 RESULT: PASS
+
+## ST-4 Lightweight packet lint checks (scripted + spot check)
+Checklist source: ops/packet-doc-lint-checklist-v1.md
+
+Scripted checks:
+- Reality gate row explicit-line pattern: PASS (series/scene-packets-books1-4-v1.md)
+- Reality gate row explicit-line pattern: PASS (series/scene-packets-books5-7-bridge-v1.md)
+- Reality gate row explicit-line pattern: PASS (series/scene-packets-books8-10-endgame-bridge-v1.md)
+- Continuity refs concrete-anchor proxy: PASS (series/scene-packets-books1-4-v1.md)
+- Continuity refs concrete-anchor proxy: PASS (series/scene-packets-books5-7-bridge-v1.md)
+- Continuity refs concrete-anchor proxy: PASS (series/scene-packets-books8-10-endgame-bridge-v1.md)
+- Realtime-command anti-pattern grep (perfect tracking / omniscience): PASS (0 hits)
+- Earthlike-combat anti-pattern grep (no-anchoring phrasing): PASS (0 hits)
+
+Manual spot checks (regression sentinel sampling):
+- Books 1-4 sampled packets B1-S01, B2-S04, B4-S05: required fields present/in canonical order; tactical constraints + layered consequence + concrete refs retained.
+- Books 5-7 sampled packets B5-S03, B6-S02, B7-S06: mission-chain anchor retained, low-g/lag constraints and consequence layering retained.
+- Books 8-10 sampled packets B8-S03, B9-S04, B10-S07: mission-chain anchor retained, bounded-certainty/reality rows and consequence layering retained.
+ST-4 RESULT: PASS
+
+## Comparison vs prior evidence (ops/evidence/wave24-r005-gate-check-2026-02-20.txt)
+- ST-1..ST-4 prior status: PASS/PASS/PASS/PASS
+- ST-1..ST-4 current status: PASS/PASS/PASS/PASS
+- Coverage counts unchanged from wave24 baseline (24/20/24 packet sets with matching required-field counts).
+- No new regressions detected.
+
+## Patch actions
+- No patches required; compliance remains intact.
