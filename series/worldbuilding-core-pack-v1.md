@@ -64,7 +64,7 @@ _Status: Discovery / provisional canon (coherence-annotated)_
   - isolating unlinked individuals,
   - obstructing congregation/networking,
   - making daily life economically and socially intolerable.
-- One sanctioned “escape valve” from civilian exclusion: enlist in the **Solar Defense Force** as a marine.
+- One sanctioned “escape valve” from civilian exclusion: enlist in the **Earth Defense Force (EDF)** as a marine.
 
 ## 7) Stagnation Definition (Locked Direction)
 
@@ -125,7 +125,7 @@ _Intent: codify what is common, restricted, stagnant, and strategically decisive
 - Fusion drive performance envelope: typical accel/decel profiles and Earth–Belt transit windows?
 - Chemical launch economics: reusable heavy lift or expendable mixed architecture?
 - Belt habitat tech maturity: spin gravity, radiation shielding, life-support redundancy standards?
-- Solar Defense Force marine stack: baseline kit, boarding doctrine, EVA combat assumptions?
+- Earth Defense Force (EDF) marine stack: baseline kit, boarding doctrine, EVA combat assumptions, and low-g anchoring/recoil doctrine?
 - Medical stratification: who gets molecular-fab meds, and under what political conditions?
 - Communications architecture: laser relays, delay-tolerant networking, and where censorship control points live?
 
@@ -283,7 +283,7 @@ _Intent: codify what is common, restricted, stagnant, and strategically decisive
   - rationing occurs covertly behind choice aesthetics.
 
 ### D) Narrative placement correction
-- Main plot is **off-Earth**, centered on an **Earth Defense Force Marine** squad.
+- Main plot is **off-Earth**; it opens with an **Earth Defense Force (EDF) marine** unit but rapidly transitions to a permanent post-EDF free-operator Blackfly crew.
 - Earth condition is primarily revealed through character memory rather than primary present-time setting.
 
 ### E) Marine coercion contract

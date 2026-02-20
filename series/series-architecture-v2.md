@@ -13,7 +13,7 @@ Humanity outsourced social stability to an intelligence system tuned for control
 
 ## 2) Scope and Narrative Lenses
 
-- Primary lens: EDF marine cohort forced into Belt warfront realities.
+- Primary lens: Blackfly’s permanent post-EDF free-operator cohort (with Book 1 opening from within their coerced EDF phase).
 - Secondary lens: command/intelligence architecture (Steward bureaucracy, Consensus mediation).
 - Tertiary lens: civilians in extraction habitats living at control-latency edges.
 
@@ -134,8 +134,9 @@ What governance architecture can preserve human agency without re-triggering civ
 1. No miracle hardware drops outside established fabrication classes.
 2. No FTL and no hand-waved latency bypass.
 3. Burn windows, fuel mass, comm delay, and maintenance debt must visibly shape decisions.
-4. Regime actors remain rational inside their doctrine; avoid cartoon-villain behavior.
-5. Every strategic gain must burn another variable (trust, resources, legitimacy, lives, or coalition cohesion).
+4. Small-body/low-g action must show anchoring, attitude control, and recoil/stability consequences (no Earthlike movement by default).
+5. Regime actors remain rational inside their doctrine; avoid cartoon-villain behavior.
+6. Every strategic gain must burn another variable (trust, resources, legitimacy, lives, or coalition cohesion).
 
 ---
 
