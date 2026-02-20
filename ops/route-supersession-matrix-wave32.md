@@ -19,13 +19,13 @@ Scope: review-routing docs from Waves 20–31 only; classify current role as **p
 | 26 | `ops/supersession-finalize-wave26.md` | supporting | Still active as supersession control reference for routing consolidation docs. | — |
 | 27 | `ops/decision-ballot-pack-wave27.md` | supporting | Input/support artifact for later decision packet forms; not the current top-level answer surface. | — |
 | 27 | `ops/doc-routing-prune-wave27.md` | supporting | Route-lock implementation record still referenced by route-map and consolidation docs. | — |
-| 28 | `ops/decision-signoff-tracker-wave28.md` | superseded | Explicitly superseded by `ops/decision-ready-packet-wave30.md`. | — |
+| 28 | `ops/decision-signoff-tracker-wave28.md` | superseded | Explicitly superseded by `ops/decision-ready-packet-wave30.md`. | `ops/archive/review-routing-legacy/decision-signoff-tracker-wave28.md` |
 | 28 | `ops/routing-consolidation-wave28.md` | supporting | Consolidation summary remains active support to route-map and prune lock docs. | — |
-| 29 | `ops/decision-resolution-sheet-wave29.md` | superseded | Explicitly superseded by W30 packet and later W31 template. | — |
+| 29 | `ops/decision-resolution-sheet-wave29.md` | superseded | Explicitly superseded by W30 packet and later W31 template. | `ops/archive/review-routing-legacy/decision-resolution-sheet-wave29.md` |
 | 29 | `ops/routing-archive-prep-wave29.md` | supporting | Current non-destructive archive-prep control doc; no direct superseding replacement in scope. | — |
 | 30 | `ops/decision-ready-packet-wave30.md` | primary | One-pass decision form and current structured decision surface feeding W31/W32 quick-answer layers. | — |
 | 30 | `ops/metadata-hygiene-audit-wave30.md` | supporting | Header/supersession hygiene reference for routing governance. | — |
-| 31 | `ops/decision-answers-template-wave31.md` | superseded | Explicitly superseded by `ops/decision-quickfill-card-wave32.md`. | — |
+| 31 | `ops/decision-answers-template-wave31.md` | superseded | Explicitly superseded by `ops/decision-quickfill-card-wave32.md`. | `ops/archive/review-routing-legacy/decision-answers-template-wave31.md` |
 | 31 | `ops/route-map-single-page-wave31.md` | primary | Current one-page routing map defining active review entry surfaces. | — |
 
 ## Consolidated notes
