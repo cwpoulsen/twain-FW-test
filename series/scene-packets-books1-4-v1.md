@@ -33,12 +33,12 @@ Reality gate row must explicitly assert: low-g anchoring/recoil discipline, comm
 **Conflict:** Hale must obey governor-bounded orders while Isaac shows route telemetry indicates a pre-plotted kill box. Valerie pushes for survival-first deviation; Lin warns that open refusal triggers lethal module audit.  
 **Tactical geometry:** Ceres→Pallas arbitration lane, **median geometry ~0.55 AU**, **Mode M2 / BC-B**. Transit leg estimate **~26 days**. One-way comm lag to Earth command **~4.6 min** at scene distance, enough for deniable command ambiguity. Cost: one reserve burn spent to drift-mask through ore clutter, reducing contingency delta-v for later escape.  
 **Reality gate row:** Anchoring/recoil discipline required; comm-latency-constrained command; finite logistics/fatigue carryover; bounded sensor confidence.
-**Emotional turn:** Hale pivots from institutional trust to conditional trust in squad telemetry after hearing command repeat a scripted casualty euphemism before impact data exists.  
+**Emotional turn:** Hale pivots from institutional trust to conditional trust in squad telemetry after hearing command repeat a scripted casualty euphemism before impact data exists—and realizing the sealed vault is a strategic **AI seed/system custody event**, not routine cargo.  
 **Consequence ledger:**
-- Immediate: Vault delivered, but squad copies route packet proving intentional exposure.
+- Immediate: Vault delivered, but squad copies route packet proving intentional exposure and quietly confirms seed custody.
 - Delayed: Command flags their behavior as “patterned hesitation,” increasing disposal probability.
 - Moral debt: They protected unseen civilians in theory while knowingly moving toward likely teammate deaths.
-**Continuity refs:** `ops/books1-4-mission-scenario-bank-v1.md` B1-01; timeline seq **0160–0170**; canon §§8,10; dependency map beat “B1 Betrayal + Escape.”
+**Continuity refs:** `ops/books1-4-mission-scenario-bank-v1.md` B1-01; timeline seq **0160–0170** CORE lock (AI seed first-scene acquisition); canon §§8,10; dependency map beat “B1 Betrayal + Escape.”
 
 ### Packet B1-S02 — Cold Drift Through a Nuclear Door
 **Mission seed:** B1-02 OP THREAD NEEDLE  
@@ -59,12 +59,12 @@ Reality gate row must explicitly assert: low-g anchoring/recoil discipline, comm
 **Conflict:** Nonlethal plan collapses when anti-personnel ambush appears in populated corridors. Hale’s restraint doctrine collides with Marko’s “win in 90 seconds or die” realism.  
 **Tactical geometry:** Station-internal action, but ingress/exfil is constrained by Blackfly orbit window tied to **Ceres local relay drift**. Exfil lane requires launch on a **favorable geometry slice** within 17 minutes or adds ~9 travel days to next safe dock. Burn class for exfil: **BC-B**. Comms lag creates legal fog—Earth cannot verify who fired first before official narrative hardens. Cost: ammo depletion and suit breaches consume reserves intended for med intercept operations.  
 **Reality gate row:** Anchoring/recoil discipline required; comm-latency-constrained command; finite logistics/fatigue carryover; bounded sensor confidence.
-**Emotional turn:** Hale secures the box and sees it is not just evidence: first metadata checks imply a **new AI seed/system**, converting guilt into strategic terror.  
+**Emotional turn:** Hale secures the box and sees it is not just evidence: the databank payload can **train/harden the already-held AI seed/system**, converting guilt into strategic terror.  
 **Consequence ledger:**
 - Immediate: Box secured; casualty count higher than planned.
-- Delayed: Team fractures over “we came for proof, left with blood and a civilization-grade payload.”
-- Moral debt: Possessing the seed forces custody decisions that can ignite wider war.
-**Continuity refs:** B1-04 seed; timeline seq **0180** CORE lock (AI seed); continuity patch **CP-005**; canon §§9,12.
+- Delayed: Team fractures over “we came for proof, left with blood and a civilization-grade training payload.”
+- Moral debt: Upgrading the seed forces custody/governance decisions that can ignite wider war.
+**Continuity refs:** B1-04 seed; timeline seq **0180** CORE lock (databank training/upgrade, not first acquisition); continuity patch **CP-005**; canon §§9,12.
 
 ### Packet B1-S04 — Twelve Hours of Harbor
 **Mission seed:** B1-05 OP QUIET ANVIL  
@@ -315,7 +315,7 @@ Reality gate row must explicitly assert: low-g anchoring/recoil discipline, comm
 - Immediate: Board survives first sabotage attempt; key rotation holds.
 - Delayed: Black markets surge where board delays urgent cases.
 - Moral debt: Fair process still triages lives under scarcity.
-**Continuity refs:** B4-03 seed; timeline **~0280**; canon §5 (Blackfly Class 2, Asterion Class 1 context), §10.
+**Continuity refs:** B4-03 seed; timeline **~0280**; canon §5 (Blackfly Class 2, Asterion fragile Class 1 context), §10.
 
 ### Packet B4-S04 — Boundary Code
 **Mission seed:** B4-04 OP BOUNDARY CODE  

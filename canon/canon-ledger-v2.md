@@ -104,7 +104,7 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 7. Distance latency frays centralized cognition and command confidence at the edge.  
 8. Marine coercion keeps frontier violence deniable but persistent.  
 9. Blackfly slips disposal protocol and gains strategic fabrication leverage (Class 2).  
-10. Blackfly acquires a new AI seed/system in the opening spec-ops extraction; the later databank raid supplies training and upgrade data, not first acquisition.  
+10. Blackfly acquires a new AI seed/system in the **first scene** (opening extraction); the later databank raid supplies training and upgrade data, not first acquisition.  
 11. The Asterion League’s Class 1 breakthrough shatters monopoly certainty and starts multi-book sovereignty realignment.  
 12. Conflict broadens into reconquest campaigns (Earth first, then wider solar governance settlement).
 
