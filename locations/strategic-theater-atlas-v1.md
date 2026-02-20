@@ -1,102 +1,86 @@
-# Stewards of Progress — Strategic Theater Atlas v1
+# Stewards of Progress — Strategic Theater Atlas v2
 
-Status: **Operational geography baseline**  
-Purpose: define where power works, where it fails, and why.
+Status: **Operational geography baseline (SOFT, canon-constrained)**  
+Purpose: define where governance has teeth, where it frays, and what each region does to campaign tempo.
+
+Cross-refs: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`, `timeline/master-timeline-sequence-v1.md`, `factions/freed-voider-bands-dossier-v1.md`
 
 ---
 
 ## 1) Earth Core Zone (ECZ)
 
-### Description
-Planetary governance center with dense link infrastructure, highest Consensus fidelity, and concentrated Steward administration.
+### Control Texture
+- Dense civic mesh, highest Consensus model confidence, shortest policy-to-enforcement loop.
+- Class-2 queue authority and legal harmonization functions concentrated here.
+- Media cadence optimized for “stability first,” with rapid narrative preemption.
 
-### Functional characteristics
-- Fastest policy-to-compliance loop in setting.
-- Highest concentration of Class 2 fabrication governance and distribution controls.
-- Strong narrative-conditioning saturation in public information environments.
-
-### Story use
-- Earth is mostly seen through memory, command traffic, propaganda artifacts, and consequence chains.
+### Story Pressure
+- Direct action is rare and costly; influence arrives as paperwork, denied access, and sanitized command traffic.
 
 ---
 
 ## 2) Cislunar Logistics Ring (CLR)
 
-### Description
-Orbital transfer and staging architecture connecting planetary launch systems to deep-space routes.
+### Control Texture
+- Throughput choke between launch dependency and deep-space fusion logistics.
+- Inspection lawfare, cargo provenance fights, and berth-priority manipulation are routine weapons.
+- Minor schedule slips propagate into Belt shortages within one to two convoy cycles.
 
-### Functional characteristics
-- Primary chokepoint between chemical launch dependence and fusion-drive freedom.
-- High military scrutiny due to strategic throughput importance.
-- Frequent congestion risk; schedule disruption can cascade to Belt shortages.
-
-### Story use
-- Ideal setting for contested inspections, covert cargo swaps, and loyalty tests inside procedural environments.
+### Story Pressure
+- Best region for procedural combat: custody disputes, forged manifests, and loyalty tests disguised as compliance checks.
 
 ---
 
-## 3) Inner System Transit Corridors
+## 3) Inner-System Transit Corridors
 
-### Description
-High-traffic lanes linking Earth-controlled logistics hubs to outbound industrial routes.
+### Control Texture
+- Heavily watched lanes with imperfect coverage at relay transition boundaries.
+- Convoy doctrine favors predictable cadence, enabling ambush windows for prepared adversaries.
+- FVB actors exploit maintenance windows, spoofed IDs, and escort fatigue patterns.
 
-### Functional characteristics
-- Tracking is robust but not total; spoofing opportunities exist near relay transition windows.
-- Convoy defense doctrine favors predictability, creating exploitable rhythm patterns.
-
-### Story use
-- Cat-and-mouse engagements where timing math matters more than raw firepower.
+### Story Pressure
+- Campaign outcomes often hinge on burn timing, sensor deception, and willingness to spend propellant now for survivability later.
 
 ---
 
 ## 4) Belt Industrial Arc (BIA)
 
-### Description
-Distributed extraction-refinement-habitation region containing diverse political forms and uneven infrastructure reliability.
+### Control Texture
+- Distributed extraction/refinement habitats under mixed legal regimes and uneven infrastructure maturity.
+- Politics are maintenance-driven: air, heat, hull, and medstock uptime outrank ideology in daily legitimacy.
+- Earth leverage operates through queue pressure, sanctions, and narrative framing rather than continuous direct command.
 
-### Functional characteristics
-- Multi-million residents under mixed legal regimes.
-- Life support and fabrication uptime dominate political bargaining.
-- Consensus influence fragmented by latency, outage, and local mediation layers.
-
-### Story use
-- Primary theater for coalition politics, survival economics, and factional recombination.
+### Story Pressure
+- Coalition building is inseparable from repair labor, convoy protection, and evidence credibility.
 
 ---
 
-## 5) Peripheral Habitats (PHZ)
+## 5) Peripheral Habitat Zones (PHZ)
 
-### Description
-Smaller, high-risk settlements at system edges with weaker security, thin margins, and adaptive governance norms.
+### Control Texture
+- Thin-margin settlements with brittle redundancy and high improvisation requirements.
+- Fast institutional experimentation; also high vulnerability to predatory rackets.
+- Reintegration policy success/failure is immediately visible in casualty and retention rates.
 
-### Functional characteristics
-- Rapid institutional innovation out of necessity.
-- Higher susceptibility to predatory actors.
-- Greater narrative diversity and less ideological synchronization.
-
-### Story use
-- Good arenas for moral ambiguity: protect autonomy or impose order to prevent collapse.
+### Story Pressure
+- Moral ambiguity is concrete: protect autonomy, or impose order before systems collapse.
 
 ---
 
 ## 6) Black Logistics Routes (BLR)
 
-### Description
-Unofficial transport paths using maintenance windows, sensor blind spots, forged transponder identities, and relay asymmetries.
+### Control Texture
+- Unofficial routes built from trust brokers, sensor blind spots, forged transponder ladders, and relay asymmetries.
+- Used by resistance, smugglers, and FVB operators alike; intent depends on custody and destination, not route alone.
 
-### Functional characteristics
-- Support resistance logistics and criminal trafficking simultaneously.
-- Reliability depends on trust brokers and technical specialists.
-
-### Story use
-- Recurring mechanism for impossible movement at steep risk/cost.
+### Story Pressure
+- Enables “impossible” movement at compounding risk: every successful run increases counter-surveillance adaptation.
 
 ---
 
-## 7) Strategic Geography Principles (Locked)
-
-1. Power density declines with distance from Earth core control mesh.  
-2. Material dependence does not equal ideological obedience.  
-3. Every stable habitat runs on maintenance competence, not slogans.  
-4. Transit chokepoints are political weapons.  
-5. Any faction that jeopardizes life support for symbolism loses local legitimacy quickly.
+## 7) Theater Principles (Locked)
+1. **Distance converts command into bargaining.**
+2. **Throughput chokepoints are political artillery.**
+3. **Life-support reliability beats slogan legitimacy.**
+4. **FVB disruption is ecological, not episodic; anti-piracy must hit recruitment funnels, not only hulls.**
+5. **No zone grants omniscience: every actor operates on stale, partial, or manipulated telemetry.

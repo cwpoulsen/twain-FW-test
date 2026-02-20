@@ -242,3 +242,70 @@ Tighten high-impact docs by removing repetition, sharpening ambiguous phrasing, 
 - `characters/character-interaction-pressure-tests-v1.md`: 2641 -> 2523 (**-118**)
 
 **Net across edited canon/series/tech/factions/characters docs:** **-95 words** (clarity gain via compression despite lock-propagation additions).
+
+---
+
+## 2026-02-19 — Targeted Weak-Section Refinement (Specificity/Voice/Coherence Debt, Wave 9)
+
+### Objective
+Identify and upgrade the weakest eight docs (highest placeholder density, generic diction, or coherence debt) without taxonomy drift or canon-lock breakage.
+
+### Strategy + Lock Guidance Applied
+- Applied Strategy Control Log latest entries: lock-header discipline, authority anchors, contradiction-check requirement, and FVB destabilizer integration.
+- Preserved locked assumptions:
+  - AI-seed/system acquisition split (opening extraction vs later databank provenance/training value)
+  - Asterion League naming + Belt-side Class 1 breakthrough
+  - Blackfly constrained Class 2 role
+  - 10-book reconquest gradient (no one-battle resolution)
+  - no-FTL/fusion-transit consequence discipline
+  - unknown-position probabilistic dragnet framing
+  - FVB treated as persistent agency-bearing destabilizer ecology
+
+### Weakest 8 Docs Refined
+1. `characters/marko-branik-character-bible-v1.md`
+2. `characters/lindsay-veil-character-bible-v1.md`
+3. `characters/isaac-beckham-character-bible-v1.md`
+4. `locations/strategic-theater-atlas-v1.md`
+5. `series/books1-4-mission-bank-integration-notes-v1.md`
+6. `series/antagonist-learning-loops-and-escalation-branches-books1-4-v1.md`
+7. `timeline/books1-10-strategic-reconquest-map-v1.md`
+8. `factions/major-factions.md`
+
+### Rationale Pattern Used
+1. **Placeholder -> operational behavior:** replaced TBD-heavy framing with scene-usable action fingerprints and failure modes.
+2. **Abstract -> mechanism:** converted broad claims into concrete enforcement mechanics (queue warfare, cadence, custody, branch triggers).
+3. **Voice sharpening:** shifted phrasing toward war-bible diction (timing, signatures, survivability, coercive process).
+4. **Coherence anchoring:** added explicit authority cross-refs and contradiction triggers in-doc.
+
+### Before/After Examples
+1. **Character specificity (Marko)**
+   - Before: “Open Placeholders (TBD) … specific loadout/weakness/arc target.”
+   - After: explicit mechanical-veto authority, stress triggers, scene fingerprints, and Books 1–4 arc spine.
+   - Effect: removes template feel; increases deployable scene consistency.
+
+2. **Character voice clarity (Veil)**
+   - Before: broad “dreamy shield-maiden mind” + unresolved shield placeholder.
+   - After: dual-register voice model, time-band decision horizons, concrete stress-recovery behavior.
+   - Effect: preserves concept while grounding in tactical procedure.
+
+3. **Mission integration coherence**
+   - Before: generic seed-selection guidance.
+   - After: rejection tests for canon breaks (miracle wins, omniscience, FVB episodic misuse, zero-cost success).
+   - Effect: lowers downstream continuity debt during scene drafting.
+
+4. **Timeline arc precision (Books 1–10 map)**
+   - Before: single “primary arc function” line per book.
+   - After: added dominant campaign-cost column, contradiction triggers, and class-path continuity language.
+   - Effect: strengthens causality and prevents reconquest hand-waving.
+
+### Contradiction-Check Summary
+- **Fabricator taxonomy drift (Class 4/3/2/1):** none introduced.
+- **Faction naming drift (Asterion League):** none introduced.
+- **AI-seed acquisition/databank timing split:** preserved.
+- **Arc horizon drift (10-book reconquest):** preserved.
+- **Transit realism/no-FTL envelope drift:** preserved.
+- **Pursuit omniscience drift:** guarded against (probabilistic dragnet language retained).
+- **FVB handling drift:** improved (persistent ecology + recruitment-funnel logic propagated).
+
+### Net Outcome
+The selected eight docs now read as operationally specific and voice-consistent while staying inside locked canon taxonomy and continuity constraints.

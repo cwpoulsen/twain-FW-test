@@ -1,82 +1,72 @@
-# Private Lindsay "Lin" Veil — Character Bible v1 (Working)
+# Private Lindsay "Lin" Veil — Character Bible v2 (Specificity Pass)
 
 ## Snapshot
 - **Name:** Private Lindsay "Lin" Veil
-- **Role:** Sensor/astrogation specialist; threat-intuition partner to John Hale
-- **Core Hook:** A dreamy shield-maiden mind inside a hard warfighter body—she reads danger before others and helps the team find exits under pressure.
-- **Status:** **In progress** (intentional placeholders retained)
+- **Role:** Sensors + astrogation lead; anomaly detection and escape-vector design
+- **Core Hook:** She sees pattern break before anyone else and pays for that gift by feeling everyone’s fear as if it were hers.
+- **Status:** Canon-aligned working anchor
 
 ---
 
-## Current Crew Function (Locked)
+## Operational Identity
 
-### Operational Role
-- Shipboard **sensors lead** as soon as team transitions to free operations.
-- High-end mathematical processing + astrogation competence.
-- Reads enemy intent from movement/positioning patterns.
-- Calls out anomalies, subtle mismatches, and likely failure modes others miss.
-- Strong anti-groupthink asset in planning and execution.
+### Functional Role on Blackfly
+- Owns passive/active sensor fusion during approach, burn, and disengagement windows.
+- Builds rapid “threat-shape” reads from tiny inconsistencies (thermal bloom delay, transponder cadence mismatch, impossible stationkeeping drift).
+- Produces maneuver recommendations in time bands (15 sec / 90 sec / 5 min decision horizons).
 
-### Hale/Vale Tactical Pairing
-- **Vale sees it early.**
-- **Hale turns it into action.**
-- She identifies exits and threat trajectories; he converts those reads into maneuvers/orders.
-
-### Combat Posture
-- Fearless in contact.
-- Willingly places herself in danger to protect teammates.
-- Shield-maiden framing is active concept (literal shield implementation TBD).
+### Hale/Veil Combat Pairing
+- **Veil predicts shape and timing of danger.**
+- **Hale commits force and command intent.**
+- Pair works when Hale treats her calls as early-warning data, not anxiety.
 
 ---
 
-## Psychological Profile (Locked for now)
+## Psychological Profile
 
 ### Strengths
-1. **Pattern Intuition Under Fire** — strong rapid synthesis of motion, context, and intent.
-2. **Protective Instinct** — naturally team-preserving orientation.
-3. **Independent Judgment** — resistant to consensus drift/groupthink.
-4. **Thinker + Dreamer Duality** — strategic imagination plus technical precision.
+1. **Pattern foresight under uncertainty** — detects hostile intent before full confirmation.
+2. **Protective cognition** — naturally tracks who is most exposed in every maneuver.
+3. **Anti-groupthink pressure** — flags comforting narratives that contradict telemetry.
+4. **Dual-register communication** — can switch from empathic crew language to hard tactical brevity instantly.
 
-### Weaknesses / Failure Modes (Current Best Set)
-1. **Emotional Overcoupling** — absorbs crew emotional states; weak self/other boundary under stress.
-2. **Compulsive Harmony-Seeking** — extreme people-pleasing can suppress timely hard truths.
-3. **Misplaced Emotional Accountability** — carries guilt/conflict that does not belong to her.
-4. **Strife-Induced Drift** — prolonged crew tension degrades focus/mood/decision confidence.
-
----
-
-## Dialogue / Social Register
-- Early book: formal military address conventions dominate (e.g., **Private Veil**).
-- As crew bond deepens, decorum and military terminology should gradually soften.
-- Lin’s voice should carry contrast: soft imaginative language in private moments, sharp technical clarity in tactical moments.
+### Weaknesses / Failure Modes
+1. **Emotional overcoupling** — absorbs team tension and loses cognitive bandwidth.
+2. **Harmony reflex** — delays hard dissent to keep cohesion.
+3. **False responsibility load** — self-blames for outcomes outside her control.
+4. **Strife bleed-through** — prolonged internal conflict reduces confidence in her own correct reads.
 
 ---
 
-## Character Design Placeholders (Intentional)
+## Voice Anchors
+- Private voice: lyrical/metaphoric when safe, often framing trajectories as weather or current.
+- Tactical voice: clipped and numerical (“contact delta +12 sec, port burn now, no debate”).
+- Under stress: asks one clarifying question, then gives a direct recommendation.
 
-### Backstory (TBD)
-- **Constraint:** backstory must support established crew role and weakness profile, not replace or override them.
-- Placeholder questions:
-  - What made her so good at pattern detection and astrogation?
-  - Where did hyper-empathy/people-pleasing survival behavior originate?
-  - What prior relationship model shaped her shield/protector identity?
+---
 
-### Literal Shield Concept (TBD)
-- Decide whether she carries:
-  - [ ] ballistic breacher shield
-  - [ ] modular deployable cover system
-  - [ ] symbolic/nonliteral “shield” only
-- If literal, define realistic tactical constraints and tradeoffs.
+## Scene-Usable Behavioral Fingerprints
+- Marks three exit options on every map even when mission doctrine assumes one route.
+- Calls out “comfort assumptions” in planning briefs.
+- During conflict, physically positions herself between most volatile teammates.
+- When overwhelmed, focuses on instrument cadence counting to recover decision clarity.
 
-### Crew-Drama Function (TBD refinement)
-- Current direction: internal strife affects her disproportionately, creating both warning sensitivity and emotional fragility.
-- Need final mechanism for how this drives turning points (planning conflict, mission outcomes, relationship beats).
+---
 
-### Arc Spine (Book 1+) (TBD)
-- Draft goal: integrate compassion + boundaries without flattening empathy.
-- Need explicit phase beats and decision tests.
+## Arc Spine (Books 1–4)
+- **B1:** Establishes credibility through accurate threat reads that avert losses.
+- **B2:** Internalizes crew fractures and hesitates once at a critical branch, producing real cost.
+- **B3:** Learns boundary discipline: care without carrying everyone.
+- **B4:** Uses empathy as command asset—names emotional state and tactical consequence in same breath.
+
+---
+
+## Constraints + Continuity Notes
+- Do not turn intuition into mysticism; every correct call must map to observable pattern inputs.
+- Keep her fearlessness physical and her vulnerability relational.
+- Preserve no-FTL burn/comms limits: her solutions are geometry, timing, and discipline—not miracle sensing.
 
 ---
 
 ## Working Character Thesis
-Private Lindsay "Lin" Veil is the team’s early-warning conscience and tactical sensor mind: she can see danger and exits before anyone else, but her extreme empathy and need to hold everyone together can turn crew conflict into her own battlefield.
+Lin Veil is the unit’s living early-warning radar: she protects people by seeing the fracture line first, then learning that protection requires boundaries as much as bravery.

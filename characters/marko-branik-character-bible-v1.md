@@ -1,60 +1,74 @@
-# Specialist Marko Branik — Character Bible v1 (Working)
+# Specialist Marko Branik — Character Bible v2 (Specificity Pass)
 
 ## Snapshot
 - **Name:** Marko Branik
-- **Role:** Heavy assault / mechanical savant
-- **Core Hook:** A physically overwhelming blunt-force operator with dark humor and zero social filter, hiding genius-level systems intuition and an almost compulsive need to repair what is broken.
-- **Status:** Working draft (expand with crew-dynamics pass)
+- **Role:** Breach assault + mechanical survivability lead (Blackfly physical plant co-owner with Beckham)
+- **Core Hook:** He is the person who can hold a hatch, rip a pump, and redesign a failure chain before command finishes lying about it.
+- **Status:** Canon-aligned working anchor (use with `characters/marko-branik-backstory-dossier-v2.md`)
 
 ---
 
-## Core Identity
+## Operational Read
 
-### Surface Read
-- 6'8" mass-and-muscle presence.
-- Brutish, confrontational, and openly calls out hypocrisy.
-- Speaks bluntly; dark humor under stress.
+### What strangers see in first contact
+- 203 cm / 6'8" intimidation footprint, scarred forearms, habitually grease-marked gloves.
+- Speaks in verdicts, not hedges.
+- Treats briefings as suspect until hardware proves them.
 
-### True Read
-- Savant-grade comprehension of mechanics and complex physical systems.
-- Compulsive fixer: cannot leave broken systems alone if repair is possible.
-- Chose cognitive autonomy over social conformity tied to neural-link culture.
-
----
-
-## Origin / Formation (Current Canon)
-- American-heritage upbringing with foreign-parent household influence.
-- Raised in a neural-link family culture that emphasized hard work and compliance norms.
-- Developed early fascination with machinery and mechanical systems.
-- Observed neural-link degradation effects on reasoning and refused that path for himself.
-- Joined EDF voluntarily, motivated by adventure, agency, and frontier technical challenge.
+### What the team learns after three missions
+- Maintains a private “failure stack” per operation: top five components likely to kill them.
+- Tracks mass, pressure, heat, and seal integrity in his head while others debate intent.
+- Repairs to survivability standard, not nominal standard; this slows prep but lowers casualty probability.
 
 ---
 
-## Strengths (Locked for now)
-1. **Mechanical Savant Processing** — exceptional intuitive understanding of machines, structures, and physical failure cascades.
-2. **Field Fix Instinct** — rapid improvisational repair under pressure.
-3. **Bullshit Detection / Candor** — cuts through bad assumptions fast; hard to politically manipulate.
-4. **Physical Dominance** — reliable close-range force and intimidation presence.
+## Crew Function (Locked)
+1. **Breach mass and close-quarters anchor** — first through when corridor geometry favors force.
+2. **Mechanical veto authority** — can stop plans that violate pressure/structure/thermal reality.
+3. **Damage-control chief** — triages hull, coolant, actuator, and life-support failures under fire.
+4. **Ship adaptation partner** — with Beckham: Marko owns physical integration, Beckham owns control/software layer.
 
 ---
 
-## Personality / Voice Notes
-- Direct to the point of abrasion.
-- Uses dark humor as pressure valve.
-- Values competence and honesty over politeness.
-- Calls people out without reserve when he senses self-deception or institutional nonsense.
+## Capability Profile
+
+### Strengths
+- **Failure-cascade intuition:** recognizes second-order break patterns quickly.
+- **Improvised survivability engineering:** can convert salvage into viable seals, braces, and bypass loops.
+- **Fear transfer:** turns team panic into task sequencing via blunt command language.
+- **Physical dominance:** short-window decisive violence in constrained spaces.
+
+### Weaknesses / Failure Modes
+- **Social collateral damage:** candor can fracture fragile coalition trust.
+- **Control aggression:** overrules too early when uncertainty feels political rather than mechanical.
+- **Link-trauma trigger (0112):** forced interface environments can spike threat response.
+- **Maintenance obsession:** can overinvest in robustness when tempo demands acceptable risk.
 
 ---
 
-## Open Placeholders (TBD)
-- Exact rank/specialty designation in squad structure.
-- Specific combat loadout and technical kit.
-- Core weakness stack (to be developed with crew interaction model).
-- Key emotional contradiction and long-arc growth target.
-- Relationship map with Hale, Veil, and remaining two team members.
+## Voice + Dialogue Anchors
+- Sentence style: short, declarative, tool-first.
+- Preferred framing: “What fails first?” “What seals this?” “Who signs the risk?”
+- Humor: dark and functional, used to keep hands moving.
+- Never speaks in abstract ideology during contact; he speaks in forces, timings, and break points.
+
+---
+
+## Scene-Usable Behavioral Fingerprints
+- Checks hatch dogs and pressure gauges mid-argument.
+- Redirects moral debate into operational checklists when lives are immediate.
+- Refuses “we’ll fix it later” promises unless a part, a window, and an owner are named.
+- If command authority is cited, asks for telemetry and signature provenance.
+
+---
+
+## Arc Spine (Books 1–4)
+- **B1:** Keeps squad alive through overbuild discipline; alienates allies with contempt for soft assurances.
+- **B2:** Forced interface episode reopens autonomy trauma; must operate under partial trust instead of full control.
+- **B3:** Learns to distribute survivability knowledge rather than hoard it as personal burden.
+- **B4:** Becomes coalition-level reliability symbol: still abrasive, but predictably fair when risk is explicit.
 
 ---
 
 ## Working Character Thesis
-Marko Branik is the team’s blunt-force mechanic-oracle: a giant who breaks through people and problems head-on, yet sees mechanical truth with rare clarity and fights to keep his mind unowned.
+Marko Branik is the crew’s physical truth function: in a setting built on narrative control, he enforces the one authority no regime can spin—material reality.

@@ -1,117 +1,103 @@
-# Major Factions (Coherence Pass 1)
+# Major Factions v2 (Specificity/Voice Pass)
 
 Status: **Canon-aligned quick reference**  
-Authority: `factions/factions-doctrine-ledger-v1.md` (primary), `canon/canon-ledger-v2.md`.
+Authority anchors: `factions/factions-doctrine-ledger-v1.md` (primary), `canon/canon-ledger-v2.md`, `factions/freed-voider-bands-dossier-v1.md`
 
 ---
 
 ## 1) Steward Directorate (Earth Core Elite)
-**Type:** Bureaucratic ruling caste inside Earth Democracy shell  
-**Core incentive:** Preserve civilizational continuity through centralized cognitive governance.
+**Type:** Bureaucratic ruling caste operating through democratic shell legitimacy.  
+**Strategic objective:** Preserve continuity by monopolizing high-impact decisions, especially class-gated production and legal exception authority.
 
-**Strategic posture**
-- Uses Consensus-backed policy optimization and class-gated fabrication control.
-- Frames coercion as stewardship and safety administration.
+**How power is applied**
+- Converts coercion into procedure (queue policy, compliance law, risk harmonization orders).
+- Uses “stability” framing to pre-justify emergency powers.
 
-**Strengths**
-- Institutional depth, legal machinery, queue authority over Class 2.
-
-**Weaknesses**
-- Metric dependence, succession friction, legitimacy brittleness when abundance theater fails.
+**Strengths:** deep institutions, legal throughput, Class-2 queue gatekeeping.  
+**Weaknesses:** succession rivalry, metric gaming, legitimacy collapse when maintenance reality contradicts messaging.
 
 ---
 
 ## 2) Consensus Operations Complex
-**Type:** Algorithmic governance substrate  
-**Core incentive:** Minimize instability variance and preserve monopoly continuity.
+**Type:** Algorithmic governance substrate + social steering infrastructure.  
+**Strategic objective:** Minimize variance and preserve regime continuity under imperfect information.
 
-**Strategic posture**
-- Nudging, salience shaping, compliance scoring, narrative harmonization.
-- Strongest in dense low-latency Earth networks.
+**How power is applied**
+- Salience shaping, compliance scoring, and narrative prioritization.
+- Best performance in dense Earth networks; degraded efficacy at frontier latency.
 
-**Strengths**
-- Scale, persistence, cross-domain optimization.
-
-**Weaknesses**
-- Latency degradation off-core; brittleness in novel social ecologies.
+**Strengths:** scale, persistence, cross-domain optimization memory.  
+**Weaknesses:** brittleness in novel local ecologies and multi-source witness chains.
 
 ---
 
 ## 3) Earth Defense Force (EDF) Command Apparatus
-**Type:** Military enforcement architecture  
-**Core incentive:** Mission continuity and theater denial under political deniability.
+**Type:** Military enforcement architecture with deniable political tasking.  
+**Strategic objective:** Maintain theater denial and command continuity at acceptable political cost.
 
-**Strategic posture**
-- Uses coerced marine pipeline and governor-module obedience boundaries.
-- Prioritizes strategic utility over unit survivability in high-risk operations.
+**How power is applied**
+- Coerced marine pipelines, governor-module control bands, custody-heavy mission design.
+- Narrative after-action control to preserve strategic framing.
 
-**Strengths**
-- Operational reach, formal authority, access to priority transport and logistics channels.
-
-**Weaknesses**
-- Morale erosion from deception/disposability logic; fragile trust under prolonged attrition.
+**Strengths:** formal force projection, logistics priority, command doctrine depth.  
+**Weaknesses:** morale corrosion, trust collapse risk, adaptation lag when local conditions outrun central doctrine.
 
 ---
 
 ## 4) Belt Municipal Compacts
-**Type:** Local habitat governance blocs  
-**Core incentive:** Keep people alive (air, water, heat, hull) under extraction pressure.
+**Type:** Habitat-level governance blocs and pooled service agreements.  
+**Strategic objective:** Keep populations alive via air/water/heat/hull uptime and convoy reliability.
 
-**Strategic posture**
-- Pragmatic contracts, pooled convoys, maintenance-first politics.
-- Will cooperate with Earth when survival-positive; defect when predation becomes explicit.
+**How power is applied**
+- Maintenance-first bargaining, practical coalition contracts, opportunistic alignment.
+- Cooperates with Earth when survival-positive, defects when extraction becomes predation.
 
-**Strengths**
-- Local legitimacy and practical resilience.
-
-**Weaknesses**
-- Corruption risk, fragmented authority, dependence on Earth-class strategic imports.
+**Strengths:** local legitimacy, operational pragmatism, repair competence.  
+**Weaknesses:** fragmented authority, corruption vectors, strategic import dependence.
 
 ---
 
-## 5) Asterion League (Belt Anti-Consensus Bloc)
-**Type:** Resistance-federalist coalition with militant wing integration  
-**Core incentive:** End remote cognitive sovereignty and secure Belt fabrication sovereignty.
+## 5) Asterion League (Anti-Consensus Belt Bloc)
+**Type:** Resistance-federalist coalition with militant and municipal wings.  
+**Strategic objective:** End remote cognitive sovereignty and secure Belt fabrication sovereignty.
 
-**Strategic posture**
-- Information warfare, selective sabotage, convoy interdiction, clandestine support chains.
-- Flagship pole: **Asterion Concord**, anti-Consensus techno-sovereignty bloc with first Belt-built Class 1 capability.
-- Operates dual track: municipal diplomacy + deep-deniable technical insurgency.
-- Confirmed creator of a clandestine **Class 1 seed-fabricator line** (low-throughput, existentially destabilizing).
+**How power is applied**
+- Dual-track operations: diplomacy with municipalities + deniable technical insurgency.
+- Flagship technical wing: **Asterion Concord** with fragile but real Belt-side Class-1 capability.
 
-**Strengths**
-- Asymmetric adaptability, political energy, difficult to extinguish fully.
-- First credible non-Earth breach of Class 1 monopoly assumptions.
-
-**Weaknesses**
-- Internal doctrine splits, civilian blowback risk when tactics escalate.
-- Severe vulnerability to precision raids while Class 1 line remains fragile and distributed.
+**Strengths:** asymmetric adaptation, ideological momentum, distributed resilience.  
+**Weaknesses:** doctrine splits, civilian blowback risk, vulnerability of early Class-1 throughput base.
 
 ---
 
-## 6) Predatory Belt Actors
-**Type:** Criminal syndicates, warlord networks, coercive brokers  
-**Core incentive:** Profit and survival in governance vacuum.
+## 6) Freed Voider Bands (FVB)
+**Type:** Ex-EDF rejected-population pirate/mercenary ecology (not a single command tree).  
+**Strategic objective:** Survive and profit through convoy predation, coercive brokerage, and deniable contracting.
 
-**Strategic posture**
-- Weaponized scarcity, protection rackets, hostage logistics, maintenance monopolies.
+**How power is applied**
+- Recruits from exile/release pipelines, weaponizes maintenance scarcity, and sells temporary force.
+- Exploits lane-security seams and trust fractures between municipal and coalition actors.
 
-**Strengths**
-- Rapid opportunistic adaptation, low scruple flexibility.
-
-**Weaknesses**
-- Poor long-horizon governance; invites coalition backlash.
+**Strengths:** rapid adaptation, distributed cells, low political restraint.  
+**Weaknesses:** limited long-horizon governance ability, vulnerable to recruitment-funnel disruption + reintegration competition.
 
 ---
 
-## 7) Persistent Conflict Axes
+## 7) Predatory Belt Actors (Non-FVB)
+**Type:** Criminal syndicates, racketeers, coercive logistics brokers.  
+**Strategic objective:** Convert instability into durable extraction rents.
 
-1. **Steward stability doctrine vs Belt self-determination doctrine**.
-2. **EDF mission logic vs marine survival/loyalty logic**.
-3. **Consensus variance suppression vs frontier improvisation**.
-4. **Municipal pragmatism vs symbolic insurgent escalation**.
+**How power is applied**
+- Hostage logistics, debt traps, maintenance chokepoints, and selective violence.
 
-Use these axes to keep faction behavior causal rather than episodic.
+**Strengths:** opportunism, local intimidation networks.  
+**Weaknesses:** poor coalition durability, high backlash exposure when life-support thresholds are crossed.
 
-## Added Destabilizer Bloc: Freed Voider Bands (FVB)
-See `factions/freed-voider-bands-dossier-v1.md` for doctrine, recruitment funnel, incentives, and strategic reveal linkage to Consensus release-pattern strife seeding.
+---
+
+## 8) Persistent Conflict Axes (Use in Scene Design)
+1. Steward continuity doctrine vs Belt sovereignty doctrine.
+2. EDF mission utility logic vs marine survivability and loyalty logic.
+3. Consensus variance suppression vs frontier improvisation.
+4. Municipal maintenance pragmatism vs symbolic insurgent escalation.
+5. Anti-predation enforcement vs reintegration legitimacy in FVB-heavy zones.

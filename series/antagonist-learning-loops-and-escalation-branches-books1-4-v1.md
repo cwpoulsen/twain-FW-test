@@ -1,45 +1,54 @@
-# Series-Level Antagonist Learning Loops & Escalation Branches (Books 1–4) v1
+# Series-Level Antagonist Learning Loops & Escalation Branches (Books 1–4) v2
 
-## Series Arc Lens
-Antagonists move from reactive suppression (Book 1) to codified adaptive warfare (Book 4). Their strategic maturation tracks protagonist operational diversity.
+## Arc Lens
+Antagonists evolve from reactive suppression to pre-positioned adaptation. Their growth rate is constrained by transit latency, institutional rivalry, and evidence legitimacy—not villain omniscience.
+
+---
 
 ## Book-by-Book Adaptation Cadence
 
-| Book | Protagonist Pressure Pattern | Antagonist Learning Stage | Cadence Signature | Net Effect on Series Tension |
+| Book | Protagonist pressure pattern | Antagonist learning stage | Cadence signature | Net series effect |
 |---|---|---|---|---|
-| Book 1 | Novel, asymmetrical strikes | Shock + Pattern Detection | Fast panic, slow synthesis | Heroes gain initiative windows |
-| Book 2 | Repeated mixed-method ops | Doctrine Patch | Countermeasures start appearing within same act | Mid-book reversals increase |
-| Book 3 | Multi-cell, cross-domain campaigns | Cross-Faction Fusion | Shared playbooks and pooled intelligence | Cat-and-mouse equilibrium |
-| Book 4 | High-visibility strategic confrontations | Strategic Overcorrection + Totalization | Counterplay pre-positioned before hero action | Initiative becomes contested every cycle |
+| Book 1 | Novel asymmetric extraction + survival play | Shock + taxonomy build | Fast panic orders, slow doctrinal coherence | Heroes buy initiative by being unfamiliar |
+| Book 2 | Repeat mixed-method ops with provenance war | Doctrine patching | Countermeasures appear within one act on known vectors | Mid-book reversals become common |
+| Book 3 | Multi-cell coalition operations | Cross-faction fusion | Shared watchlists and pooled deniable assets | Tactical equilibrium, strategic volatility |
+| Book 4 | High-visibility governance contests | Preemption + overcorrection | Counterplay staged before likely hero move | Initiative contested on every cycle |
 
-## Operation-Type Learning Loops Across the Series
+---
 
-| Operation Type | Book 1 Adversary Behavior | Book 2 Shift | Book 3 Shift | Book 4 End-State |
+## Learning Loops by Operation Type
+
+| Operation type | B1 behavior | B2 shift | B3 shift | B4 end-state |
 |---|---|---|---|---|
-| Covert infiltration | Security sweeps after breach | Layered access audits | Counter-infiltration traps | Pre-breach predictive interdiction |
-| Influence / persuasion ops | Dismiss as rumor | Message discipline + denials | Counter-messaging farms | Full-spectrum narrative battlespace |
-| Tech-enabled disruption | Emergency patching | Red-team procurement | Sensorized kill chain defenses | Autonomous anomaly response cells |
-| Legal maneuvering | Procedural delays | Offensive injunction strategy | Jurisdictional weaponization | Parallel legal reality (exception regime) |
-| Coalition expansion | Threaten edge members | Buy-outs and coercive bargains | Deep fake split campaigns | Continuous alliance poisoning doctrine |
+| Covert infiltration | Post-breach sweeps | Layered access audits | Counter-infiltration traps | Predictive interdiction prep |
+| Influence/provenance ops | Dismiss as rumor | Message discipline + denial kits | Counter-messaging farms + forged corroboration | Continuous narrative battlespace |
+| Fabrication disruption | Emergency patch and blame | Procurement red-teaming | Queue warfare + inspection-lawfare coupling | Throughput denial doctrine at scale |
+| Legal maneuvering | Procedural delay | Offensive injunction play | Jurisdiction shopping as weapon | Exception-regime normalization |
+| Coalition expansion | Threaten edge members | Buyout/coercion packages | Deepfake split campaigns | Standing anti-coalition poisoning cells |
 
-## Escalation Branch Map (Series Continuity)
+---
 
-| Branch | Entry Condition | Typical Tactics | Protagonist Opportunity | Carry-Forward Consequence |
+## Escalation Branches (Continuity Map)
+
+| Branch | Entry condition | Typical antagonist tactics | Protagonist opportunity | Carry-forward consequence |
 |---|---|---|---|---|
-| Branch A: Quiet Suppression | Localized protagonist win | Disappear evidence, bribe officials | Preserve witnesses early | Drives stealth tone in next arc |
-| Branch B: Spectacle Deterrence | Public embarrassment of antagonist | Public trials, raids, confiscations | Turn repression into recruitment | Raises civilian-stakes baseline |
-| Branch C: Social Fragmentation | Protagonists build broad alliances | Infiltrate partner orgs, forged splits | Build trust-verification rituals | Forces internal security subplot |
-| Branch D: Exceptional Rule | Antagonists perceive existential threat | Emergency powers, mercenary deputization | Expose legal illegitimacy at scale | Sets endgame legitimacy collapse |
+| A — Quiet Suppression | Localized hero win | Evidence disappearance, targeted intimidation | Preserve witnesses early | Next arc skews stealth and paranoia |
+| B — Spectacle Deterrence | Public antagonist embarrassment | Raids, show trials, high-visibility confiscation | Convert repression into recruitment | Civilian risk baseline rises |
+| C — Social Fragmentation | Coalition momentum visible | Partner infiltration, forged schisms | Build trust-verification rituals | Internal security consumes tempo |
+| D — Exceptional Rule | Perceived existential threat | Emergency powers, mercenary deputization, FVB exploitation | Expose legal illegitimacy with provenance proof | Legitimacy collapse setup for transition arc |
 
-## Response Doctrine Progression by Series Phase
+---
 
-1. **Book 1 doctrine:** deny, localize, punish selectively.
-2. **Book 2 doctrine:** map protagonist playbook; pre-bake legal and media responses.
-3. **Book 3 doctrine:** merge intelligence streams; outsource deniable responses.
-4. **Book 4 doctrine:** preemptive disruption + maximal authority claims.
+## Response Doctrine Progression
+1. **B1:** deny, localize, and punish selectively.
+2. **B2:** map hero pattern and pre-bake legal/media response bundles.
+3. **B3:** merge state + proxy intelligence streams; scale deniable violence.
+4. **B4:** preempt, totalize, and risk political overreach to avoid control loss.
+
+---
 
 ## Continuity Guards
-
-- If a protagonist tactic works twice, show at least one visible antagonist adaptation in the next major sequence.
-- If antagonists escalate branch level, reflect civilian and institutional aftershocks within two chapters.
-- Maintain asymmetry: antagonist adaptation should reduce easy wins but open new ethical fault lines.
+- If protagonists repeat a tactic successfully, show a visible antagonist adaptation in next major sequence.
+- If branch escalation occurs, show civilian + institutional aftershocks within two chapters.
+- Treat FVB assets as agency-bearing destabilizers; do not merge them with non-conscious warform control cases.
+- Preserve unknown-position dragnet reality: antagonist certainty is probabilistic, not absolute.
