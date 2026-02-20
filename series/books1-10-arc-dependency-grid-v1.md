@@ -72,6 +72,9 @@ Scope: explicit inter-book dependency grid with strategic objective, character-s
 - **Books 1–4 drafted scene scaffolds:** `series/scene-packets-books1-4-v1.md`
 - **Bridge references already aligned:** `series/books1-4-mission-bank-integration-notes-v1.md`, `timeline/books1-4-operational-sequence-map-v1.md`
 - **Use rule for Books 5–10 packets:** inherit packet schema from `series/scene-packets-books1-4-v1.md` (objective/conflict/tactical geometry/emotional turn/consequence/continuity refs).
+- **Books 5–7 bridge packet implementation:** `series/scene-packets-books5-7-bridge-v1.md`
+- **Books 5–7 consequence chains:** `ops/mission-seed-to-scene-consequence-chains-books5-7-wave11-v1.md`
+- **Books 5–7 sequence support map:** `timeline/books5-7-bridge-operational-sequence-map-v1.md`
 
 ---
 
