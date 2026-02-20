@@ -219,6 +219,15 @@ Premise: Books 1–4 break monopoly legitimacy and open strategic space; Books 5
 - Define postwar compute/fabrication oversight regime (treaty mechanics).
 - Build book-by-book event index binding this architecture to dated timeline entries (Books 1–10).
 
+## 12) Core-Lane Pacing Hooks (New hard continuity)
+
+1. **Earth-Mars / Earth-Ceres arcs cannot compress arbitrarily:** strategic repositioning is week-to-month scale even with hard burns.
+2. **Belt coalition scenes need delay texture:** requests, denials, reinforcements, and betrayals should land on lane-credible clocks.
+3. **Jovian threads are long-fuse subplots:** launches to/from Ceres-Jovian corridors must be seeded far in advance.
+4. **Command scenes must reflect light-lag:** Earth authority arrives as policy packets, not joystick control.
+5. **Rapid-strike overuse has story debt:** repeated BC-C transit requires explicit maintenance/fuel/crew penalties.
+
+Reference table authority: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
 
 ## Book 5–10 Strategic Continuation (Lock)
 - **Book 5:** Begin slow reconquest of Earth control nodes; expose fragility of liberation logistics.

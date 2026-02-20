@@ -37,7 +37,7 @@ Rule: all future events require world datetime + sequence index and must reconci
 
 ## Chronology Integrity Notes
 - Sequence indices are immutable IDs once referenced.
-- If dates change, recompute travel/comms windows (`tech/fusion-transit-assumptions-and-lane-calculus-v1.md`).
+- If dates change, recompute travel/comms windows (`tech/fusion-transit-assumptions-and-lane-calculus-v1.md`, burn-coast-burn defaults).
 - Book 1 lock remains: 0170 precedes 0180.
 - 0180 now includes AI-seed custody implications.
 - Long-arc planning now uses a 10-book horizon.

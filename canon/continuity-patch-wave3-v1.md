@@ -56,8 +56,9 @@ Cross-refs:
 
 ## CP-009 — Quantitative Fusion/Transit Lock (CORE)
 
-**Rule:** Mission travel and command timing must use explicit equations + assumptions + lane tables.
+**Rule:** Mission travel and command timing must use explicit equations + assumptions + lane tables (including burn-coast-burn transfer mode defaults).
 
 **Continuity effects:**
 - No scene-level transit handwaving.
 - No realtime Earth command fantasy in deep theater.
+- Lane geometry state (favorable/median/unfavorable) becomes mandatory for timing-sensitive operations.

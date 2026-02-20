@@ -7,7 +7,7 @@ Purpose: constrain plot decisions through explicit engineering and logistics rul
 
 ## 1) Propulsion and Transit
 
-Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
+Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md` (Mode M2 burn-coast-burn defaults + core-lane timing tables).
 
 ## 1.1 Propulsion stack
 - **Chemical launch systems:** required for all atmospheric ascent/descent in meaningful gravity wells.

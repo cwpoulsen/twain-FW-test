@@ -31,3 +31,13 @@ Cross-refs:
 1. Books 1–4 entries must remain compatible with 10-book expansion plan.
 2. No mission may imply instantaneous transit or comm certainty (use transit/comms envelope).
 3. AI-seed custody chain and Class 2/Class 1 fabrication politics must remain active pressure lines, not one-off reveals.
+4. Inter-book redeployment beats must cite lane + burn class from `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
+
+## Transit-Gated Continuity Hooks (Books 1–4)
+
+| Hook ID | Required lane reality | Plot consequence if ignored |
+|---|---|---|
+| TG-1200 | Earth->Ceres movement under BC-B is ~77–159 d (geometry dependent). | Early Book 2 cannot begin immediately after late Book 1 without a stated time jump/logistics bridge. |
+| TG-1210 | Mars->Ceres reinforcement under BC-B is ~56–180 d. | “Surprise” Mars fleets in single-chapter timing are invalid. |
+| TG-1220 | Belt intra-lane responses are usually 10–54 d (BC-B), faster only under BC-C at cost. | Coalition trust and resupply cadence must break/falter under long lane delays. |
+| TG-1230 | Ceres->Jovian probes are 95–250 d (BC-B), 50–124 d (BC-C). | Jovian evidence threads must be planned seasons ahead, not tactical next-day pivots. |
