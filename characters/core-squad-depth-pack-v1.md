@@ -48,8 +48,8 @@ _Status: Soft canon scaffold (compatible with current locked bios)_
 
 ### Book-Turn Anchors
 - **Turn A (Book 1, ~25%):** chooses restraint in a trigger scenario, proving discipline is a weapon.
-- **Turn B (Book 1, ~80%):** brother-figure signal appears during mission-critical burn window; forced mission-vs-relationship split decision.
-- **Turn C (Book 2):** returns to pilot authority under explicit consent/protocol terms she negotiates.
+- **Turn B (Book 1, ~80%):** ambiguous brother-figure signal appears during mission-critical burn window; credibility seed only, no full confirmation.
+- **Turn C (Book 2):** full reveal + mission-vs-relationship split decision; later returns to pilot authority under explicit consent/protocol terms she negotiates.
 
 ### Continuity Hooks
 - Brother reveal breadcrumbs must predate full reveal by multiple operational anomalies.

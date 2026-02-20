@@ -21,35 +21,37 @@ _Status: timeline scaffold; relative dating uses Book Percent + Sequence IDs_
 - Hook: validates Hale/Veil tactical pairing.
 
 ### B1-S05 [LOCK-COMPAT]
-**Databank Raid / Ashes in the Box**
-- Nonlethal plan collapses under AP ambush.
-- Hale lethal-call moral injury event triggered.
-- Hook: personal guilt + strategic evidence payload coexist.
-
-### B1-S07 [NEW-SOFT]
-**Isaac captures command-channel discrepancy logs**
-- Parallel shadow ledger initiated.
-- Hook: later proof chain against official narrative.
-
-### B1-S09 [LOCK-COMPAT]
 **Extraction truth leak + disposal authorization**
 - Hale overhears nuke authorization post-objective.
 - Hook: obedience legitimacy collapse.
 
-### B1-S10 [LOCK-COMPAT]
+### B1-S06 [LOCK-COMPAT]
 **Blackframe betrayal at extraction point**
 - Squad redirected toward probable abandonment/execution posture.
 - Hook: recurring nemesis imprint (Kite).
 
-### B1-S11 [LOCK-COMPAT]
+### B1-S07 [LOCK-COMPAT]
 **Unknown intervention + emergency launch profile**
 - Valerie piloting decision under impossible timing window.
+- Intervention bounded by exploit+relay corridor constraints.
 - Hook: brother reveal seed credibility increases.
 
-### B1-S12 [NEW-SOFT]
+### B1-S08 [NEW-SOFT]
 **Post-escape debrief fracture protocol begins**
 - Public report diverges from private truth log.
 - Hook: recurring continuity structure for all future books.
+
+### B1-S09 [LOCK-COMPAT]
+**Databank Raid / Ashes in the Box**
+- Occurs later under free-team conditions.
+- Nonlethal plan collapses under AP ambush.
+- Hale lethal-call moral injury event triggered.
+- Hook: personal guilt + strategic evidence payload coexist.
+
+### B1-S10 [NEW-SOFT]
+**Isaac captures command-channel discrepancy logs**
+- Parallel shadow ledger initiated with chain-of-custody tags.
+- Hook: later proof chain against official narrative.
 
 ---
 

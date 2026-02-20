@@ -25,8 +25,8 @@ Rule binding: all future events must carry world datetime + sequence index and r
 | 0140 | 2053-04-01T00:00:00Z | 2055-05-31T23:59:59Z | Consensus Panic Signals Increase | SOFT | Engagement tempo rises; higher casualty assignments indicate regime confidence erosion. |
 | 0150 | 2054-06-01T00:00:00Z | 2055-06-30T23:59:59Z | Hale Squad Attrition Phase | CORE | Squad contracts from 9 to 5 through escalating conflict intensity. |
 | 0160 | 2055-07-08T09:00:00Z | 2055-07-08T13:00:00Z | Book 1 Trigger Mission Assignment | CORE | Remaining squad receives mission profile with concealed disposal logic. |
-| 0170 | 2055-07-08T13:30:00Z | 2055-07-09T02:00:00Z | Command Betrayal / Nuke Authorization Discovery / Escape | CORE | Sergeant intercepts extermination order after extraction objective; Blackfly escape under unknown encrypted guidance. |
-| 0180 | 2055-08-02T16:00:00Z | 2055-08-02T19:20:00Z | Databank Raid: Ashes in the Box | CORE | AP ambush collapses nonlethal plan; John kills armed woman under threat conditions; child witness defines moral pivot. |
+| 0170 | 2055-07-08T13:30:00Z | 2055-07-09T02:00:00Z | Command Betrayal / Nuke Authorization Discovery / Escape | CORE | Sergeant intercepts extermination order after extraction objective; Blackfly escape succeeds through narrow exploit+relay corridor (delayed packet guidance, not omniscient realtime control). |
+| 0180 | 2055-08-02T16:00:00Z | 2055-08-02T19:20:00Z | Databank Raid: Ashes in the Box | CORE | Occurs after 0170 under free-team conditions; AP ambush collapses nonlethal plan; John kills armed woman under threat conditions; child witness defines moral pivot. |
 | 0190 | 2055-08-03T00:00:00Z | 2055-10-31T23:59:59Z | Free-Team Operational Adaptation | SOFT | Team shifts doctrine toward life-preservation and defensive tactical profiles while evading EDF/hostiles. |
 
 ---
@@ -36,3 +36,4 @@ Rule binding: all future events must carry world datetime + sequence index and r
 - Sequence indices are immutable IDs once referenced by scene files.
 - If any event date changes, impacted travel/comms windows must be recalculated and logged.
 - Character files should reference sequence indices for formative events to prevent drift.
+- Book 1 sequence lock: 0170 (betrayal/escape) must precede 0180 (databank moral pivot); do not invert without explicit retcon.

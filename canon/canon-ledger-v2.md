@@ -188,3 +188,11 @@ Continuity basis: `series/worldbuilding-core-pack-v1.md` + locked direction upda
 - **SOFT:** Full firmware architecture of marine governor modules.
 
 These unknowns are preserved for plot maneuvering, not worldbuilding vagueness.
+
+---
+
+## 13) Continuity Patch References
+
+- Wave 2 continuity lock file: `canon/continuity-patch-wave2-v1.md`
+- Chronology authority: `timeline/master-timeline-sequence-v1.md`
+- Contradiction operations layer: `ops/continuity-holes-register-v1.md` + `ops/contradiction-scanner-checklist-v1.md`

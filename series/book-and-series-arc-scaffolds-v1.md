@@ -19,14 +19,14 @@ A marine squad sent on a high-risk extraction realizes they were designed to die
 ### Arc Skeleton
 1. **Incitement:** inbound to Belt op under-equipped and politically expendable.
 2. **Early Proof of Skill:** squad executes with high competence despite constraints.
-3. **Midpoint Corruption Reveal:** databank raid moral injury + command narrative mismatch.
-4. **Betrayal Confirmation:** extraction truth and disposal authorization overheard.
-5. **Climax:** external intervention + blackfly escape under nuclear kill-box pressure.
+3. **Betrayal Confirmation:** extraction truth and disposal authorization overheard.
+4. **Climax:** external intervention + Blackfly escape under nuclear kill-box pressure.
+5. **Second-Act Moral Corrosion:** later free-team databank raid succeeds tactically but poisons squad psychology.
 6. **Aftermath Hook:** squad survives but becomes operationally unplaceable—too informed to reintegrate.
 
 ### Character Turns (Book 1 required)
 - Hale: obedience -> conditional obedience.
-- Valerie: reflexive rage -> first intentional restraint + reveal setup.
+- Valerie: reflexive rage -> first intentional restraint + ambiguous inside-source signal seed (full reveal deferred to Book 2).
 - Isaac: reactive hacker -> proactive counter-surveillance architect.
 - Marko: tactical brute -> survivability engineer authority.
 - Lin: intuition support -> mission-critical decision voice.

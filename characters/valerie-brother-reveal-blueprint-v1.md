@@ -50,10 +50,10 @@ Reveal in a constrained, high-tension context (not a calm debrief):
 ---
 
 ## Timing Recommendation
-- First hard seed: ~15–20% of arc
-- Pattern lock: ~45–55%
-- Pre-reveal save: ~70–80%
-- Full reveal: ~80–90%
+- First hard seed: Book 1 late window (~70–85% of Book 1), ambiguous only
+- Pattern lock: Book 2 early-mid (~35–55% of Book 2)
+- Pre-reveal save: Book 2 mid-late (~65–80% of Book 2)
+- Full reveal: Book 2 late (~80–90% of Book 2)
 
 Keep enough runway post-reveal for consequence, not just reaction.
 
