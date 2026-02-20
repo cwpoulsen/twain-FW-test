@@ -1,0 +1,53 @@
+# Wave 28 R-005 Weekly Watchdog Evidence - 2026-02-20
+
+Prior run references:
+- ops/r005-stability-delta-wave26.md
+- ops/evidence/wave26-r005-stability-delta-2026-02-20.txt
+
+Scope:
+- series/scene-packets-books1-4-v1.md
+- series/scene-packets-books5-7-bridge-v1.md
+- series/scene-packets-books8-10-endgame-bridge-v1.md
+
+## ST-1 Template-lock block present
+PASS: series/scene-packets-books1-4-v1.md
+PASS: series/scene-packets-books5-7-bridge-v1.md
+PASS: series/scene-packets-books8-10-endgame-bridge-v1.md
+ST-1 RESULT: PASS
+
+## ST-2 Required field coverage count check
+series/scene-packets-books1-4-v1.md | packets=24 mission=24 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+series/scene-packets-books5-7-bridge-v1.md | packets=20 mission=20 objective=20 conflict=20 tactical=20 reality=20 emotional=20 consequence=20 refs=20
+series/scene-packets-books8-10-endgame-bridge-v1.md | packets=24 mission=24 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+ST-2 RESULT: PASS
+
+## ST-3 Required field order check
+PASS series/scene-packets-books1-4-v1.md
+PASS series/scene-packets-books5-7-bridge-v1.md
+PASS series/scene-packets-books8-10-endgame-bridge-v1.md
+ST-3 RESULT: PASS
+
+## ST-4 Lightweight packet lint (scripted + spot validation)
+Scripted checks:
+- Reality gate row explicit-line pattern: PASS (series/scene-packets-books1-4-v1.md)
+- Reality gate row explicit-line pattern: PASS (series/scene-packets-books5-7-bridge-v1.md)
+- Reality gate row explicit-line pattern: PASS (series/scene-packets-books8-10-endgame-bridge-v1.md)
+- Continuity refs concrete-anchor proxy: PASS (series/scene-packets-books1-4-v1.md)
+- Continuity refs concrete-anchor proxy: PASS (series/scene-packets-books5-7-bridge-v1.md)
+- Continuity refs concrete-anchor proxy: PASS (series/scene-packets-books8-10-endgame-bridge-v1.md)
+- Realtime-command anti-pattern grep (perfect tracking / omniscience): PASS (0 hits)
+- Earthlike-combat anti-pattern grep (no-anchoring phrasing): FAIL
+series/reconquest-institutional-integration-matrix-v1.md:231:8. If small-body scenes imply normal walking without stabilization, patch with anchoring and attitude-control mechanics.
+
+Manual spot checks (latest-entry-first sampling):
+- Books 1-4 sampled packets B1-S01, B3-S02, B4-S06: required fields present/in canonical order; tactical constraints, explicit reality rows, layered consequence costs, and concrete continuity refs present.
+- Books 5-7 sampled packets B5-S02, B6-S04, B7-S05: mission-chain anchors retained; low-g/lag/cadence constraints and layered costs retained.
+- Books 8-10 sampled packets B8-S04, B9-S06, B10-S03: mission-chain anchors retained; bounded-certainty reality rows and consequence layering retained.
+ST-4 RESULT: FAIL
+
+## Wave28 snapshot
+ST-1: PASS
+ST-2: PASS
+ST-3: PASS
+ST-4: FAIL
+Patch actions: none required (no clear compliance misses).
