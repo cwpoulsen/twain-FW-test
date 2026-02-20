@@ -76,7 +76,7 @@ SACT launders pre-selected outcomes into procedural legitimacy. It is where emer
 
 ---
 
-## I-03. Earth Defense Force Marine Procurement Authority (EDF-MPA)
+## I-03. Earth Defense Fleet Marine Procurement Authority (EDF-MPA)
 
 ### Charter Claim
 Ensures mission-ready marine capacity through fair recruitment and contract administration.

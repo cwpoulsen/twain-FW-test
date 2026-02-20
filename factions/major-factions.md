@@ -31,7 +31,7 @@ Authority anchors: `factions/factions-doctrine-ledger-v1.md` (primary), `canon/c
 
 ---
 
-## 3) Earth Defense Force (EDF) Command Apparatus
+## 3) Earth Defense Fleet (EDF) Command Apparatus
 **Type:** Military enforcement architecture with deniable political tasking.  
 **Strategic objective:** Maintain theater denial and command continuity at acceptable political cost.
 

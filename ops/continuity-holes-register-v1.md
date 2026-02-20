@@ -64,7 +64,7 @@ Scope executed: repo-wide grep scan for pre-lock residue categories: old EDF-pre
   - Patched `series/series-architecture-v2.md` lens definition to primary post-EDF free-operator framing.
   - Patched `series/worldbuilding-core-pack-v1.md` narrative placement to opening-in-EDF -> rapid post-EDF transition.
 - **W8-002 (Closed):** Legacy naming residue (`Solar Defense Force`) in discovery reservoir.
-  - Patched to canonical `Earth Defense Force (EDF)` and expanded doctrine prompt to include low-g anchoring/recoil.
+  - Patched to canonical `Earth Defense Fleet (EDF)` and expanded doctrine prompt to include low-g anchoring/recoil.
 - **W8-003 (Closed):** Missing explicit low-g rule at series-level constraints.
   - Added non-negotiable continuity constraint for anchoring/attitude control/recoil consequences in `series/series-architecture-v2.md`.
 
