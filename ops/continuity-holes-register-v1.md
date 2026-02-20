@@ -130,3 +130,30 @@ Scope executed: comprehensive reconciliation of newly added high-volume docs sin
 - No new P0/P1 canon contradiction detected in reconciled high-volume additions.
 - Duplicate phrase blocks removed from targeted files.
 - Canon lock nomenclature aligned to ledger v2 actor names and fabrication taxonomy.
+
+---
+
+## Wave 10-11 Lock Drift + Duplication Seam Reconciliation (2026-02-19)
+
+Scope executed: targeted reconciliation pass over all Wave 10/11 outputs and bridge-linked files, using grep recipes from `ops/continuity-guard-grep-recipes-v1.md` plus duplication seam probes for repeated integration blocks.
+
+### Closed this pass
+- **W11-004 (Closed, P1 duplication seam):** repeated boilerplate integration block copied across Modules 1-12 in Wave 11 series integration pack.
+  - Patched: `series/wave11-integration-diplomacy-sanctions-governance-adjudication-v1.md`
+  - Action: removed duplicate modules and retained a single canonical cross-domain module plus distinct follow-on modules.
+- **W11-005 (Closed, P1 lock drift gate):** Wave 10/11 scoped grep guard checks returned no active lock violations for naming, AI timing, pursuit certainty, low-g anti-patterns, or deprecated fabrication taxonomy.
+  - Valid lock-presence hits confirmed for Asterion naming, bounded pursuit language, low-g cues, and Class 2/1 framing.
+
+### Open / monitor
+- **W11-R2 (Open, P2 monitor):** maintain future expansion discipline in `series/wave11-integration-diplomacy-sanctions-governance-adjudication-v1.md` to prevent reintroduction of templated duplication during content scaling.
+
+### Evidence
+- `ops/evidence/wave11-wave10-lockdrift-dupseam-reconcile-2026-02-19.txt`
+
+### Contradiction-Check Summary
+- Deprecated naming (`Belters`, `Solar Defense Force`) not found in active Wave 10/11 scoped content.
+- No databank-first AI acquisition contradiction found.
+- No omniscient tracking phrasing (`exact position known`, `perfect tracking`) found.
+- No low-g realism anti-pattern phrasing found; required anchoring/attitude-control/recoil cues present.
+- No deprecated fabrication taxonomy (`Class-0`, `Class IV`) found in scope.
+- Result: no remaining P0/P1 contradiction in Wave 10/11 outputs after this reconciliation pass.

@@ -14,142 +14,7 @@ Campaign-scale outcome across modules is cumulative abrasion, not sudden collaps
 
 **Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
 
-## Integration Module 2: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 3: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 4: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 5: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 6: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 7: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 8: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 9: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 10: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 11: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-## Integration Module 12: Cross-Domain Story Utility
-
-This module translates diplomacy failure, sanction-bypass industry, scarcity governance, and lane adjudication into scene-ready pressure chains for the ten-book arc. Book-level design uses mechanism -> decision -> cost cadence: negotiators choose between legitimacy and speed; industrial actors choose between survivability and throughput; governors choose between equality rhetoric and infrastructure triage; judges choose between sovereignty purity and civilian continuity.
-
-For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
-
-Scene deployment guidance: pair every negotiation chamber scene with a dock-floor consequence beat within one narrative cycle. Pair every sanction-bypass technical explanation with a household ration impact beat. Pair every adjudication ruling with convoy crew fatigue accounting, repair debt, and future political backlash. This keeps legal and economic exposition tied to character stakes instead of abstract policy monologue.
-
-Campaign-scale outcome across modules is cumulative abrasion, not sudden collapse. Institutions bend, populations adapt, and legitimacy is renegotiated corridor by corridor. Victory conditions therefore measure durability of humane process under scarcity, not clean battlefield annihilation.
-
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-
-
-
-## Integration Module 13: Failure-to-Legitimacy Conversion Arcs
+## Integration Module 2: Failure-to-Legitimacy Conversion Arcs
 
 Use this module when a coalition actor must turn a diplomatic or legal failure into a survivable legitimacy strategy without violating canon locks. The sequence begins with public admission of bounded control, then publication of hard constraints (fuel, berth capacity, legal service delay), then an immediately observable fairness gesture such as rotating district power cuts instead of hidden preferential allocation.
 
@@ -159,7 +24,7 @@ At scene level, pair announcements with resistant audiences: dock unions, casual
 
 **Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
 
-## Integration Module 14: Adjudication-to-Operations Feedback
+## Integration Module 3: Adjudication-to-Operations Feedback
 
 This module tracks how lane-court precedents alter military and industrial behavior over time. If tribunals repeatedly penalize indiscriminate seizure, patrol commanders shift toward targeted escrow and evidence discipline. If courts reward documentation quality, sanction-bypass networks invest in forged provenance and the enforcement game moves to metadata integrity rather than brute interdiction.
 
@@ -169,8 +34,7 @@ Continuity guard: keep warforms as instruments, not legal persons; keep Blackfly
 
 **Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
 
-
-## Integration Module 15: Convoy Scarcity Governance Episode Templates
+## Integration Module 4: Convoy Scarcity Governance Episode Templates
 
 Template A (Municipal Fracture): A convoy arrives twenty hours late with mixed cargo that cannot satisfy all districts. Council leaders must choose whether to prioritize systems stability (oxygen scrubber membranes, coolant additives) or household calorie distribution. The dramatic engine is not villainy but triage arithmetic. Write the scene with visible queue boards, union observers, and legal clerks annotating which emergency code is invoked. Then cut to domestic consequences in under-supplied rings.
 
@@ -186,11 +50,9 @@ For long-arc placement, deploy Template A/B heavily in Books 2-4 to establish sc
 
 **Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
 
-
 ### Continuity Reminder
 Every deployment of these modules should include at least one explicit logistics ledger beat (fuel, coolant, med stocks, or berth-hours) and one explicit human-cost beat (fatigue, grief administration, or trust erosion). This prevents abstraction drift and keeps institutional conflict grounded in lived scarcity.
 
-**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
 ## Contradiction-Check Summary
 - All module assumptions conform to canon lock matrix and domain checklists.
 - No section implies miracle logistics, real-time cross-system command, or costless enforcement.
@@ -198,6 +60,3 @@ Every deployment of these modules should include at least one explicit logistics
 - Class ladder and faction naming locks remain explicit in narrative deployment guidance.
 
 **Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
-
-Additional lock audit passed.
-

@@ -1,0 +1,69 @@
+# Wave10-11 Lock Drift + Duplication Reconciliation Evidence
+Generated: 2026-02-19T20:17:30-05:00
+
+## Scope files
+canon/coalition-diplomacy-failure-casebook-wave11-v1.md
+factions/sanction-bypass-industrial-networks-dossier-wave11-v1.md
+locations/civilian-governance-under-convoy-scarcity-atlas-wave11-v1.md
+ops/contested-lanes-adjudication-precedents-wave11-v1.md
+ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md
+ops/mission-seed-to-scene-consequence-chains-books5-7-wave11-v1.md
+ops/wave11-expansion-commit-report.md
+series/books1-10-arc-dependency-grid-v1.md
+series/scene-packets-books5-7-bridge-v1.md
+series/wave10-latency-coalition-justice-resilience-v1.md
+series/wave11-integration-diplomacy-sanctions-governance-adjudication-v1.md
+timeline/books5-7-bridge-operational-sequence-map-v1.md
+
+## A1 Deprecated faction naming residue
+
+## A2 Required proper-name lock presence
+canon/coalition-diplomacy-failure-casebook-wave11-v1.md:253:- Asterion League naming preserved; no deprecated coalition labels used in narrator voice.
+factions/sanction-bypass-industrial-networks-dossier-wave11-v1.md:225:- Asterion League treated as politically fragile operator of scarce Class 1 capability.
+ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md:178:- **Fabricator taxonomy:** preserved (Class 4/3/2/1; Blackfly Class 2, Asterion League Class 1 breakthrough unchanged).
+ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md:179:- **Faction naming / authority anchors:** preserved (Asterion League / Consensus / Steward framing unchanged).
+series/books1-10-arc-dependency-grid-v1.md:26:| 5 | Consolidate Belt governance and convert wartime coalition into durable command-economy alternatives. | Team influence decentered into institutions; Valerie reopens brother track through governance channels instead of rogue pursuit. | Asterion League moves from rumor-weight to treaty-weight actor; freed-voider bands (FVB) pressure weak peripheries; ex-steward technocrats attempt soft recapture. | Habitat maintenance backlog; fab allocation queue wars; convoy insurance collapse in pirate-heavy corridors. | (1) Belt charter bloc survives first stress cycle, (2) anti-FVB operating doctrine codified, (3) Class 2 allocation board retains legitimacy under scarcity. |
+series/wave10-latency-coalition-justice-resilience-v1.md:4:- Canonical actors: Steward Directorate, Consensus Operations Complex, Earth Defense Fleet (EDF), Belt Municipal Compacts, Asterion League.
+series/wave10-latency-coalition-justice-resilience-v1.md:6:- Fabrication ladder lock: Class 4/3/2/1; Blackfly constrained Class 2, Asterion League fragile Class 1.
+series/wave11-integration-diplomacy-sanctions-governance-adjudication-v1.md:9:For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
+
+## B1 AI acquisition timing anti-pattern
+
+## B2 Positive lock phrase checks
+series/wave10-latency-coalition-justice-resilience-v1.md:5:- Blackfly is post-EDF free-operator; opening extraction acquires AI seed/system, databank raid supplies training/upgrade inputs.
+
+## C1 Forbidden certainty framing
+
+## C2 Required bounded pursuit framing
+ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md:181:- **Unknown-position Blackfly pursuit model:** preserved (probabilistic dragnet logic unchanged).
+series/books1-10-arc-dependency-grid-v1.md:22:| 1 | Survive disposal, secure AI seed custody, preserve initial proof chain. | Hale: obedience -> conditional command autonomy; Valerie: vengeance impulse -> precision discipline; Isaac: tactical hacker -> custody architect; Lin: survivor pragmatist -> coalition broker; Marko: enforcer -> systems protector. | Stewards shift from cleanup to probabilistic dragnet; EDF hardens deserter narrative; Belt actors test Blackfly as asset vs liability. | BC-B/BC-C heat limits; no realtime Earth command at edge; ammo/coolant scarcity; low-g combat anchoring lock. | (1) Box custody protocol established, (2) at least one admissible evidence shard survives, (3) sanctuary network exists but is penetrable. |
+series/wave10-latency-coalition-justice-resilience-v1.md:7:- Nuke-masked exfil lock: missing-asset probabilistic dragnet, no omniscient tracking.
+series/wave10-latency-coalition-justice-resilience-v1.md:50:- Pursuit planning uses probabilistic dragnet math, not certainty theater.
+
+## D1 Low-g anti-pattern cues
+
+## D2 Required low-g lock cues
+ops/mission-seed-to-scene-consequence-chains-books5-7-wave11-v1.md:50:- **No low-g handwave:** preserved; anchoring/recoil discipline explicitly specified for boarding/interior fights.
+series/books1-10-arc-dependency-grid-v1.md:22:| 1 | Survive disposal, secure AI seed custody, preserve initial proof chain. | Hale: obedience -> conditional command autonomy; Valerie: vengeance impulse -> precision discipline; Isaac: tactical hacker -> custody architect; Lin: survivor pragmatist -> coalition broker; Marko: enforcer -> systems protector. | Stewards shift from cleanup to probabilistic dragnet; EDF hardens deserter narrative; Belt actors test Blackfly as asset vs liability. | BC-B/BC-C heat limits; no realtime Earth command at edge; ammo/coolant scarcity; low-g combat anchoring lock. | (1) Box custody protocol established, (2) at least one admissible evidence shard survives, (3) sanctuary network exists but is penetrable. |
+series/scene-packets-books5-7-bridge-v1.md:17:- Anchoring + recoil discipline in low-g contact
+series/scene-packets-books5-7-bridge-v1.md:39:**Tactical geometry:** Rotating pier interior, mixed-g. Boarding teams mag-clamp before firing; recoil drift turns one corridor into no-fire zone. 27-minute tactical window before convoy undock.  
+series/scene-packets-books5-7-bridge-v1.md:115:**Tactical geometry:** Crescent spins at partial-g; safety incidents concentrated in transfer spokes where micro-g tool recoil caused fatal drift impacts.  
+series/scene-packets-books5-7-bridge-v1.md:206:- Reality Gate constraints satisfied in every packet (anchoring, burn/heat limits, comm latency, logistics, fatigue, sensor uncertainty).
+series/wave10-latency-coalition-justice-resilience-v1.md:10:- Reality Gate constraints active (low-g anchoring/recoil, heat/propulsion/logistics/fatigue/sensor uncertainty).
+
+## D3 Warform agency lock cues
+
+## E1 Fabrication lock presence
+factions/sanction-bypass-industrial-networks-dossier-wave11-v1.md:224:- Blackfly described as constrained Class 2 actor, not hegemonic manufacturer.
+factions/sanction-bypass-industrial-networks-dossier-wave11-v1.md:225:- Asterion League treated as politically fragile operator of scarce Class 1 capability.
+ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md:178:- **Fabricator taxonomy:** preserved (Class 4/3/2/1; Blackfly Class 2, Asterion League Class 1 breakthrough unchanged).
+series/wave10-latency-coalition-justice-resilience-v1.md:6:- Fabrication ladder lock: Class 4/3/2/1; Blackfly constrained Class 2, Asterion League fragile Class 1.
+series/wave11-integration-diplomacy-sanctions-governance-adjudication-v1.md:9:For continuity safety, each module binds to fixed locks. Blackfly remains a post-EDF free-operator crew with constrained Class 2 leverage and uncertain location traceability under nuke masking history. Asterion League appears as a fragile but real Class 1-bearing coalition rather than a consolidated state. Consensus power is strong in institutions but weak at latency edges where command loops desynchronize and local improvisation dominates.
+
+## E2 Taxonomy drift hints
+
+## Duplication seam probe
+### Repeated integration module heading count
+1
+### Top repeated long lines in wave11 integration
+5x	**Authority refs:** `canon/canon-ledger-v2.md`; `canon/continuity-patch-wave3-v1.md`; `ops/reality-gate-enforcement-pack-v1.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`
