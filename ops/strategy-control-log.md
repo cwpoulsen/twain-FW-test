@@ -188,3 +188,48 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 1. Treat Asterion governance beats as bounded constitutional process conflict, not default heroic centralization.
 2. Require FVB portrayal variance checks (sub-faction + incentive + accountability separation) before approving scene packet expansions.
 3. P2 backlog now narrows to R-005 scene-template standardization only.
+
+## 2026-02-20T01:12-05:00 — Strategy heartbeat: post-RC consolidation and next-cycle pivots
+
+### Current strategy
+- Keep continuous-wave cadence, but shift from raw volume generation to **review throughput + decision enablement**.
+- Preserve lock integrity with evidence-first monitoring while reducing duplicate prose across authority/index docs.
+- Treat new work as release-operational: checklists, question banks, handoff routes, rollback safety, and targeted polish.
+
+### Evidence from recent commits/results (W20-W23)
+1. Review routing and authority map strengthened:
+   - `8c9fd0c` (`ops/executive-summary-wave20.md`)
+   - `30f3c9c` (`ops/archive-index-wave20.md`)
+   - `fce5fec` (authority-map refresh across start-here/index/snapshot)
+2. Quality/risk hardening landed:
+   - `e8e861a` (naming drift corrections)
+   - `d9df396` (R-005 monitor tightening + lint checklist + evidence convention)
+   - `cadac22` (weekly monitor framework)
+3. Reviewer enablement and handoff improved:
+   - `3724c94` (go/no-go checklist)
+   - `daa8624` (top-50 decision question bank)
+   - `491c45c` (action-oriented handoff briefing)
+4. RC operability and auditability improved:
+   - `82ebf2c` (RC1 notes/changelog/rollback)
+   - `f676bb1` (consolidated evidence index)
+   - `fb19a87` (RC2 authority-doc/scene-index compression polish)
+
+### What is working
+1. Parallel 3-run waves still deliver fast, clean ops artifacts without lock regressions.
+2. Evidence and monitor docs are now strong enough for recurring audit cycles.
+3. Review surfaces are discoverable and practical for human decision passes.
+
+### Bottlenecks / quality risks
+1. **Over-automation risk:** continual wave spawning can produce diminishing-return meta-doc growth.
+2. **Index churn risk:** too many index/briefing layers can create discovery confusion.
+3. **R-005 remains open monitor:** template conformance can regress if future expansions skip lint gate.
+
+### Strategy pivots for next cycle
+1. Run **targeted depth waves** only (no broad expansion): each run must modify a bounded set with explicit acceptance tests.
+2. Cap meta-doc proliferation: new docs must either replace/merge older guides or justify unique function.
+3. Make R-005 lint/monitor checks a pre-merge gate for any scene-packet touching commit.
+4. Prefer contradiction-hunting + compression over net-new prose until human review decisions land.
+
+### Next-cycle execution plan
+- Wave focus: contradiction hunt, doc-map dedupe, and reviewer decision extraction from existing corpus.
+- Required output on each run: changed-files list, contradiction-check summary, and clear keep/merge/archive recommendation.
