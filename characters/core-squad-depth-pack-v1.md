@@ -13,6 +13,13 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## 1) Staff Sergeant John Hale — Deepening Layer
 
 ### Hidden Contradiction

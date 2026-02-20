@@ -5,6 +5,13 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## 0) Canon Layer Key
 - **CORE:** stable across books unless explicit retcon logged.
 - **SOFT:** preferred model; adjustable if later scenes force refinement.
@@ -21,7 +28,7 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 
 ## 2) Regime Architecture
 - **CORE:** Formal shell = **Earth Democracy** (ballots, chambers, and legality theater remain intact).
-- **CORE:** Real authority = **Stewards of Earth** (ministerial caucus and emergency boards hold actual firing authority).
+- **CORE:** Real authority = **Steward Directorate** ("Stewards of Earth" in internal shorthand; ministerial caucus and emergency boards hold actual firing authority).
 - **CORE:** Regime AI = **Consensus**, a theater-scale governance optimizer (not omnipotent; bounded by data quality, latency, and compute placement).
 - **CORE:** Consensus legitimacy hangs on “single-safe-AI” doctrine and aggressive suppression of peer intelligence lines.
 

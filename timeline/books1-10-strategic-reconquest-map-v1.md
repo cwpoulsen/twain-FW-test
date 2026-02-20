@@ -10,6 +10,13 @@ Cross-refs:
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## Arc Blocks
 
 | Book | Approx sequence window | Strategic phase | Primary arc function | Dominant campaign cost |

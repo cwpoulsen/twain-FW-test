@@ -5,6 +5,13 @@ Continuity links: `factions/major-factions.md`, `factions/factions-doctrine-ledg
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## Command Reality in This Setting
 Command authority here is not just who moves troops on a tac-map. It controls the four artifacts that decide whether a force can function tomorrow:
 - template legitimacy (which fab schema is treated as lawful),

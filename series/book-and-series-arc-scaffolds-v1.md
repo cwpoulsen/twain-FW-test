@@ -16,6 +16,13 @@ _Status: Structure scaffold aligned to hybrid episodic + macro spine_
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## Book 1 Scaffold — Working Title: _Ashes of Extraction_
 
 ### Episodic Promise

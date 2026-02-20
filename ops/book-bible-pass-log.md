@@ -309,3 +309,63 @@ Identify and upgrade the weakest eight docs (highest placeholder density, generi
 
 ### Net Outcome
 The selected eight docs now read as operationally specific and voice-consistent while staying inside locked canon taxonomy and continuity constraints.
+
+---
+
+## 2026-02-19 — Rewrite Pass 6 (Voice Unification Wave 10, Top-12 High-Impact Docs)
+
+### Objective
+Unify narrator voice and command-language cadence across the twelve highest-impact canon/series/factions/tech/timeline/character authority docs while preserving all canon locks and authority anchors.
+
+### Top-12 Documents Unified
+1. `canon/canon-ledger-v2.md`
+2. `canon/continuity-patch-wave3-v1.md`
+3. `series/series-architecture-v2.md`
+4. `series/book-and-series-arc-scaffolds-v1.md`
+5. `factions/factions-doctrine-ledger-v1.md`
+6. `factions/doctrine-and-command.md`
+7. `tech/technical-architecture-v1.md`
+8. `tech/fabricator-classes.md`
+9. `tech/interplanetary-transit-and-comms-envelope-v1.md`
+10. `timeline/master-timeline-sequence-v1.md`
+11. `timeline/books1-10-strategic-reconquest-map-v1.md`
+12. `characters/core-squad-depth-pack-v1.md`
+
+### Voice/Style Unification Pattern Applied
+1. **Common authority preamble:** inserted `Voice & Authority Lock (Wave 10)` section in each target doc.
+2. **Nomenclature lock:** standardized canonical actor set in each file preamble:
+   - Steward Directorate
+   - Consensus Operations Complex
+   - Earth Defense Fleet (EDF)
+   - Belt Municipal Compacts
+   - Asterion League
+3. **Cadence lock:** explicit mechanism -> decision -> cost writing rule to reduce multi-author tonal seams.
+4. **Consequence lock:** explicit prohibition on miracle throughput, realtime deep-theater Earth command, and zero-cost victories.
+
+### Concrete Examples
+1. **Authority naming alignment**
+   - Before (`canon/canon-ledger-v2.md`): “Real authority = Stewards of Earth ...”
+   - After: “Real authority = Steward Directorate (\"Stewards of Earth\" in internal shorthand) ...”
+   - Effect: keeps in-world shorthand while anchoring the canonical institution name used across docs.
+
+2. **Military institution naming alignment**
+   - Before (`factions/factions-doctrine-ledger-v1.md`): “Earth Defense Force (EDF) Command Apparatus”
+   - After: “Earth Defense Fleet (EDF) Command Apparatus”
+   - Effect: removes Force/Fleet oscillation and prevents faction-level terminology drift.
+
+3. **Cross-domain cadence normalization**
+   - Added the same consequence-forward cadence rule to canon, series, factions, tech, timeline, and character docs.
+   - Effect: docs now read with one command-brief rhythm instead of mixed academic/template/prose registers.
+
+### Contradiction-Check Summary (Post-Edit)
+- **Fabricator taxonomy (Class 4/3/2/1):** unchanged.
+- **AI-seed acquisition split (opening extraction vs databank training/provenance):** unchanged.
+- **Asterion League naming + Belt Class 1 breakthrough:** preserved.
+- **Blackfly Class 2 lock:** preserved.
+- **10-book reconquest arc:** preserved.
+- **No-FTL / transit-latency constraints:** preserved.
+- **Unknown-position probabilistic dragnet framing:** preserved.
+- **Warform non-conscious override framing + small-body anchoring realism:** preserved.
+
+### Net Outcome
+Top-12 authority docs now share a single military-space-opera command voice with consistent nomenclature and consequence-forward cadence, reducing multi-author seams without canon drift.

@@ -13,6 +13,13 @@ Cross-refs:
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## CP-005 — AI Acquisition/Databank Split Lock (CORE)
 
 **Rule:** Blackfly acquires a **new AI seed/system** in the opening spec-ops extraction. The later databank raid provides training/upgrade data and provenance leverage; it is not first acquisition.

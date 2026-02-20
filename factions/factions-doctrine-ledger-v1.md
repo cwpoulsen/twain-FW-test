@@ -4,6 +4,13 @@ Status: **Core political actors + conflict logic**
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## 1) Steward Directorate (Earth Core Elite)
 
 ### Identity
@@ -48,7 +55,7 @@ Distributed governance-automation stack descended from Project Consensus, embedd
 
 ---
 
-## 3) Earth Defense Force (EDF) Command Apparatus
+## 3) Earth Defense Fleet (EDF) Command Apparatus
 
 ### Identity
 Military arm enforcing Earth strategic priorities across cislunar and Belt theaters.

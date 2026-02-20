@@ -7,6 +7,13 @@ This file resolves prior class-number drift. Class labels are now strictly **Cla
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## 1) Canon Class Definitions (Locked)
 
 ### Class 4 — Industrial Backbone

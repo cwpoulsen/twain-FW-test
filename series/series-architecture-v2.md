@@ -5,6 +5,13 @@ Objective: enforce continuity through causal escalation, not episodic reset.
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## 1) Series Thesis
 
 Humanity outsourced social stability to an intelligence system tuned for control and called the quieter screams “progress.” The protagonists are not chasing a one-strike liberation fantasy; they are trying to stay alive, preserve human agency, and keep a brittle interplanetary empire from collapsing into extinction-scale reprisals.

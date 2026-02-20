@@ -5,6 +5,13 @@ Rule: all future events require world datetime + sequence index and must reconci
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## Chronology Table
 
 | sequence_index | world_datetime_start (UTC) | world_datetime_end (UTC) | event_title | canon_level | continuity_notes |

@@ -5,6 +5,13 @@ Purpose: constrain plot decisions through explicit engineering and logistics rul
 
 ---
 
+## Voice & Authority Lock (Wave 10)
+- Use canonical actor names only: **Steward Directorate**, **Consensus Operations Complex**, **Earth Defense Fleet (EDF)**, **Belt Municipal Compacts**, **Asterion League**.
+- Write in consequence-first cadence: mechanism -> decision -> cost.
+- Preserve hard constraints: no miracle throughput, no real-time Earth command outside latency limits, no zero-cost victories.
+
+---
+
 ## 1) Propulsion and Transit
 
 Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md` (Mode M2 burn-coast-burn defaults + core-lane timing tables).
