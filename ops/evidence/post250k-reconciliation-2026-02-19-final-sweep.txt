@@ -1,0 +1,39 @@
+# Post-250k Final Full-Repo Reconciliation Sweep
+Date: 2026-02-19T20:32:55-05:00
+Baseline SHA: 2855007c8c9af325d740c15b7b1dba1b293028a0
+
+## Scan configuration
+- SCAN_PATHS: canon characters factions locations ops scenes series tech timeline
+- EXCLUDES: --exclude-dir=.git --exclude-dir=agent-backup-2026-02-19 --exclude-dir=evidence
+
+## A-E lock scan summary
+| Scan | Exit | Hit Count |
+|---|---:|---:|
+| A1 Deprecated naming residue | 0 | 8 |
+| A2 Required Asterion League presence | 0 | 212 |
+| B1 AI timing anti-pattern | 0 | 1 |
+| B2 AI timing positive lock | 0 | 9 |
+| C1 Forbidden certainty framing | 0 | 2 |
+| C2 Required pursuit uncertainty cues | 0 | 27 |
+| D1 Low-g anti-pattern | 0 | 11 |
+| D2 Required low-g cues | 0 | 69 |
+| D3 Warform agency lock cues | 0 | 18 |
+| E1 Fabrication ladder lock presence | 0 | 65 |
+| E2 Fabrication taxonomy drift | 1 | 0 |
+
+## Classification notes
+- A1/C1/D1 hits are confined to policy/checklist/register contexts in ops docs; no active canon/series/timeline/scenes violations found.
+- B1 and E2 anti-pattern scans returned zero hits.
+- A2/B2/C2/D2/D3/E1 lock-presence scans returned expected broad positive coverage.
+
+## Contradiction + domain validation sweep
+- Timeline/causality: no ordering or AI-acquisition inversion found in timeline/canon lock statements.
+- Canon layering: CORE/SOFT/RUMOR markers present in canon authorities; no silent CORE override identified in sweep sample.
+- Mechanism/evidence guards: latency, chain-of-custody, and air-gap references present across ops/canon/series support docs.
+- Domain locks verified: naming, pursuit uncertainty, low-g realism cues, warform agency, fabrication ladder all preserved.
+
+## Final triage
+- P0 unresolved: 0
+- P1 unresolved: 0
+- P2 unresolved contradictions from this sweep: 0
+- Open P2 strategic backlog risks remain tracked as R-005..R-008 (non-blocking, previously declared).
