@@ -1,108 +1,102 @@
-# Fabrication Systems Architecture (FW Canon)
+# Fabrication Systems Architecture (Coherence Pass 1)
+
+Status: **Canon-aligned systems reference**  
+Continuity links: `tech/fabricator-classes.md`, `tech/operational-logistics.md`, `factions/factions-doctrine-ledger-v1.md`.
+
+---
 
 ## Purpose in Setting
-The strategic center of gravity in *Fabrication Wars* is not raw territory, but **throughput authority**: who can convert feedstock, energy, and validated design authority into battlefield-capable assets fastest. Fabrication systems are therefore a sovereign function equivalent to navy + treasury + armory in pre-fabrication eras.
+In *Stewards of Progress*, strategic dominance is governed by **throughput authority**: who can reliably convert feedstock, energy, and trusted templates into deployable capability under latency, sabotage, and political stress.
 
-See also: [Fabricator Class Taxonomy](./fabricator-classes.md), [Operational Logistics](./operational-logistics.md), and [Faction Doctrine & Command](../factions/doctrine-and-command.md).
-
----
-
-## Core Fabrication Stack
-
-### 1. Feedstock Intake Layer
-**Function:** Ingest ore, scrap, atmospheric gases, bioslurry, and reclaimed composites.
-
-**Subcomponents**
-- **Molecular sorting vaults**: Separate contaminants down to isotopic bands.
-- **Catalytic cracking arrays**: Break polymers and organics into reusable monomers.
-- **Rare-earth concentration beds**: High-value bottleneck processing.
-
-**Hard constraints**
-- Water and hydrogen balance limits continuous output on dry worlds.
-- Isotopic impurity above 0.8% dramatically increases failure rates in high-stress weapon parts.
-- Contaminated battlefield salvage can carry hostile nanite residues requiring quarantine burn cycles.
-
-### 2. Energy Conversion Layer
-**Function:** Deliver stable power envelopes for additive, subtractive, biofab, and lattice growth processes.
-
-**Generation profiles**
-- **Microfusion toroids**: High output, strategic targets, fuel logistics burden.
-- **Fission salt stacks**: Slower startup, robust under siege, politically sensitive.
-- **Solar sail fields + supercap farms**: Quiet signatures, weather/orbital dependence.
-
-**Operational note:** Throughput collapses are typically energy-envelope failures before feedstock exhaustion; power governance determines war tempo.
-
-### 3. Design Authority Layer (DAL)
-**Function:** Verify blueprint integrity, cryptographic signing, and legal/strategic release permissions.
-
-**Governance elements**
-- **Template Lineage Registry (TLR)** for provenance.
-- **Combat Release Keys (CRKs)** requiring command quorum.
-- **Failsafe envelope tags** preventing unauthorized over-performance variants.
-
-**Primary vulnerability:** DAL compromise allows hidden defects, remote kill conditions, or adversary telemetry implants at scale.
-
-### 4. Fabrication Execution Layer
-**Function:** Physical manufacturing and assembly.
-
-**Modes**
-- **Macro-additive chassis printing** (armor hulls, drone frames)
-- **Micro-lattice growth** (lightweight structural internals)
-- **Precision machining cells** (barrels, seals, bearings)
-- **Biofab pods** (medic tissue, symbiotic interfaces)
-
-### 5. Validation & Hardening Layer
-**Function:** Stress testing, quantum scan inspection, EMI hardening, and field certification.
-
-**Doctrine impact:** Factions with strict validation have slower first-wave output but lower attrition over campaigns >90 days.
+Fabrication is therefore not just industry; it is sovereignty infrastructure.
 
 ---
 
-## Strategic Control Concepts
+## 1) Core Stack
+
+### 1.1 Feedstock Intake
+- Ore, scrap, polymer waste, and reclaimed structural composites enter assay/sorting loops.
+- Battlefield salvage is valuable but contamination-prone.
+
+**Constraints**
+- Isotopic impurity and nanite residue can silently poison high-stress components.
+- Water/hydrogen balance limits sustained output in dry theaters.
+
+### 1.2 Energy Envelope
+- Fusion generation enables high baseline power, but local stability is still fragile.
+- Power spikes, thermal limits, and coolant loss cause throughput collapse before feedstock exhaustion.
+
+### 1.3 Design Authority Layer (DAL)
+- Controls template lineage, signing, release policy, and legal accountability.
+- Operationally, DAL is the bridge between politics and machines.
+
+**Key mechanisms**
+- Template provenance registry.
+- Quorum-gated release keys.
+- Safety envelopes and forensic trace markers.
+
+### 1.4 Execution Layer
+- Macro-additive structures (hulls, habitat shells, armor frames).
+- Electronics fabrication (within class limits).
+- Precision machining and molecular synthesis where authorized.
+
+### 1.5 Validation/Hardening
+- Stress testing, EMI hardening, material scans, destructive sampling.
+- Under crisis tempo, factions that bypass this gain short-term surge and long-term collapse risk.
+
+---
+
+## 2) Canon Class Coupling
+
+Fabrication classes are fixed to canon definitions:
+
+- **Class 4:** heavy industrial backbone.
+- **Class 3:** general electronics tier.
+- **Class 2:** strategic precision (advanced chips, molecular meds, superconductive components).
+- **Class 1:** AGI bottleneck fabrication.
+
+Important: class label describes capability/governance tier, not facility size. A small facility may still be class-gated by template authority.
+
+---
+
+## 3) Control Concepts
 
 ### Throughput Sovereignty
-A polity is sovereign only if it controls at least one end-to-end fabrication chain that is not externally key-gated. Outsourced DAL is equivalent to foreign command of one’s arsenal.
+A polity is only truly sovereign if it controls enough class access + DAL authority to arm and repair itself without hostile keyholders.
 
 ### Blue Delay
-The delay between approved design and deployable production lot. Blue Delay under 6 hours enables tactical adaptation; over 48 hours locks doctrine into static attritional patterns.
+Time from approved design to fieldable lot.
+- < 6h: tactical adaptation possible.
+- > 48h: doctrine calcifies; adversary can out-cycle you.
 
 ### Ghost Capacity
-Hidden reserve output that can be activated through dormant lines, dark depots, and civilian line conversion. Essential for strategic surprise.
+Dormant lines and covert queue reserves that can be activated for strategic surprise.
 
 ---
 
-## Typical Campaign Phases and Fabrication Behavior
+## 4) Earth-Belt Implication Layer
 
-1. **Shaping (Pre-open conflict)**
-   - Cyber probes against DAL and logistics ERP nodes.
-   - Market manipulation of rare-earth futures to induce feedstock scarcity.
-2. **Shock (First 10 days)**
-   - Long-range strikes on fusion toroids and rail hubs.
-   - Rapid release of pre-signed emergency templates.
-3. **Grinding Exchange (30–180 days)**
-   - Salvage wars; battlefield wreckage becomes feedstock terrain.
-   - Counterfitted template proliferation (quality collapse risk).
-4. **Breakpoint / Settlement**
-   - One side loses DAL trust or energy stability.
-   - Mutiny and regional defections often begin at fabricator queue starvation.
-
-See continuity details in [Faction Failure Modes](../factions/failure-modes-and-escalation.md).
+- Belt can sustain wide autonomy with Class 4/3 ecosystems.
+- Earth retains leverage by controlling Class 2 distribution and concealing Class 1 reality.
+- As comm latency grows, Earth control shifts from direct behavioral steering to queue pressure, sanctions, and narrative shaping.
 
 ---
 
-## Key Vulnerability Matrix
+## 5) Recurring Vulnerabilities
 
-| Attack Surface | Immediate Effect | Delayed Effect | Countermeasure |
+| Attack surface | Immediate effect | Delayed effect | Typical countermeasure |
 |---|---|---|---|
-| DAL key theft | Unauthorized production | Fleet-wide latent defects | Quorum rotation + air-gapped signing |
-| Feedstock contamination | Batch scrap spikes | Chronic fatigue failures | Multi-stage assay + quarantine loops |
-| Power pulse attack | Production halt | Thermal stress damage | Segmentable grids + inertial buffering |
-| Logistics node sabotage | Queue starvation | Regional political fracture | Distributed depots + autonomous routing |
-| Validation bypass | Fast surge output | Catastrophic combat breakdown | Randomized destructive testing |
+| DAL key compromise | Unauthorized production | Fleet-wide latent defects | Quorum rotation + segmented signing |
+| Feedstock contamination | Scrap spikes | fatigue-failure cascades | Multi-stage assay + quarantine loops |
+| Grid/coolant disruption | Throughput halt | thermal hardware damage | segmented microgrids + reserve sinks |
+| Queue spoofing | Priority starvation | political legitimacy fracture | authenticated scheduling + independent audit |
+| Validation bypass | rapid output surge | combat reliability collapse | randomized destructive testing |
 
 ---
 
-## Canon Continuity Anchors
-- Faction behaviors derived from this stack are codified in [Major Factions](../factions/major-factions.md).
-- Detailed class-level tools and battlefield roles appear in [Fabricator Class Taxonomy](./fabricator-classes.md).
-- Sustainment realities and campaign economics are in [Operational Logistics](./operational-logistics.md).
+## 6) Story-Use Rules
+
+1. No fabrication miracle without feedstock, power, and queue source.
+2. Any major output jump must show corresponding governance permission (or breach).
+3. Sabotage should have technical signatures and downstream consequences.
+4. Production success in one area should create cost or scarcity elsewhere.

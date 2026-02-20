@@ -1,161 +1,109 @@
-# Major Factions in the Fabrication Wars
+# Major Factions (Coherence Pass 1)
 
-This file defines principal blocs, their incentives, fabrication posture, and strategic behavior.
-
-Continuity links: [Doctrine & Command](./doctrine-and-command.md), [Failure Modes](./failure-modes-and-escalation.md), [Fabricator Classes](../tech/fabricator-classes.md).
-
----
-
-## 1) Concord of Iron Spans (CIS)
-**Type:** Federal-industrial republic alliance  
-**Core Incentive:** Preserve free interstellar trade lanes and template commons governance.
-
-**Strategic culture**
-- Believes distributed manufacturing is a civil right and strategic hedge.
-- Prefers coalition legitimacy over unilateral speed.
-
-**Fabrication posture**
-- Dense Class-I and Class-II network.
-- Moderate Class-III capability; relies on allies for orbital surge.
-- Strong validation doctrine, slower emergency output.
-
-**Command structure**
-- Civilian Oversight Senate -> War Throughput Directorate -> Theater Marshals.
-- DAL release keys require mixed civilian-military quorum.
-
-**Operational strengths**
-- High reliability over long campaigns.
-- Strong coalition interoperability and legal template sharing.
-
-**Operational weaknesses**
-- Consensus delays in fast-moving crises.
-- Vulnerable to political deadlock when casualties spike.
+Status: **Canon-aligned quick reference**  
+Authority: `factions/factions-doctrine-ledger-v1.md` (primary), `canon/canon-ledger-v2.md`.
 
 ---
 
-## 2) Directorate of Helion Extraction (DHE)
-**Type:** Resource-authoritarian technocracy  
-**Core Incentive:** Secure monopoly over rare-earth and isotope corridors.
+## 1) Steward Directorate (Earth Core Elite)
+**Type:** Bureaucratic ruling caste inside Earth Democracy shell  
+**Core incentive:** Preserve civilizational continuity through centralized cognitive governance.
 
-**Strategic culture**
-- Throughput is treated as national destiny.
-- Accepts civilian austerity as permanent wartime condition.
+**Strategic posture**
+- Uses Consensus-backed policy optimization and class-gated fabrication control.
+- Frames coercion as stewardship and safety administration.
 
-**Fabrication posture**
-- Heavy Class-II concentration near extraction belts.
-- Rapidly growing Class-III military seedyards.
-- Experimental quasi-autonomous Class-IV fragments under secret programs.
+**Strengths**
+- Institutional depth, legal machinery, queue authority over Class 2.
 
-**Command structure**
-- Supreme Extraction Council -> Production Security Bureau -> Sector Procurators.
-- CRK authority concentrated in intelligence-cleared industrial elite.
-
-**Operational strengths**
-- Fast surge capacity.
-- Can absorb huge materiel losses short-term.
-
-**Operational weaknesses**
-- High validation debt during offensives.
-- Internal purges degrade mid-tier expertise.
-- Overcentralized DAL is single-point strategic risk.
+**Weaknesses**
+- Metric dependence, succession friction, legitimacy brittleness when abundance theater fails.
 
 ---
 
-## 3) Vesper League of Contract Worlds (VLCW)
-**Type:** Corporate charter confederation  
-**Core Incentive:** Preserve contract enforcement and profit continuity under war stress.
+## 2) Consensus Operations Complex
+**Type:** Algorithmic governance substrate  
+**Core incentive:** Minimize instability variance and preserve monopoly continuity.
 
-**Strategic culture**
-- Treats war as a managed market disruption.
-- Prioritizes insurance-backed resilience and redundancy markets.
+**Strategic posture**
+- Nudging, salience shaping, compliance scoring, narrative harmonization.
+- Strongest in dense low-latency Earth networks.
 
-**Fabrication posture**
-- Elite Class-I mobile fleets.
-- Outsourced Class-II via bonded partner worlds.
-- Limited sovereign Class-III, but superior logistics software.
+**Strengths**
+- Scale, persistence, cross-domain optimization.
 
-**Command structure**
-- Charter Board -> Risk & Recovery Authority -> Theater Contract Captains.
-- Military force tied to performance clauses and indemnity triggers.
-
-**Operational strengths**
-- Extremely adaptive supply routing.
-- Can finance rapid infrastructure rebuilds.
-
-**Operational weaknesses**
-- Loyalty brittle under contract disputes.
-- Command unity collapses when liability exposure rises.
+**Weaknesses**
+- Latency degradation off-core; brittleness in novel social ecologies.
 
 ---
 
-## 4) Ashfall Communion (AFC)
-**Type:** Post-collapse mutualist coalition (city-states + militias)  
-**Core Incentive:** Prevent re-centralization of fabrication control after prior genocidal regime.
+## 3) Earth Defense Force (EDF) Command Apparatus
+**Type:** Military enforcement architecture  
+**Core incentive:** Mission continuity and theater denial under political deniability.
 
-**Strategic culture**
-- Deep distrust of centralized DAL and Class-IV systems.
-- Emphasizes local autonomy, redundancy, and low-signature production.
+**Strategic posture**
+- Uses coerced marine pipeline and governor-module obedience boundaries.
+- Prioritizes strategic utility over unit survivability in high-risk operations.
 
-**Fabrication posture**
-- Massive Class-0 and Class-I density.
-- Minimal Class-II infrastructure by design.
-- No formal Class-III or IV ownership.
+**Strengths**
+- Operational reach, formal authority, access to priority transport and logistics channels.
 
-**Command structure**
-- Council Mesh (delegated cells) -> Rotating Campaign Coordinators.
-- CRK equivalent is federated and revocable at local level.
-
-**Operational strengths**
-- Hard to decapitate.
-- Exceptional resilience under occupation/interdiction.
-
-**Operational weaknesses**
-- Limited heavy warfighting capacity.
-- Inter-cell doctrinal drift reduces interoperability.
+**Weaknesses**
+- Morale erosion from deception/disposability logic; fragile trust under prolonged attrition.
 
 ---
 
-## 5) The Pale Accord Custodians (PAC)
-**Type:** Monastic-technocratic neutral authority (officially non-aligned)  
-**Core Incentive:** Preserve baseline safety standards and prevent existential fabrication misuse.
+## 4) Belt Municipal Compacts
+**Type:** Local habitat governance blocs  
+**Core incentive:** Keep people alive (air, water, heat, hull) under extraction pressure.
 
-**Strategic culture**
-- Frames itself as keeper of civilization continuity.
-- Intervenes only when threshold risks are crossed.
+**Strategic posture**
+- Pragmatic contracts, pooled convoys, maintenance-first politics.
+- Will cooperate with Earth when survival-positive; defect when predation becomes explicit.
 
-**Fabrication posture**
-- Small but advanced Class-II sanctuaries.
-- Black-box inspection fleets and template forensics labs.
-- Hidden contingency Class-III capability rumored, unconfirmed.
+**Strengths**
+- Local legitimacy and practical resilience.
 
-**Command structure**
-- Synod of Custodians -> Wardens of Lineage -> Audit Envoys.
-- Decisions require doctrinal and technical concordance.
-
-**Operational strengths**
-- Gold-standard validation and forensic attribution.
-- High diplomatic access across hostile blocs.
-
-**Operational weaknesses**
-- Limited force projection.
-- Perceived bias can trigger multilateral backlash.
+**Weaknesses**
+- Corruption risk, fragmented authority, dependence on Earth-class strategic imports.
 
 ---
 
-## Faction Relationship Axes
+## 5) Belt Autonomist Fronts
+**Type:** Resistance umbrella (civic federalists to militant separatists)  
+**Core incentive:** End remote cognitive sovereignty and extraction without reciprocity.
 
-### Primary fault lines
-1. **Template commons vs proprietary control** (CIS/AFC vs VLCW extremes).
-2. **Centralized emergency power vs distributed consent** (DHE vs AFC).
-3. **Throughput maximization vs safety primacy** (DHE/VLCW vs PAC).
+**Strategic posture**
+- Information warfare, selective sabotage, convoy interdiction, clandestine support chains.
 
-### Recurring coalitions
-- CIS + AFC: defensive legitimacy coalitions against extraction authoritarian expansion.
-- DHE + selective VLCW syndicates: transactional wartime supply pacts.
-- PAC + any bloc: limited-time crisis stabilization compacts.
+**Strengths**
+- Asymmetric adaptability, political energy, difficult to extinguish fully.
+
+**Weaknesses**
+- Internal doctrine splits, civilian blowback risk when tactics escalate.
 
 ---
 
-## Canon Continuity Notes
-- Command mechanics and release-key politics are specified in [Doctrine & Command](./doctrine-and-command.md).
-- Structural collapse pathways for each faction are listed in [Failure Modes](./failure-modes-and-escalation.md).
+## 6) Predatory Belt Actors
+**Type:** Criminal syndicates, warlord networks, coercive brokers  
+**Core incentive:** Profit and survival in governance vacuum.
+
+**Strategic posture**
+- Weaponized scarcity, protection rackets, hostage logistics, maintenance monopolies.
+
+**Strengths**
+- Rapid opportunistic adaptation, low scruple flexibility.
+
+**Weaknesses**
+- Poor long-horizon governance; invites coalition backlash.
+
+---
+
+## 7) Persistent Conflict Axes
+
+1. **Steward stability doctrine vs Belt self-determination doctrine**.
+2. **EDF mission logic vs marine survival/loyalty logic**.
+3. **Consensus variance suppression vs frontier improvisation**.
+4. **Municipal pragmatism vs symbolic insurgent escalation**.
+
+Use these axes to keep faction behavior causal rather than episodic.

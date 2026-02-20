@@ -1,6 +1,14 @@
 # Worldbuilding Core Pack v1 (Draft)
 
-_Status: Discovery / provisional canon_
+_Status: Discovery / provisional canon (coherence-annotated)_
+
+> Coherence note: this file preserves early discovery depth, but authority now resolves through:
+> - `canon/canon-ledger-v2.md` (CORE/SOFT lock)
+> - `series/series-architecture-v2.md` (book structure authority)
+> - `tech/technical-architecture-v1.md` (hard constraints)
+> - `timeline/master-timeline-sequence-v1.md` (date/sequence authority)
+>
+> In conflicts, newer authority files win; this file remains ideation reservoir.
 
 ## 1) Era & Timeline Baseline
 

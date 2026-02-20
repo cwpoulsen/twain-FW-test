@@ -196,3 +196,4 @@ These unknowns are preserved for plot maneuvering, not worldbuilding vagueness.
 - Wave 2 continuity lock file: `canon/continuity-patch-wave2-v1.md`
 - Chronology authority: `timeline/master-timeline-sequence-v1.md`
 - Contradiction operations layer: `ops/continuity-holes-register-v1.md` + `ops/contradiction-scanner-checklist-v1.md`
+- Coherence Pass 1 realignment targets: `tech/fabricator-classes.md`, `tech/fabrication-systems.md`, `factions/major-factions.md`, `factions/doctrine-and-command.md`

@@ -37,3 +37,4 @@ Rule binding: all future events must carry world datetime + sequence index and r
 - If any event date changes, impacted travel/comms windows must be recalculated and logged.
 - Character files should reference sequence indices for formative events to prevent drift.
 - Book 1 sequence lock: 0170 (betrayal/escape) must precede 0180 (databank moral pivot); do not invert without explicit retcon.
+- Faction/tech references used in timeline scenes should align with coherence-pass nomenclature in `factions/major-factions.md` and `tech/fabricator-classes.md` (Class 4→1 ladder).

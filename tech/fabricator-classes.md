@@ -1,164 +1,95 @@
-# Fabricator Class Taxonomy
+# Fabricator Class Taxonomy (Coherence Pass 1)
 
-Defines canonical fabrication platforms by scale, survivability, and doctrinal role.
+Status: **Canon-aligned reference**  
+Authority: `canon/canon-ledger-v2.md` section 5 + `tech/technical-architecture-v1.md` section 3.
 
-Continuity links: [Fabrication Systems Architecture](./fabrication-systems.md), [Operational Logistics](./operational-logistics.md), [Major Factions](../factions/major-factions.md).
-
----
-
-## Class-0: Field Stitchers ("Stitch")
-**Mass:** 40–250 kg  
-**Crew:** 0–2 operators  
-**Output:** Consumables, patches, sensor housings, drone micro-parts
-
-**Capabilities**
-- Near-frontline repair and adaptation.
-- Converts scavenged polymers and light metals quickly.
-- Can print mission-specific connectors/adapters within minutes.
-
-**Constraints**
-- Cannot produce pressure-rated weapon cores or precision barrels.
-- Strong dependence on validated template libraries.
-- High misprint rate under dust/radiation without clean tents.
-
-**Logistics profile**
-- Feedstock: cartridge canisters + salvage chips.
-- Power: battery/microcell; vulnerable to cold-weather efficiency loss.
-
-**Vulnerabilities**
-- Easy to spoof with poisoned templates.
-- EM bursts can desynchronize calibrations.
-
-**Tactical implication**
-- Units with Stitch density recover combat power between engagements 2–3x faster.
-- Encourages decentralized initiative but increases template discipline burden.
+This file resolves prior class-number drift. Class labels are now strictly **Class 4 -> Class 1** (high access to highest restriction).
 
 ---
 
-## Class-I: Mobile Forge Carriers ("Forgevan")
-**Mass:** 8–40 tons  
-**Crew:** 6–24  
-**Output:** Light vehicles, drone swarms, crew-served weapon assemblies
+## 1) Canon Class Definitions (Locked)
 
-**Capabilities**
-- Brigade-level sustainment and adaptation.
-- Integrated assay + print + basic QA chain.
-- Can refit captured enemy platforms into own logistics ecosystem.
+### Class 4 — Industrial Backbone
+**Access:** Broad (civil + military)  
+**Primary outputs:** hull structures, composites, wiring harnesses, pressure frames, mechanical assemblies.
 
-**Constraints**
-- Throughput bottlenecked by precision machining modules.
-- Signature-heavy; thermal output exposes location.
-- Requires protected queue windows for high-complexity builds.
+**Role in war and economy**
+- Keeps habitats sealed, ships flying, and heavy infrastructure recoverable.
+- Dominates maintenance throughput and post-strike rebuild tempo.
 
-**Logistics profile**
-- Needs convoyed feedstock bricks and coolant.
-- Typical endurance: 7–12 days independent, then resupply.
-
-**Vulnerabilities**
-- Ambush priority target; destruction has disproportionate morale effect.
-- Internal sabotage risk from contractor specialists.
-
-**Tactical implication**
-- Enables maneuver warfare away from fixed depots.
-- Loss forces reversion to static supply lines within ~72 hours.
+**Hard limits**
+- Cannot produce top-tier compute chips or strategic molecular products.
+- Precision tolerance falls off for ultra-high-stress or nanoscale components.
 
 ---
 
-## Class-II: Theater Foundries ("Bastion Fabs")
-**Mass:** 20k–200k tons equivalent infrastructure  
-**Crew:** 2,000–15,000 mixed civilian/military  
-**Output:** Mainline armor, missiles, reactor components, replacement hull sections
+### Class 3 — General Electronics Tier
+**Access:** Broad but monitored  
+**Primary outputs:** mainstream electronics, sensors, control boards, displays, basic logic ICs.
 
-**Capabilities**
-- Sustained campaign production across multiple corps.
-- Multi-material mastery including ceramics, smart foams, and lattice alloys.
-- Own DAL mirror nodes with regional authority.
+**Role in war and economy**
+- Enables drones, comms gear, field diagnostics, and everyday industrial controls.
+- Provides the electronics floor for almost all Belt self-sufficiency.
 
-**Constraints**
-- Long setup time; geologically dependent for heat sink and resource flow.
-- Politically visible; often tied to local labor compacts.
-- Vulnerable to legal strikes if civilian ownership is mixed.
-
-**Logistics profile**
-- Rail/orbital elevator/sea-route dependent.
-- Consumes extraordinary coolant and shielding material.
-
-**Vulnerabilities**
-- Kinetic strikes, cyber infiltration, labor unrest.
-- Queue attacks (false high-priority jobs) can silently cripple output.
-
-**Tactical implication**
-- Theater with surviving Bastion Fabs wins wars of duration.
-- Their loss forces strategic withdrawal or external dependency.
+**Hard limits**
+- Excludes advanced microprocessor node capability.
+- Cannot replace Earth-controlled Class 2 compute/material bottlenecks.
 
 ---
 
-## Class-III: Orbital Seed Yards ("Seedyards")
-**Mass:** Modular 5k–80k tons  
-**Crew:** 300–2,000 + autonomous tenders  
-**Output:** Escorts, station modules, atmospheric drop-frames, long-burn logistics craft
+### Class 2 — Strategic Precision Tier
+**Access:** Tightly controlled (primarily Earth-governed)  
+**Primary outputs:** advanced chips, molecular-fab medicines, strategic superconductive materials, high-end sensor and reactor components.
 
-**Capabilities**
-- Manufactures in microgravity for superior lattice quality.
-- Rapid deployment of prefabricated orbital infrastructure.
-- Supports planetary blockade and deep-route interdiction.
+**Role in war and economy**
+- Core leverage layer in Earth-Belt dependency.
+- Sets ceiling for autonomous military modernization by non-Earth actors.
 
-**Constraints**
-- Requires secure launch/transfer chain.
-- High latency to ground tactical needs unless drop network intact.
-- Dependent on orbital debris management.
-
-**Logistics profile**
-- Feedstock from asteroid tow, orbital salvage, or launch mass.
-- Energy via solar arrays + fusion cores.
-
-**Vulnerabilities**
-- Orbital denial weapons and debris storms.
-- Docking software compromise can trigger cascading collisions.
-
-**Tactical implication**
-- Side with Seedyard advantage dictates strategic mobility and reinforcement tempo.
+**Hard limits / governance constraints**
+- DAL and release-key controls are treated as sovereignty instruments.
+- Queue access often functions as political reward/punishment.
 
 ---
 
-## Class-IV: Sovereign Genesis Arrays ("Genesis")
-**Mass:** Continent-scale distributed network  
-**Crew:** Nation-state institutional control  
-**Output:** End-to-end military ecosystem including DAL-authorized doctrine variants
+### Class 1 — AGI Bottleneck Tier
+**Access:** Black-tier secret  
+**Primary outputs:** quantum compute chip fabric capable of supporting AGI-class systems.
 
-**Capabilities**
-- Simultaneous production across all warfare domains.
-- Autonomous design iteration with human command checkpoints.
-- Can regenerate destroyed industrial baselines in months, not decades.
+**Role in regime continuity**
+- Maintains Consensus monopoly on high-end intelligence substrate.
+- Central to anti-peer-AGI doctrine.
 
-**Constraints**
-- Governance complexity; command legitimacy is a technical dependency.
-- Requires stable legal regime around template rights.
-- Political fear of overcentralized control invites sabotage coalitions.
-
-**Logistics profile**
-- Integrates civilian economy with wartime conversion protocols.
-- Strategic reserves measured in time-to-rebuild rather than stockpile tonnage.
-
-**Vulnerabilities**
-- Civil war risk if CRK quorums fracture.
-- AI alignment drift in optimization layers can privilege throughput over safety.
-
-**Tactical implication**
-- Genesis-capable factions can absorb catastrophic losses and continue offensive operations.
-- Defeating Genesis requires governance disruption, not just kinetic destruction.
+**Hard limits / structural facts**
+- Class 1 can only replicate Class 1.
+- Site locations, redundancy topology, and operator chain remain compartmented.
 
 ---
 
-## Cross-Class Interoperability Rules
-1. **Template compatibility > hardware compatibility.** Shared schema permits coalition production despite different machines.
-2. **Validation debt accumulates silently.** Surging Class-0/1 output without Class-II QA causes delayed combat failures.
-3. **Energy and coolant are universal choke points.** Feedstock substitution is easier than power substitution.
-4. **Human trust is a hard dependency.** Operators will bypass safeguards under pressure; doctrine must anticipate this.
+## 2) Deployment Forms (Non-Class Labels)
+
+To preserve prior useful detail without class confusion, deployment language is now separated from class labels:
+
+- **Field Stitch Packages**: front-line repair modules, usually Class 4/3-capable.
+- **Mobile Forge Carriers**: convoy fabrication stacks, typically Class 4 with selective Class 3.
+- **Theater Foundry Complexes**: fixed large-scale production, mainly Class 4/3; occasionally licensed Class 2 enclaves.
+- **Orbital Seed Yards**: microgravity ship/module production; class mix depends on political control.
+- **Sovereign Integrated Arrays**: governance-level networks coordinating all available classes under one command regime.
+
+These are operational topologies, not alternate class names.
 
 ---
 
-## Canon Hooks for Story Operations
-- Mutiny trigger: command diverts coolant from civilian grids to Class-II military lines during heatwave.
-- Covert ops objective: inject counterfeit calibration package into Forgevan fleet before offensive.
-- Strategic plot turn: Seedyard debris cascade traps relief fleet, isolating a colony theater.
+## 3) Interoperability and Failure Rules
+
+1. **Template trust is decisive.** Compatible schema beats identical hardware.
+2. **Validation debt is cumulative.** Class 4/3 surge without Class 2-grade QA creates delayed catastrophic failures.
+3. **Energy/coolant remain universal chokepoints.** Feedstock workarounds cannot fully substitute power stability.
+4. **Governance is a technical dependency.** Production collapses when release authority fragments.
+
+---
+
+## 4) Story Constraints to Reuse
+
+- Belt actors can often sustain war with Class 4/3 improvisation, but struggle to scale precision dependence without Class 2 access.
+- Earth can win queue wars without major fleet action by throttling Class 2 outputs.
+- Any credible threat to Class 1 secrecy escalates immediately to existential-level policy response.

@@ -2,6 +2,8 @@
 
 _Status: Soft canon scaffold (compatible with current locked bios)_
 
+Continuity note: formative events should reference `timeline/master-timeline-sequence-v1.md` indices (especially 0100, 0120, 0150, 0170, 0180) to prevent drift across character files.
+
 ## Squad Core (Current Known Five)
 - Staff Sergeant **John Hale** — squad lead, protector logic, moral center under strain.
 - Corporal **Valerie Wells** — high-performance combatant/pilot, autonomy-first, controlled fury arc.

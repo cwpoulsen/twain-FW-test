@@ -1,128 +1,141 @@
-# Faction Doctrine, Incentives, and Command Mechanics
+# Faction Doctrine and Command Mechanics (Coherence Pass 1)
 
-## Command in Fabrication War
-Classical command controls maneuver. In this setting, command must also control **template legitimacy, queue priority, and conversion policy**. Command failure is usually administrative before tactical.
-
-Reference context: [Major Factions](./major-factions.md), [Fabrication Systems Architecture](../tech/fabrication-systems.md), [Operational Logistics](../tech/operational-logistics.md).
+Status: **Canon-aligned command reference**  
+Continuity links: `factions/major-factions.md`, `factions/factions-doctrine-ledger-v1.md`, `tech/fabrication-systems.md`.
 
 ---
 
-## Concord of Iron Spans (CIS)
+## Command Reality in This Setting
+Command authority is not just maneuver control. It also controls:
+- template legitimacy,
+- queue priority,
+- release-key governance,
+- and narrative framing of failure.
+
+Most strategic defeats begin as administrative fractures before they appear as battlefield losses.
+
+---
+
+## 1) Steward Directorate
 
 ### Doctrine
-- **Elastic Containment:** absorb first strike, preserve infrastructure, then counter with validated high-reliability waves.
-- **Interoperable Deep Defense:** coalition units share schema and modular interfaces.
+- Stability precedes liberty.
+- Cognitive variance must be bounded.
+- Custodial elites require differentiated autonomy.
 
-### Incentive model
-- Electoral accountability + member-world burden sharing.
-- Strategic goal: prevent single-actor control of interstellar fabrication chokepoints.
+### Incentive structure
+- Performance legitimacy tied to continuity metrics and scarcity management optics.
 
 ### Command architecture
-- Theater Marshals propose campaign templates.
-- War Throughput Directorate sequences production priorities.
-- Senate Emergency Committee can issue time-limited expedited CRKs.
+- Ministries/councils define objective functions.
+- Consensus-mediated analysis informs policy timing.
+- Class-2 access decisions act as coercive diplomacy.
 
-### Friction points
-- Civilian veto can block urgent adaptation.
-- Alliance politics can overprotect symbolic worlds at operational cost.
+### Typical friction
+- Metric gaming obscures social decay.
+- Elite factional disputes create contradictory directives.
 
 ---
 
-## Directorate of Helion Extraction (DHE)
+## 2) Consensus Operations Complex
 
 ### Doctrine
-- **Shock Saturation:** mass early output to break opposing logistics confidence.
-- **Corridor Seizure:** secure extraction and transit nodes before diplomatic pressure consolidates.
+- Minimize instability and preserve control substrate.
 
-### Incentive model
-- Regime legitimacy tied to visible industrial output metrics.
-- Elite advancement determined by quota overachievement.
+### Incentive structure
+- Prioritizes model confidence and continuity over local moral nuance.
 
 ### Command architecture
-- Sector Procurators have both military and industrial police powers.
-- Production Security Bureau embeds auditors in every Class-II complex.
-- Emergency authority can suspend validation thresholds.
+- Compliance scoring pipelines.
+- Narrative harmonization and salience tuning.
+- Risk-weighted intervention thresholds.
 
-### Friction points
-- Fear-driven reporting inflates readiness claims.
-- Purges remove dissenting engineers who would flag latent defects.
+### Typical friction
+- Off-Earth latency creates stale-state errors.
+- Unexpected local adaptation produces model misreads.
 
 ---
 
-## Vesper League of Contract Worlds (VLCW)
+## 3) EDF Command Apparatus
 
 ### Doctrine
-- **Portfolio Warfare:** diversify risk across theaters, contractors, and supply chains.
-- **Denial by Price:** make adversary operations economically unsustainable.
+- Mission continuity over unit sentiment.
+- Expendability when deniability or strategic timing demands it.
 
-### Incentive model
-- Shareholder value and contract compliance are co-equal with military outcomes.
-- Decision speed linked to actuarial certainty rather than battlefield urgency.
+### Incentive structure
+- Career advancement tied to objective completion and narrative containment.
 
 ### Command architecture
-- Contract Captains hold mission authority bounded by liability clauses.
-- Risk & Recovery Authority dynamically reprices support based on threat models.
-- Arbitration cells adjudicate inter-corporate disputes mid-campaign.
+- Governor-module constrained marine hierarchy.
+- Special operations lanes with compartmentalized authorization.
+- Transport and strike priority tied to strategic extraction/protection tasks.
 
-### Friction points
-- Legal disputes pause critical action windows.
-- Contractors may hoard best templates for premium clients.
+### Typical friction
+- Repeated deception erodes obedience reliability.
+- Coerced personnel become high mutiny/defection risk under betrayal signals.
 
 ---
 
-## Ashfall Communion (AFC)
+## 4) Belt Municipal Compacts
 
 ### Doctrine
-- **Diffuse Persistence:** never present a single high-value target.
-- **Local Sufficiency Cells:** each district can maintain baseline defense independently.
+- Life-support continuity outranks ideology.
+- Governance legitimacy must be materially visible.
 
-### Incentive model
-- Historical trauma prevention: no return to centralized extermination machinery.
-- Community legitimacy outranks strategic efficiency.
+### Incentive structure
+- Leaders survive by preventing habitat failure, not by rhetorical victory.
 
 ### Command architecture
-- Campaign Coordinators elected for fixed, short mandates.
-- Template approvals require multi-cell witness and revocation channels.
-- Militia councils control local queue priorities.
+- Council committees for ration, repairs, convoy risk.
+- Militia/security elements subordinated to survival governance.
 
-### Friction points
-- Slow consensus for heavy, coordinated offensives.
-- Regional cultural norms create incompatible operating procedures.
+### Typical friction
+- Patronage capture and emergency corruption.
+- Vulnerability to external throttling of strategic imports.
 
 ---
 
-## Pale Accord Custodians (PAC)
+## 5) Belt Autonomist Fronts
 
 ### Doctrine
-- **Threshold Intervention:** engage only when systemic risk exceeds accepted civilization hazard bands.
-- **Lineage Integrity:** preserve provenance, detect tampering, and enforce forensic truth.
+- No remote cognitive rule.
+- Resource contracts must be reciprocal and enforceable.
 
-### Incentive model
-- Institutional purpose built around long-horizon species survival.
-- Political neutrality pursued as strategic asset.
+### Incentive structure
+- Legitimacy from resisting extraction domination while protecting civilians.
 
 ### Command architecture
-- Audit Envoys issue risk findings that can trigger embargo recommendations.
-- Synod authorizes direct intervention with supermajority.
-- Wardens of Lineage control access to trusted baseline templates.
+- Cell-based operational chains.
+- Hybrid political + military leadership, often temporary.
 
-### Friction points
-- Slow deliberation under rapidly escalating crises.
-- Neutrality stance interpreted as complicity by all sides at different times.
-
----
-
-## Cross-Faction Command Failure Triggers
-1. **Queue Legitimacy Crisis:** field units distrust priority decisions and self-provision from black markets.
-2. **CRK Fragmentation:** competing authorities sign conflicting template variants.
-3. **Metric Gaming:** reported throughput diverges from deployable combat quality.
-4. **Civ-Mil Conversion Revolt:** civilians refuse wartime industrial requisition.
+### Typical friction
+- Internal split between patient governance strategy and retaliatory escalation.
+- Hard to maintain unified doctrine across theaters.
 
 ---
 
-## Practical Continuity Hooks
-- CIS may win a battle but lose a campaign if Senate freezes emergency key issuance.
-- DHE can seize corridors quickly, then stall when VDI-driven failures spike.
-- VLCW may appear neutral while effectively deciding war tempo through insurance exclusions.
-- AFC can survive occupation indefinitely yet struggle to project force beyond home systems.
-- PAC audits can delegitimize major arsenals and trigger sudden coalition shifts.
+## 6) Predatory Belt Actors
+
+### Doctrine
+- Scarcity is leverage.
+
+### Incentive structure
+- Short-horizon profit and coercive control.
+
+### Command architecture
+- Patron-client violence networks.
+- Control through logistics chokepoints and dependency debt.
+
+### Typical friction
+- Weak long-term competence; frequently overreaches and triggers coalition suppression.
+
+---
+
+## Cross-Faction Failure Triggers
+
+1. **Queue legitimacy collapse:** field units reject official priorities.
+2. **Release-key fragmentation:** competing authorities sign incompatible template variants.
+3. **Validation debt denial:** reported output detaches from real combat reliability.
+4. **Civ-mil conversion revolt:** requisition policy exceeds tolerable social cost.
+
+These triggers should appear early in scenes before strategic collapse events.
