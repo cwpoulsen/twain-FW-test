@@ -233,3 +233,44 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 ### Next-cycle execution plan
 - Wave focus: contradiction hunt, doc-map dedupe, and reviewer decision extraction from existing corpus.
 - Required output on each run: changed-files list, contradiction-check summary, and clear keep/merge/archive recommendation.
+
+## 2026-02-20T01:23-05:00 — Strategy heartbeat: wave24 outcomes and cycle tightening
+
+### Current strategy
+- Continue continuous orchestration, but keep scope constrained to contradiction control, review decision extraction, and document-surface consolidation.
+- Avoid net-new lore expansion until review-decision backlog is converted into explicit human calls.
+- Maintain lock integrity via recurring R-005 sentinel checks and evidence artifacts.
+
+### Evidence from recent commits/results (W24 + in-flight W25)
+1. Wave24 contradiction and conformance quality gains:
+   - `b2d257e` (contradiction hunt + AI timing/fabrication wording normalization)
+   - `92df83c` (R-005 gate check with ST-1..ST-4 PASS and packet-anchor compliance fixes)
+2. Doc-surface dedupe started:
+   - `2f9a61c` (deduped doc-map + role-boundary pointers)
+3. Strategy-to-execution loop is working:
+   - `f7efdcc` strategy pivots were translated directly into Wave24 targeted tasks.
+4. W25 already producing decision-layer outputs:
+   - `4ed5aca` (prioritized decision queue + overlap disposition)
+
+### What is working
+1. Targeted depth waves are reducing contradiction risk without destabilizing canon locks.
+2. R-005 monitoring is now operational (gate criteria + evidence trail + patch discipline).
+3. Review tooling is converging toward actionable human decisions instead of raw volume.
+
+### Bottlenecks / quality risks
+1. **Guide redundancy remains non-zero** despite dedupe progress; routing ambiguity can still slow review.
+2. **Background wave overlap risk:** simultaneous commits can create partial-status reporting lag.
+3. **Late-night churn risk:** high-frequency waves can outpace human decision bandwidth.
+
+### Strategy pivots for next cycle
+1. Enforce a **decision-first cadence**: each cycle must produce/resolve decision items before any additional structural docs.
+2. Require every new ops guide to include either "Supersedes" or "Companion to" metadata line to control proliferation.
+3. Keep R-005 sentinel on repeating cadence; auto-escalate any ST gate drop from PASS to WARN/FAIL.
+4. Prefer merge/annotate over create-new when coverage already exists.
+
+### Next-cycle execution plan
+- Complete Wave25 closeout, then run a consolidation-only cycle:
+  1) finalize doc merge/supersession notes,
+  2) summarize unresolved human decisions,
+  3) verify R-005 sentinel stability against prior evidence.
+- Defer broad content expansion until human decision queue is reviewed.
