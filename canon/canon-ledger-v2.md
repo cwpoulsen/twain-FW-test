@@ -139,7 +139,7 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 ## 12) Controlled Unknowns (Updated)
 - **SOFT:** True architecture and safety profile of the new AI seed/system from the box.
 - **RUMOR:** Whether the seed is derivative, sibling, or adversarially designed relative to Consensus lineage.
-- **SOFT:** Asterion League internal governance: coalition, cell network, or proto-state.
+- **SOFT (updated Wave 17):** Asterion League governance remains federated/provisional but now constrained by explicit charter doctrine (`ops/asterion-governance-charter-doctrine-pack-v1.md`): enumerated powers, emergency sunsets, dual-key Class 1 controls, and liability-chain accountability.
 - **SOFT:** Exact hardening footprint of distributed Class 1 assets.
 
 ---

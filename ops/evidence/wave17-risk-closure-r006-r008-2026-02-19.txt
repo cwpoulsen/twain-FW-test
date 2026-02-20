@@ -1,0 +1,48 @@
+# Wave 17 Risk Closure Evidence — R-006/R-008
+Date: 2026-02-19
+Baseline SHA: f40dd224d87c2a67f90d63b8f3bd79f4a53a0ac4
+
+## Presence checks
+85:## 4) Accountability Doctrine
+107:## 5) Failure-Mode Map (Use as mandatory stressors)
+25:## 1) Sub-Faction Baseline Schema
+57:## 3) Drift Scoring Model (DSM)
+73:## 4) Intervention Ladder
+116:## Contradiction-Check Summary
+
+## Cross-link integration checks
+canon/canon-ledger-v2.md:142:- **SOFT (updated Wave 17):** Asterion League governance remains federated/provisional but now constrained by explicit charter doctrine (`ops/asterion-governance-charter-doctrine-pack-v1.md`): enumerated powers, emergency sunsets, dual-key Class 1 controls, and liability-chain accountability.
+canon/supporting-institutions-dossiers-v1.md:335:- **R-006 CLOSED (Wave 17):** governance constraints now formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md` and integrated into AL-PCA doctrine without forcing premature unitary-state retcon.
+series/scene-packets-books8-10-endgame-bridge-v1.md:17:- `ops/asterion-governance-charter-doctrine-pack-v1.md`
+factions/freed-voider-bands-dossier-v1.md:4:Cross-refs: `canon/canon-ledger-v2.md`, `timeline/books1-10-strategic-reconquest-map-v1.md`, `series/book-and-series-arc-scaffolds-v1.md`, `ops/operations-doctrine-annex-v1.md`, `ops/blackfly-unknown-position-pursuit-model-v1.md`, `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
+factions/freed-voider-bands-dossier-v1.md:79:Apply drift checks from `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`:
+series/scene-packets-books8-10-endgame-bridge-v1.md:16:- `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
+series/scene-packets-books8-10-endgame-bridge-v1.md:285:**Continuity refs:** seq 0510; mission chain `B10-S03`; FVB strategy lock; drift-monitor playbook (`ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`).
+ops/post250k-reconciliation-completion-status-2026-02-19.md:33:4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
+ops/post250k-reconciliation-completion-status-2026-02-19.md:38:  - `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
+
+## Risk-register closure checks
+ops/continuity-holes-register-v1.md:42:2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
+ops/continuity-holes-register-v1.md:44:4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
+ops/continuity-holes-register-v1.md:204:2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
+ops/continuity-holes-register-v1.md:206:4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
+ops/continuity-holes-register-v1.md:228:## Wave 17 Bounded Risk Closure — R-006 and R-008 (2026-02-19)
+ops/continuity-holes-register-v1.md:233:- `ops/asterion-governance-charter-doctrine-pack-v1.md` (R-006)
+ops/continuity-holes-register-v1.md:234:- `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md` (R-008)
+ops/continuity-holes-register-v1.md:252:- **R-006 (P2): CLOSED.**
+ops/continuity-holes-register-v1.md:253:- **R-008 (P2): CLOSED.**
+ops/continuity-holes-register-v1.md:254:- Remaining bounded backlog risks after this pass: **R-005 only**.
+ops/continuity-holes-register-v1.md:271:- Remaining open P2 monitor risks: none (R-006 and R-008 closed in Wave 17).
+ops/post250k-reconciliation-completion-status-2026-02-19.md:31:2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
+ops/post250k-reconciliation-completion-status-2026-02-19.md:33:4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
+ops/post250k-reconciliation-completion-status-2026-02-19.md:36:- Added evidence-linked closure artifacts for R-006 and R-008:
+
+## Quick contradiction probes (wave17 touched docs)
+- Deprecated naming probes:
+  none
+- Omniscience anti-pattern probes:
+  none
+- Suppression-only FVB probe:
+ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md:121:- Introduces no actor naming drift and no suppression-only miracle outcomes.
+series/scene-packets-books8-10-endgame-bridge-v1.md:277:**Conflict:** Revanchists demand blanket suppression; economists warn suppression-only will regenerate piracy funnels.  
+factions/freed-voider-bands-dossier-v1.md:81:- Trigger intervention ladder when portrayal flattens into single-command or suppression-only outcomes.

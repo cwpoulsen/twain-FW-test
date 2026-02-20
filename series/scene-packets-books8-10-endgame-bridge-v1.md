@@ -13,6 +13,8 @@ Authority-first refs:
 - `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`
 - `ops/logistics-replenishment-cadence-table-v1.md`
 - `factions/freed-voider-bands-dossier-v1.md`
+- `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
+- `ops/asterion-governance-charter-doctrine-pack-v1.md`
 
 ## Scene Packet Template Lock (R-005)
 
@@ -280,7 +282,7 @@ Reality Gate lock (applies in every packet):
 - Immediate: pilot cohort enters monitored programs, two abscond.
 - Delayed: piracy incidents dip where recruitment funnels lose labor intake.
 - Cross-book dependency: advances terminal legitimacy condition via dual-track accountability + reintegration.
-**Continuity refs:** seq 0510; mission chain `B10-S03`; FVB strategy lock.
+**Continuity refs:** seq 0510; mission chain `B10-S03`; FVB strategy lock; drift-monitor playbook (`ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`).
 
 ### Packet B10-S04 — Cognitive Rights Exception Hearing
 **Objective:** Block security bloc attempt to codify broad cognitive-rights exceptions under perpetual emergency language.  

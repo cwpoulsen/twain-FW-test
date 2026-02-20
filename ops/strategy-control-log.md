@@ -168,3 +168,23 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 ### Strategy implication
 1. Reconciliation gate can be treated as closed; future waves should use standard pre/post A-E guard scans.
 2. Preserve evidence-first workflow (baseline SHA + transcript artifact) for every high-volume expansion wave.
+
+## 2026-02-19T20:37-05:00 — Wave 17 bounded P2 backlog closure (R-006, R-008)
+
+### What changed
+- Added Asterion governance doctrine closure artifact: `ops/asterion-governance-charter-doctrine-pack-v1.md`
+  - formalized authority ceilings, emergency-power trigger/sunset logic, liability-chain accountability, and failure-mode stress map.
+- Added FVB sub-faction drift control artifact: `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
+  - formalized sub-faction schema, drift scoring model, intervention ladder, and dual-track enforcement/reintegration safeguards.
+- Propagated cross-links into canon/factions/series authority docs and updated reconciliation/holes ledgers with closure status + evidence pointer.
+
+### Contradiction-check summary
+1. No canonical naming drift introduced.
+2. No Class 1/2 capability inflation introduced.
+3. No suppression-only FVB doctrine regression introduced (dual-track retained).
+4. No warform agency-accountability contradiction introduced.
+
+### Strategy implication
+1. Treat Asterion governance beats as bounded constitutional process conflict, not default heroic centralization.
+2. Require FVB portrayal variance checks (sub-faction + incentive + accountability separation) before approving scene packet expansions.
+3. P2 backlog now narrows to R-005 scene-template standardization only.

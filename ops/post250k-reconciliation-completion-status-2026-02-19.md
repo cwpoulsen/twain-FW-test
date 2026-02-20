@@ -28,9 +28,14 @@ Baseline SHA at final sweep start: `2855007c8c9af325d740c15b7b1dba1b293028a0`
 
 ## Remaining open risks (explicit, non-blocking strategic backlog)
 1. **R-005 (P2):** scene packet template standardization (transit/comms/governor required fields).
-2. **R-006 (P2):** Asterion League governance charter constraints need formalization depth.
+2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
 3. **R-007 (P2):** **CLOSED (Wave 16):** AI-seed safety doctrine formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
-4. **R-008 (P2):** FVB sub-faction differentiation depth monitor.
+4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
+
+## Wave 17 bounded-risk addendum
+- Added evidence-linked closure artifacts for R-006 and R-008:
+  - `ops/asterion-governance-charter-doctrine-pack-v1.md`
+  - `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
 
 ## Final status
 **Post-250k reconciliation is complete (passes 0-8 + final full-repo regression after wave15).**

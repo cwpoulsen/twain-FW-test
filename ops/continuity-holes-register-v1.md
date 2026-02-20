@@ -39,9 +39,9 @@ Cross-refs:
 
 ## Remaining Risks (next pass)
 1. **R-005 (P2):** Add standardized scene packet template with required transit/comms/governor fields.
-2. **R-006 (P2):** Add Asterion League internal governance charter constraints to prevent faction behavior drift.
+2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
 3. **R-007 (P2):** **CLOSED (Wave 16):** AI-seed safety doctrine formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
-4. **R-008 (P2):** Track FVB sub-faction drift to avoid flattening into single villain bloc.
+4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
 
 ---
 
@@ -201,9 +201,9 @@ Scope executed: contradiction-triage sweep, specificity/novelty tightening, clar
 
 ### Remaining open risks (monitor)
 1. **R-005 (P2):** standardized scene packet template with mandatory transit/comms/governor fields still pending.
-2. **R-006 (P2):** Asterion League internal governance charter constraints still partial.
+2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
 3. **R-007 (P2):** **CLOSED (Wave 16):** doctrine now formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
-4. **R-008 (P2):** FVB sub-faction differentiation remains monitor item for future expansions.
+4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
 
 ## Post-250k Reconciliation Passes 0-2 (2026-02-19)
 
@@ -224,6 +224,35 @@ Scope executed: freeze baseline + full lock-matrix grep execution (A1-E2) + cont
 
 ---
 
+
+## Wave 17 Bounded Risk Closure — R-006 and R-008 (2026-02-19)
+
+Scope executed: doctrine-depth closure pass for Asterion governance constraints and FVB sub-faction drift controls, with cross-links propagated into canon/factions/series layers.
+
+### Closure artifacts
+- `ops/asterion-governance-charter-doctrine-pack-v1.md` (R-006)
+- `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md` (R-008)
+
+### Integration patches
+- `canon/canon-ledger-v2.md`
+- `canon/supporting-institutions-dossiers-v1.md`
+- `factions/freed-voider-bands-dossier-v1.md`
+- `series/scene-packets-books8-10-endgame-bridge-v1.md`
+
+### Evidence
+- `ops/evidence/wave17-risk-closure-r006-r008-2026-02-19.txt`
+
+### Contradiction-Check Summary
+- No actor naming drift introduced; canonical set preserved.
+- No fabrication capability inflation introduced; Class 1 remains scarce and politically constrained.
+- No suppression-only FVB doctrine regression introduced; dual-track logic retained.
+- No warform agency contradiction introduced; human liability chain language retained.
+
+### Status impact
+- **R-006 (P2): CLOSED.**
+- **R-008 (P2): CLOSED.**
+- Remaining bounded backlog risks after this pass: **R-005 only**.
+
 ## Wave 16 AI-Seed Safety Doctrine Closure (2026-02-19)
 
 Scope executed: resolved open risk R-007 by formalizing a full AI-seed safety/governance doctrine pack with integrity, containment, override, audit, and failure-escalation controls.
@@ -239,4 +268,4 @@ Scope executed: resolved open risk R-007 by formalizing a full AI-seed safety/go
 
 ### Status impact
 - **R-007 (P2): CLOSED**.
-- Remaining open P2 monitor risks: R-006, R-008.
+- Remaining open P2 monitor risks: none (R-006 and R-008 closed in Wave 17).

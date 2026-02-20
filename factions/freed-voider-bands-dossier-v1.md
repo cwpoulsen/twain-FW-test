@@ -1,7 +1,7 @@
 # Freed Voider Bands Dossier v1
 
 Status: **SOFT faction canon (supports CORE locks)**  
-Cross-refs: `canon/canon-ledger-v2.md`, `timeline/books1-10-strategic-reconquest-map-v1.md`, `series/book-and-series-arc-scaffolds-v1.md`, `ops/operations-doctrine-annex-v1.md`, `ops/blackfly-unknown-position-pursuit-model-v1.md`
+Cross-refs: `canon/canon-ledger-v2.md`, `timeline/books1-10-strategic-reconquest-map-v1.md`, `series/book-and-series-arc-scaffolds-v1.md`, `ops/operations-doctrine-annex-v1.md`, `ops/blackfly-unknown-position-pursuit-model-v1.md`, `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
 
 ---
 
@@ -73,6 +73,13 @@ Narrative reframing: systemic betrayal justifies indiscriminate extraction from 
 - **FVB-H:** Hybrid political-criminal bands with grievance propaganda arms.
 
 All three can overlap. Units are fluid and prone to splintering.
+
+## Sub-Faction Drift Monitoring Lock (Wave 17)
+
+Apply drift checks from `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`:
+- Track diversity, incentive visibility, accountability separation, and policy-balance signals.
+- Trigger intervention ladder when portrayal flattens into single-command or suppression-only outcomes.
+- Require dual-track response portrayal in major arcs: principal interdiction + non-principal reintegration pressure relief.
 
 ---
 

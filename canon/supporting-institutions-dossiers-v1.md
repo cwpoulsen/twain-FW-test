@@ -225,6 +225,12 @@ The AL-PCA is a fragile coalition mechanism, not a unified state. It exists to p
 - Divergent member war aims fracture discipline.
 - Counterintelligence infiltration weaponizes mistrust.
 
+### Charter Doctrine Constraints (Wave 17 lock)
+- Enumerated authority only: convoy security, Class 1 non-monopoly custody, cross-theater evidence integrity, treaty arbitration.
+- Emergency powers must pass necessity/proportionality/auditability tests and auto-sunset unless renewed with municipal concurrence.
+- Class 1 strategic actions require dual-key authorization (technical + municipal civil signoff).
+- No command-tier immunity: coercive actions require named human liability chain and post-action archive publication.
+
 ### Book-Phase Relevance
 - Books 5-7: institutional protagonist structure for coalition politics.
 - Books 8-9: wartime stress test during reconquest staging.
@@ -326,7 +332,7 @@ CSTN is society’s anti-amnesia mechanism. It reduces narrative monopoly by pre
 
 ## Continuity Notes
 
-- Supports `R-006` by giving Asterion League governance constraints without hard-locking one constitution too early.
+- **R-006 CLOSED (Wave 17):** governance constraints now formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md` and integrated into AL-PCA doctrine without forcing premature unitary-state retcon.
 - Supports `R-007` by separating safety verification institutions from monopoly doctrine.
 - Preserves canon lock that strategic outcomes remain institution- and logistics-mediated, not tech hand-wave mediated.
 
