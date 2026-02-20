@@ -19,7 +19,7 @@ Purpose: final compact capture for immediate human reply processing (D-01..D-07)
 |---|---|---|
 | D-03 | `StabilizationFirst` \| `ExpansionFirst` | `ops/decision-quickfill-card-wave32.md`; `ops/strategy-control-log.md`; `ops/decision-queue-wave25.md`; `ops/routing-consolidation-wave28.md` |
 | D-04 | `TwoStage` \| `60MinOnly` \| `1DayOnly` | `ops/decision-quickfill-card-wave32.md`; `ops/start-here-review-path.md`; `ops/reading-guide-60min-quick-review-v1.md`; `ops/reviewer-checklist-wave21.md` |
-| D-01 | `HOLD` \| `GO` | `ops/decision-quickfill-card-wave32.md`; `ops/decision-signoff-tracker-wave28.md`; `ops/monitor-pack-wave21.md`; `ops/rc1-release-notes-wave22.md` |
+| D-01 | `HOLD` \| `GO` | `ops/decision-quickfill-card-wave32.md`; `ops/decision-finalization-queue-wave33.md`; `ops/monitor-pack-wave21.md`; `ops/rc1-release-notes-wave22.md` |
 | D-02 | `ScheduledClosure+Sentinel` \| `MonitorOnly` | `ops/decision-quickfill-card-wave32.md`; `ops/r005-regression-sentinel-wave25.md`; `ops/r005-watchdog-run-2026-02-20-wave28.md`; `ops/packet-doc-lint-checklist-v1.md` |
 | D-05 | `ExplicitCriteriaGate` \| `AdHocPromotion` | `ops/decision-quickfill-card-wave32.md`; `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`; `ops/canon-policy.md` |
 | D-06 | `MandatoryBlocker` \| `OptionalCheck` | `ops/decision-quickfill-card-wave32.md`; `ops/workflow-v2.md`; `ops/doc-map-dedupe-wave24.md`; `ops/final-snapshot-status-wave19.md` |

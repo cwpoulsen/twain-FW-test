@@ -42,7 +42,7 @@ Example:
 |---:|---|---|---|
 | 1 | D-03 | `ops/decision-quickfill-card-wave32.md` (`selected`, `confidence`) | `ops/strategy-control-log.md`; `ops/decision-queue-wave25.md`; `ops/routing-consolidation-wave28.md` |
 | 2 | D-04 | `ops/decision-quickfill-card-wave32.md` | `ops/start-here-review-path.md`; `ops/reading-guide-60min-quick-review-v1.md`; `ops/reviewer-checklist-wave21.md` |
-| 3 | D-01 | `ops/decision-quickfill-card-wave32.md` | `ops/decision-signoff-tracker-wave28.md`; `ops/monitor-pack-wave21.md`; `ops/rc1-release-notes-wave22.md` |
+| 3 | D-01 | `ops/decision-quickfill-card-wave32.md` | `ops/decision-finalization-queue-wave33.md`; `ops/monitor-pack-wave21.md`; `ops/rc1-release-notes-wave22.md` |
 | 4 | D-02 | `ops/decision-quickfill-card-wave32.md` | `ops/r005-regression-sentinel-wave25.md`; `ops/r005-watchdog-run-2026-02-20-wave28.md`; `ops/packet-doc-lint-checklist-v1.md` |
 | 5 | D-05 | `ops/decision-quickfill-card-wave32.md` | `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`; `ops/canon-policy.md` |
 | 6 | D-06 | `ops/decision-quickfill-card-wave32.md` | `ops/workflow-v2.md`; `ops/doc-map-dedupe-wave24.md`; `ops/final-snapshot-status-wave19.md` |
@@ -53,5 +53,5 @@ Example:
 1. Accept only responses that use all seven keys (`D-03, D-04, D-01, D-02, D-05, D-06, D-07`) in one message.
 2. Validate each choice token against the allowed list before writing files.
 3. After each valid decision: update quickfill row + route mapped files above.
-4. After all seven are applied: update `ops/decision-signoff-tracker-wave28.md` and `ops/decision-finalization-queue-wave33.md` to resolved status.
+4. After all seven are applied: update `ops/decision-capture-sheet-wave36.md` and `ops/decision-finalization-queue-wave33.md` to resolved status.
 5. Commit as one batch when all seven parse cleanly; otherwise commit partial blocks only for fully validated decisions.
