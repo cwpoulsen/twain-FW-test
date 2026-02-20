@@ -41,3 +41,9 @@
   - Continuity ops synced:
     - `ops/continuity-holes-register-v1.md`
     - `ops/continuity-dependency-map-v1.md`
+- Post-250k reconciliation Passes 0-2 executed (freeze + lock-matrix + first triage wave).
+- Baseline freeze SHA recorded: `aab4870f982d18cbdad8ab1490cbb6096cf96722`.
+- Evidence transcript added: `ops/evidence/post250k-reconciliation-2026-02-19-pass0-2.txt`.
+- All lock families passed with no active P0/P1 contradiction.
+- Patched process-traceability defect: grep suite now excludes `ops/evidence/` to prevent recursive hit inflation.
+- Holes register updated with `W15-001` closed.

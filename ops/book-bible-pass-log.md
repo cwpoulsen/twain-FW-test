@@ -484,3 +484,41 @@ Execute framework Pass 3–5 on high-impact scene/timeline bridge docs for: (a) 
 
 ### Net Outcome
 High-impact bridge docs are now more internally coherent with master timeline authority, maintain consequence-chain integrity, and share a unified packet voice label across Books 1–10.
+
+---
+
+## 2026-02-19 — Post-250k Reconciliation Passes 0-2 (Freeze + Lock Matrix + First Triage Wave)
+
+### Objective
+Execute framework Pass 0-2 exactly: (0) freeze snapshot and authority-map check, (1) run all canon lock verification scans A1-E2, (2) triage contradictions and ship first patch wave.
+
+### Pass 0 — Freeze + Inventory + Authority Refresh
+- Freeze baseline captured: `aab4870f982d18cbdad8ab1490cbb6096cf96722`.
+- Evidence artifact created: `ops/evidence/post250k-reconciliation-2026-02-19-pass0-2.txt`.
+- Authority order verified current against framework v1 (ledger -> timeline -> lock matrix -> grep recipes -> contradiction checklist -> domain checklist -> dependency map -> holes register -> reality gate).
+
+### Pass 1 — Lock Verification Matrix Execution
+- Executed full grep families A1/A2, B1/B2, C1/C2, D1/D2/D3, E1/E2.
+- Classification outcome:
+  - Anti-pattern hits (A1/B1/C1/D1) were policy/register/recipe context only.
+  - Required lock-presence families (A2/B2/C2/D2/D3/E1) showed expected positive coverage.
+  - Deprecated taxonomy scan (E2) returned `0` hits.
+- Result: no active P0/P1 lock violations detected.
+
+### Pass 2 — Contradiction Triage + First Patch Wave
+- **TRIAGE-001 (L1 PROCESS_ONLY, P2) — Closed**
+  - Finding: default grep EXCLUDES omitted `ops/evidence/`, causing recursive historical-hit amplification.
+  - Patch: `ops/continuity-guard-grep-recipes-v1.md` now includes `--exclude-dir=evidence`.
+  - Verification: run transcript for this pass generated with evidence exclusion and stable hit classes.
+
+### Files Updated
+- `ops/continuity-guard-grep-recipes-v1.md`
+- `ops/continuity-holes-register-v1.md`
+- `ops/book-bible-pass-log.md`
+- `ops/book-bible-progress-log.md`
+- `ops/strategy-control-log.md`
+- `ops/evidence/post250k-reconciliation-2026-02-19-pass0-2.txt`
+
+### Closure Snapshot
+- Closed contradictions: 1 (`TRIAGE-001`, process).
+- Open contradictions: none (P0/P1/P2) from Pass 0-2 scope.

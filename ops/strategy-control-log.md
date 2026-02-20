@@ -102,3 +102,17 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 1. Treat reconciliation as freeze-window operation with commit-auditable evidence output.
 2. Stop-line any unresolved L3/P0 contradictions before downstream passes.
 3. Close only when full regression (grep A-E + contradiction/domain gates) passes and logs are updated.
+
+## 2026-02-19T20:29-05:00 — Post-250k reconciliation Passes 0-2 execution lock-in (Wave 15)
+
+### What changed
+- Executed Pass 0 freeze and authority refresh with baseline SHA capture.
+- Executed full lock matrix scan families A1-E2 and recorded transcript under:
+  - `ops/evidence/post250k-reconciliation-2026-02-19-pass0-2.txt`
+- Completed first contradiction triage patch wave:
+  - Process-lock hygiene patch in `ops/continuity-guard-grep-recipes-v1.md` to exclude `ops/evidence/` from default scans.
+
+### Strategy implication
+1. Keep `ops/evidence/` excluded in default grep guard scans to preserve signal and reproducible counts.
+2. Treat policy/recipe self-hits as expected context, but continue classifying them explicitly in evidence output.
+3. Maintain freeze-window discipline for future reconciliation slices: baseline SHA + evidence artifact before any patch action.

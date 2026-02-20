@@ -177,3 +177,47 @@ Scope executed: targeted reality-gate audit on newly added Wave 11–12 bridge a
 - Scene packets + mission consequence chains already carried explicit reality-gate constraints.
 - Timeline layer now carries matching per-sequence physical/operational pressure cues.
 - No remaining P0/P1 reality-gate contradiction found in audited Wave 11–12 scope.
+
+---
+
+## Post-250k Reconciliation Passes 6–8 (2026-02-19)
+
+Scope executed: contradiction-triage sweep, specificity/novelty tightening, clarity/compression repair, then regression validation using continuity grep suite + domain/reality gate checks.
+
+### Violations found + patched
+- **W15-001 (Closed, P2 clarity/compression):** `canon/outer-system-governance-crisis-framework-v1.md` contained high-repetition section templates and duplicate crisis-beat blocks that reduced novelty and obscured decision-cost distinctions.
+  - Patch: rewrote to concise ring-specific failure surfaces with unique mechanism/decision/cost hooks and explicit control clauses.
+- **W15-002 (Closed, P2 specificity/novelty):** `series/post-reconquest-governance-and-restoration-expansion-v1.md` contained large-scale repeated mechanism blocks and duplicate sentences that weakened operational readability.
+  - Patch: rebuilt as phased implementation framework with anti-relapse stack, restoration constraints, FVB handling model, and scene guardrails.
+
+### Regression gate summary
+- Grep suite A-E rerun: no active P0/P1 lock failures detected.
+- Remaining A1/C1/D1/B1 hits are policy/checklist/register context mentions, not active canon violations.
+- Reality-gate trigger scan: no active contradiction phrases in narrative assertions; hits are rule text / guardrail statements.
+- Timeline reality pressure column remains present in Books 5-10 bridge maps.
+
+### Evidence
+- `ops/evidence/post250k-reconciliation-2026-02-19-pass6-8.txt`
+
+### Remaining open risks (monitor)
+1. **R-005 (P2):** standardized scene packet template with mandatory transit/comms/governor fields still pending.
+2. **R-006 (P2):** Asterion League internal governance charter constraints still partial.
+3. **R-007 (P2):** AI-seed safety doctrine (containment/test/escalation ladder) not yet formalized.
+4. **R-008 (P2):** FVB sub-faction differentiation remains monitor item for future expansions.
+
+## Post-250k Reconciliation Passes 0-2 (2026-02-19)
+
+Scope executed: freeze baseline + full lock-matrix grep execution (A1-E2) + contradiction triage first patch wave.
+
+### Violations found + patched
+- **W15-001 (Closed, P2 process traceability):** continuity guard grep defaults did not exclude `ops/evidence/`, inflating recursive historical hits and reducing audit readability.
+  - Patched: `ops/continuity-guard-grep-recipes-v1.md`
+  - Action: added `--exclude-dir=evidence` to default EXCLUDES block.
+
+### Evidence
+- `ops/evidence/post250k-reconciliation-2026-02-19-pass0-2.txt`
+
+### Result summary
+- Lock matrix status: PASS for naming, AI timing, pursuit uncertainty, physics realism, warform agency, fabrication ladder.
+- No active P0/P1 contradictions detected.
+- No open P2 contradictions from this pass after W15-001 patch closure.

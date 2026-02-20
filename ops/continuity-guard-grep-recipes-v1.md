@@ -7,7 +7,7 @@ Run from repo root:
 ```bash
 # 0) Suggested scope (exclude git + backups)
 SCAN_PATHS="canon characters factions locations ops scenes series tech timeline"
-EXCLUDES="--exclude-dir=.git --exclude-dir=ops/agent-backup-2026-02-19"
+EXCLUDES="--exclude-dir=.git --exclude-dir=ops/agent-backup-2026-02-19 --exclude-dir=evidence"
 ```
 
 ## A. Naming + Identity Locks
