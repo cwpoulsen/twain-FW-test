@@ -1,0 +1,69 @@
+Post-250k reconciliation Pass 6-8 evidence
+Timestamp: 2026-02-19T20:30:00-05:00
+Baseline SHA: 2258f3231afaa149f8a6893e9d913b97d4040947
+
+== A1 Deprecated naming residue (active-violation sensitive) ==
+canon/ops/faction-naming-policy.md:14:- **Belters** / **the Belters** as a generic stand-in for the faction
+ops/continuity-holes-register-v1.md:50:Scope executed: repo-wide grep scan for pre-lock residue categories: old EDF-present framing, wrong AI acquisition timing, generic Belters usage, omniscient tracking assumptions, missing low-g physics anchors.
+ops/continuity-holes-register-v1.md:56:- **W8-002 (Closed):** Legacy naming residue (`Solar Defense Force`) in discovery reservoir.
+ops/continuity-holes-register-v1.md:92:- `series/worldbuilding-core-pack-v1.md:67` -> `Solar Defense Force` naming residue.
+ops/continuity-holes-register-v1.md:95:- `canon/ops/faction-naming-policy.md:14` -> only sanctioned mention of forbidden generic `Belters` label (policy context).
+ops/continuity-holes-register-v1.md:99:- **Generic Belters usage:** no active narrator-canon misuse found outside policy/archival mention.
+ops/continuity-holes-register-v1.md:154:- Deprecated naming (`Belters`, `Solar Defense Force`) not found in active Wave 10/11 scoped content.
+ops/continuity-guard-grep-recipes-v1.md:17:grep -RIn $EXCLUDES -E "\bBelters\b|Solar Defense Force" $SCAN_PATHS
+count: 8
+
+== A2 Asterion League lock presence ==
+count: 210
+
+== B1 Databank-first AI acquisition anti-pattern ==
+ops/continuity-guard-grep-recipes-v1.md:27:grep -RIn $EXCLUDES -E "databank raid.*(acquire|recovers?).*(AI seed|AI system|AI seed/system)" $SCAN_PATHS
+count: 1
+
+== B2 Positive AI lock phrase presence ==
+count: 9
+
+== C1 Forbidden certainty framing ==
+ops/continuity-holes-register-v1.md:156:- No omniscient tracking phrasing (`exact position known`, `perfect tracking`) found.
+ops/continuity-guard-grep-recipes-v1.md:37:grep -RIn $EXCLUDES -E "exact position known|always knows? (their|its) position|perfect tracking" $SCAN_PATHS
+count: 2
+
+== C2 Bounded pursuit framing presence ==
+count: 27
+
+== D1 Low-g anti-pattern cues ==
+canon/canon-ledger-v2.md:120:- **CORE:** Small-body combat requires explicit anchoring and attitude control; no normal walking/stance fighting without stabilization.
+canon/supporting-institutions-dossiers-v1.md:350:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+ops/blackfly-unknown-position-pursuit-model-v1.md:220:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+ops/small-body-combat-and-work-credibility-manual-v1.md:18:1. Low-g small-body surfaces do not support normal walking/standing behavior without active stabilization.
+ops/small-body-combat-and-work-credibility-manual-v1.md:246:- Add contradiction scans for “normal walking” phrasing in revision passes.
+ops/small-body-combat-and-work-credibility-manual-v1.md:272:- **Physics lock (LOCKED):** small-body operations require explicit anchoring and attitude control; no normal walking depictions without active stabilization.
+ops/legal-and-military-process-appendices-v1.md:316:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+ops/continuity-guard-grep-recipes-v1.md:47:grep -RIn $EXCLUDES -E "normal walking|earthlike gravity firefight|stood firm without anchoring" $SCAN_PATHS
+ops/operations-doctrine-annex-v1.md:316:- Never depict normal walking on low-g small bodies unless artificial-gravity rigging is explicitly present.
+ops/operations-doctrine-annex-v1.md:403:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+series/reconquest-institutional-integration-matrix-v1.md:231:8. If small-body scenes imply normal walking without stabilization, patch with anchoring and attitude-control mechanics.
+count: 11
+
+== D2 Low-g lock cue presence ==
+count: 69
+
+== D3 Warform agency lock cue presence ==
+count: 18
+
+== E1 Fabrication lock presence ==
+count: 65
+
+== E2 Deprecated fabrication taxonomy drift hints ==
+count: 0
+
+== Reality-gate contradiction trigger scans ==
+ops/book-bible-pass-log.md:434:- **Transit/comms realism:** preserved (no instantaneous reinforcement or zero-latency command introduced).
+ops/reality-gate-enforcement-pack-v1.md:26:   - No tactical real-time command loops across interplanetary lanes.
+series/post-reconquest-governance-and-restoration-expansion-v1.md:92:2. unlimited propellant/ammo/repair capacity,
+series/post-reconquest-governance-and-restoration-expansion-v1.md:94:4. zero fatigue/casualty carryover,
+series/scene-packets-books5-7-bridge-v1.md:207:- No instantaneous reinforcement, omniscient command, or unlimited munitions claims introduced.
+
+== Reality-gate timeline pressure column check ==
+timeline/books8-10-endgame-operational-sequence-map-v1.md:12:| bridge_seq | approx_world_window_utc | packet_id | event_focus | dependency_gate | reality_gate_pressure |
+timeline/books5-7-bridge-operational-sequence-map-v1.md:11:| bridge_seq | approx_world_window_utc | packet_id | event_focus | dependency_gate | reality_gate_pressure |

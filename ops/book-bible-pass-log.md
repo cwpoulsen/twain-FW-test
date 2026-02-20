@@ -487,6 +487,37 @@ High-impact bridge docs are now more internally coherent with master timeline au
 
 ---
 
+## 2026-02-19 — Post-250k Reconciliation Passes 6-8 (Specificity/Compression/Regression Closeout)
+
+### Objective
+Execute framework Passes 6-8: contradiction triage sweep, specificity/novelty tightening, clarity/compression cleanup, and final regression gate (grep A-E + reality/domain checks).
+
+### Files Updated
+- `canon/outer-system-governance-crisis-framework-v1.md`
+- `series/post-reconquest-governance-and-restoration-expansion-v1.md`
+- `ops/continuity-holes-register-v1.md`
+- `ops/post250k-reconciliation-completion-status-2026-02-19.md`
+- `ops/evidence/post250k-reconciliation-2026-02-19-pass6-8.txt`
+
+### Violations Closed
+1. **W15-001 (P2 clarity/compression):** removed repeated template blocks from outer-system governance framework and replaced with ring-specific, non-duplicative crisis structure.
+2. **W15-002 (P2 specificity/novelty):** replaced large-scale repeated mechanism paragraphs in post-reconquest expansion with phased implementation framework and concrete guardrails.
+
+### Regression Summary
+- Grep suite A-E rerun with evidence transcript recorded.
+- No unresolved P0/P1 lock failures found.
+- Residual hits classify as policy/checklist/register context only.
+- Reality-gate trigger scan returned guardrail references, not active contradiction prose.
+
+### Open Risks (carried forward)
+- R-005, R-006, R-007, R-008 (all P2) remain tracked in `ops/continuity-holes-register-v1.md`.
+
+### Evidence
+- `ops/evidence/post250k-reconciliation-2026-02-19-pass6-8.txt`
+- `ops/post250k-reconciliation-completion-status-2026-02-19.md`
+
+---
+
 ## 2026-02-19 — Post-250k Reconciliation Passes 0-2 (Freeze + Lock Matrix + First Triage Wave)
 
 ### Objective

@@ -41,6 +41,15 @@
   - Continuity ops synced:
     - `ops/continuity-holes-register-v1.md`
     - `ops/continuity-dependency-map-v1.md`
+- Post-250k reconciliation Passes 6-8 completed:
+  - Specificity/novelty + clarity/compression rewrite completed for:
+    - `canon/outer-system-governance-crisis-framework-v1.md`
+    - `series/post-reconquest-governance-and-restoration-expansion-v1.md`
+  - Regression gate executed with evidence:
+    - `ops/evidence/post250k-reconciliation-2026-02-19-pass6-8.txt`
+  - Closeout status artifact added:
+    - `ops/post250k-reconciliation-completion-status-2026-02-19.md`
+  - No unresolved P0/P1 continuity blockers; P2 monitor risks carried in holes register.
 - Post-250k reconciliation Passes 0-2 executed (freeze + lock-matrix + first triage wave).
 - Baseline freeze SHA recorded: `aab4870f982d18cbdad8ab1490cbb6096cf96722`.
 - Evidence transcript added: `ops/evidence/post250k-reconciliation-2026-02-19-pass0-2.txt`.

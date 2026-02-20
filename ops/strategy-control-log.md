@@ -103,6 +103,21 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 2. Stop-line any unresolved L3/P0 contradictions before downstream passes.
 3. Close only when full regression (grep A-E + contradiction/domain gates) passes and logs are updated.
 
+## 2026-02-19T20:30-05:00 — Post-250k reconciliation Pass 6-8 closeout
+
+### What changed
+- Completed Pass 6-8 sweep with explicit evidence and closeout docs:
+  - `ops/evidence/post250k-reconciliation-2026-02-19-pass6-8.txt`
+  - `ops/post250k-reconciliation-completion-status-2026-02-19.md`
+- Closed two P2 quality defects caused by high-volume duplication noise:
+  - `W15-001` in `canon/outer-system-governance-crisis-framework-v1.md`
+  - `W15-002` in `series/post-reconquest-governance-and-restoration-expansion-v1.md`
+
+### Strategy implication
+1. Treat large repeated-template expansions as continuity risk even when lock grep passes (quality debt can mask future contradiction drift).
+2. Add duplication/compression checks to post-wave acceptance before domain expansion resumes.
+3. Keep unresolved work explicitly bounded to P2 risk register items (R-005..R-008) with no hidden blockers.
+
 ## 2026-02-19T20:29-05:00 — Post-250k reconciliation Passes 0-2 execution lock-in (Wave 15)
 
 ### What changed
