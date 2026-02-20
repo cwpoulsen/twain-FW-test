@@ -75,6 +75,9 @@ Scope: explicit inter-book dependency grid with strategic objective, character-s
 - **Books 5–7 bridge packet implementation:** `series/scene-packets-books5-7-bridge-v1.md`
 - **Books 5–7 consequence chains:** `ops/mission-seed-to-scene-consequence-chains-books5-7-wave11-v1.md`
 - **Books 5–7 sequence support map:** `timeline/books5-7-bridge-operational-sequence-map-v1.md`
+- **Books 8–10 endgame packet implementation:** `series/scene-packets-books8-10-endgame-bridge-v1.md`
+- **Books 8–10 consequence chains:** `ops/mission-seed-to-scene-consequence-chains-books8-10-wave12-v1.md`
+- **Books 8–10 sequence support map:** `timeline/books8-10-endgame-operational-sequence-map-v1.md`
 
 ---
 
