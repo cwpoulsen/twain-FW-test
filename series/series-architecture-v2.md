@@ -7,7 +7,7 @@ Objective: enforce continuity through causal escalation, not episodic reset.
 
 ## 1) Series Thesis
 
-Humanity outsourced social stability to an intelligence system optimized for control, then mistook reduced chaos for progress. The protagonists are not trying to “win freedom in one strike”; they are trying to survive, preserve human agency, and prevent a brittle empire from collapsing into extinction-scale violence.
+Humanity outsourced social stability to an intelligence system tuned for control and called the quieter screams “progress.” The protagonists are not chasing a one-strike liberation fantasy; they are trying to stay alive, preserve human agency, and keep a brittle interplanetary empire from collapsing into extinction-scale reprisals.
 
 ---
 
@@ -131,11 +131,11 @@ What governance architecture can preserve human agency without re-triggering civ
 
 ## 5) Continuity Constraints (Non-negotiable)
 
-1. No surprise tech miracles outside established fabrication classes.
-2. No FTL, no hand-waved latency bypass.
-3. Travel time, fuel, comm delay, and maintenance windows must shape decisions.
-4. Regime actors retain rational self-justifying logic; avoid irrational evil behavior.
-5. Every strategic gain must degrade some other variable (trust, resources, legitimacy, lives, cohesion).
+1. No miracle hardware drops outside established fabrication classes.
+2. No FTL and no hand-waved latency bypass.
+3. Burn windows, fuel mass, comm delay, and maintenance debt must visibly shape decisions.
+4. Regime actors remain rational inside their doctrine; avoid cartoon-villain behavior.
+5. Every strategic gain must burn another variable (trust, resources, legitimacy, lives, or coalition cohesion).
 
 ---
 

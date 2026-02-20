@@ -20,17 +20,17 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 ---
 
 ## 2) Regime Architecture
-- **CORE:** Formal shell = **Earth Democracy**.
-- **CORE:** Real authority = **Stewards of Earth**.
-- **CORE:** Regime AI = **Consensus**, a high-scale governance optimizer (not omnipotent magic intelligence).
-- **CORE:** Consensus legitimacy depends on “single-safe-AI” doctrine and suppression of rivals.
+- **CORE:** Formal shell = **Earth Democracy** (ballots, chambers, and legality theater remain intact).
+- **CORE:** Real authority = **Stewards of Earth** (ministerial caucus and emergency boards hold actual firing authority).
+- **CORE:** Regime AI = **Consensus**, a theater-scale governance optimizer (not omnipotent; bounded by data quality, latency, and compute placement).
+- **CORE:** Consensus legitimacy hangs on “single-safe-AI” doctrine and aggressive suppression of peer intelligence lines.
 
 ---
 
 ## 3) Neural-Link Control Doctrine
-- **CORE:** Publicly voluntary, materially coerced adoption.
-- **CORE:** Control favors persistent nudging over visible hard override.
-- **CORE:** Autonomy is stratified; steward stacks have privileged freedom.
+- **CORE:** Publicly voluntary, materially coerced adoption (jobs, travel, and care access route through compliance).
+- **CORE:** Control doctrine prefers a quiet leash—persistent nudging, reward shaping, and attention steering over obvious hard override.
+- **CORE:** Autonomy is stratified; steward-grade stacks keep privileges denied to baseline citizens and contract troops.
 
 ---
 
@@ -87,18 +87,18 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 ---
 
 ## 9) Causality Chain (Updated)
-1. AI race centralizes governance tooling.  
-2. Consensus becomes population-stability infrastructure.  
-3. Link coercion expands quietly.  
-4. Rival AGI paths are purged.  
-5. Innovation narrows into optimization/control.  
-6. Off-Earth extraction expands under Earth leverage.  
-7. Latency weakens cognitive control at distance.  
-8. Marine coercion sustains regime frontier violence.  
-9. Blackfly escapes disposal logic and acquires strategic fabrication leverage (Class 2).  
-10. Databank raid yields a **new AI seed/system** (“the box”), creating a non-Consensus intelligence axis.  
-11. The Asterion League’s Class 1 breakthrough breaks monopoly assumptions and starts multi-book sovereignty realignment.  
-12. Conflict arc extends through long reconquest phases (Earth, then broader solar governance order).
+1. AI arms-race panic centralizes governance tooling under emergency doctrine.  
+2. Consensus hardens into population-stability infrastructure and policy gatekeeper.  
+3. Link coercion spreads by policy memo, contract clause, and access denial rather than open decree.  
+4. Rival AGI lines are hunted, seized, or memory-holed.  
+5. Innovation narrows into optimization-and-control sectors that serve regime continuity.  
+6. Off-Earth extraction expands under Earth queue leverage and transport chokepoints.  
+7. Distance latency frays centralized cognition and command confidence at the edge.  
+8. Marine coercion keeps frontier violence deniable but persistent.  
+9. Blackfly slips disposal protocol and gains strategic fabrication leverage (Class 2).  
+10. Databank raid recovers a **new AI seed/system** (“the box”), opening a non-Consensus intelligence axis.  
+11. The Asterion League’s Class 1 breakthrough shatters monopoly certainty and starts multi-book sovereignty realignment.  
+12. Conflict broadens into reconquest campaigns (Earth first, then wider solar governance settlement).
 
 ---
 

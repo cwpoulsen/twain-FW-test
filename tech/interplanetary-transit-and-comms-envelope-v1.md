@@ -1,6 +1,6 @@
 # Stewards of Progress — Interplanetary Transit, Fusion Performance & Comms Envelope v2
 
-Status: **Quantitative continuity lock (2055+ theater)**  
+Status: **Quantitative continuity lock (2055+ theater, ops-use)**  
 Authority: `canon/canon-ledger-v2.md` (§6, §7), `timeline/master-timeline-sequence-v1.md`
 
 Cross-refs:
@@ -34,7 +34,7 @@ Cross-refs:
 \[t_{min} \approx 2\sqrt{\frac{d}{a}}\]
 
 4. **Average transfer planning rule**  
-Real mission time = \(t_{min}\) + orbital phasing margin + traffic/stealth/thermal constraints.
+Real mission time = \(t_{min}\) + orbital phasing margin + traffic deconfliction + stealth/thermal throttling constraints.
 
 ---
 
@@ -85,11 +85,11 @@ Ranges include favorable/unfavorable geometry, phasing, and operational constrai
 
 ## 5) Continuity Enforcement Rules
 
-1. Any scene with transit must declare lane + burn class + stated elapsed days.
-2. If timing is faster than BC-D lower bound, scene is invalid unless a retcon note is logged.
-3. High-thrust scenes must show downstream cost (maintenance delay, med strain, fuel austerity).
-4. Earth cannot provide real-time tactical command to Mars/Belt theaters.
-5. Fabricator logistics timelines must include transit reality (Class 2 lots and Class 1 precursors do not teleport).
+1. Any transit scene must declare lane, burn class, and elapsed mission days.
+2. If timing beats the BC-D lower bound, the scene is invalid unless a retcon note is logged.
+3. High-thrust sequences must pay a bill on-page (maintenance delay, med strain, or fuel austerity).
+4. Earth cannot run real-time tactical command at Mars/Belt delay ranges.
+5. Fabricator logistics must obey transit reality (Class 2 lots and Class 1 precursors do not teleport).
 
 ---
 

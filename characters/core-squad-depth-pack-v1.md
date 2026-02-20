@@ -5,11 +5,11 @@ _Status: Soft canon scaffold (compatible with current locked bios)_
 Continuity note: formative events should reference `timeline/master-timeline-sequence-v1.md` indices (especially 0100, 0120, 0150, 0170, 0180) to prevent drift across character files.
 
 ## Squad Core (Current Known Five)
-- Staff Sergeant **John Hale** — squad lead, protector logic, moral center under strain.
-- Corporal **Valerie Wells** — high-performance combatant/pilot, autonomy-first, controlled fury arc.
-- Specialist **Isaac Beckham** — systems exploitation, software-layer adaptation, covert access specialist.
-- Specialist **Marko Branik** — heavy assault/mechanical savant, blunt truth, physical systems mastery.
-- Private **Lindsay "Lin" Veil** — sensor/astrogation intuition engine, empathy-heavy early-warning asset.
+- Staff Sergeant **John Hale** — squad lead; triage-first protector doctrine and moral center under compression.
+- Corporal **Valerie Wells** — strike pilot/close-quarters apex operator; autonomy-first with rage on a leash.
+- Specialist **Isaac Beckham** — exploit engineer; protocol-chain intrusions, telemetry forensics, covert access.
+- Specialist **Marko Branik** — breach/mechanical bruiser; blunt truth, hard-systems intuition, pressure-hull pragmatist.
+- Private **Lindsay "Lin" Veil** — sensor and astrogation pattern-reader; empathy-forward early-warning asset.
 
 ---
 
@@ -131,10 +131,10 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 ## Squad-Level Emotional Engine (Cross-Character)
 
 ### Shared Fear
-- Being used as disposable tools by strategic layers above them.
+- Being treated as expendable kit by command layers that never enter the blast radius.
 
 ### Shared Need
-- Build a self-authored command ethic inside coercive structures.
+- Build a self-authored fireteam ethic inside coercive institutions and keep it intact under stress.
 
 ### Shared Tactical Evolution
 1. **Book 1:** survive betrayal.
