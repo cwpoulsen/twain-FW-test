@@ -4,7 +4,12 @@ Date: 2026-02-19
 Audience: Chris review  
 Scope: Bible navigation and release-readiness indexing after post-250k reconciliation closeout.
 
+Companion to: `ops/start-here-review-path.md` (current primary route), `ops/archive-index-wave20.md` (historical catalog).
+Supersedes: none (historical Wave 17 artifact retained for traceability).
+
 Supersession note (Wave 25): this is a historical Wave 17 RC index snapshot. For current routing, use `ops/start-here-review-path.md` (primary route), `ops/executive-summary-wave20.md` (status), and `ops/handoff-briefing-wave23.md` (action queue).
+
+Legacy route note (Wave 29 archive prep): planned archive target is `ops/archive/review-routing-legacy/release-candidate-index-pack-wave17-v1.md` (deferred; no move in this wave).
 
 ---
 

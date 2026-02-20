@@ -3,7 +3,12 @@
 Date: 2026-02-19  
 Scope: final snapshot after Wave 18 expansion, including corpus size, recent commit phases, risk state, and authority docs.
 
+Companion to: `ops/executive-summary-wave20.md` (current status), `ops/archive-index-wave20.md` (historical catalog).
+Supersedes: none (historical Wave 19 baseline retained for delta reconstruction).
+
 Supersession note (Wave 25): this file is a historical baseline snapshot (pre-W20 routing model). For current decisions and run order, use `ops/executive-summary-wave20.md`, `ops/start-here-review-path.md`, and `ops/handoff-briefing-wave23.md`.
+
+Legacy route note (Wave 29 archive prep): if archive normalization is executed later, target path is `ops/archive/review-routing-legacy/final-snapshot-status-wave19.md`; keep in place until explicitly approved.
 
 ---
 
