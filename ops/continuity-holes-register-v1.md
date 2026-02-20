@@ -38,7 +38,7 @@ Cross-refs:
 ---
 
 ## Remaining Risks (next pass)
-1. **R-005 (P2): OPEN (monitor):** Add standardized scene packet template with required transit/comms/governor fields.
+1. **R-005 (P2): OPEN (monitor):** Enforce weekly scene template conformance checks + lightweight packet lint until formal closure decision.
 2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
 3. **R-007 (P2): CLOSED (Wave 16):** AI-seed safety doctrine formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
 4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
@@ -48,10 +48,21 @@ Last updated: 2026-02-19T20:42-05:00
 
 | Risk ID | Severity | Canonical Status | Closure/Monitor Basis | Evidence |
 |---|---|---|---|---|
-| R-005 | P2 | OPEN (monitor) | Scene packet template standardization still tracked as bounded backlog item. | `ops/post250k-reconciliation-completion-status-2026-02-19.md` |
+| R-005 | P2 | OPEN (monitor) | Weekly scene packet conformance monitor + lightweight lint now required until closure decision. | `ops/monitor-pack-wave21.md`; `ops/packet-doc-lint-checklist-v1.md` |
 | R-006 | P2 | CLOSED (Wave 17) | Governance-charter doctrine pack added and cross-linked. | `ops/asterion-governance-charter-doctrine-pack-v1.md`; `ops/evidence/wave17-risk-closure-r006-r008-2026-02-19.txt` |
 | R-007 | P2 | CLOSED (Wave 16) | AI-seed safety/governance doctrine pack formalized and reconciled. | `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`; `ops/evidence/wave16-ai-seed-doctrine-contradiction-checks-2026-02-19.txt` |
 | R-008 | P2 | CLOSED (Wave 17) | FVB sub-faction drift monitor/intervention doctrine pack added. | `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`; `ops/evidence/wave17-risk-closure-r006-r008-2026-02-19.txt` |
+
+### R-005 Open Monitor Procedure (Wave 21+)
+
+Run this weekly until explicit closure decision:
+1. Execute `ops/monitor-pack-wave21.md` weekly command block (includes ST-1..ST-4 scene template conformance checks).
+2. Complete lightweight packet lint pass using `ops/packet-doc-lint-checklist-v1.md`.
+3. Record PASS/WARN/FAIL + evidence path in weekly signoff.
+4. If any conformance FAIL appears, log new `W21-*` hole with owner and due date.
+
+Evidence convention:
+- `ops/evidence/wave21-weekly-monitor-YYYY-MM-DD.txt`
 
 ---
 

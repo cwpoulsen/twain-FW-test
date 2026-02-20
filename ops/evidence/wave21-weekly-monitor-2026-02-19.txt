@@ -1,0 +1,17 @@
+# Wave 21 Weekly Monitor - 2026-02-19
+
+## Scene Template Conformance (R-005 Monitor)
+### ST-1 Template-lock block present
+PASS template-lock block: series/scene-packets-books1-4-v1.md
+PASS template-lock block: series/scene-packets-books5-7-bridge-v1.md
+PASS template-lock block: series/scene-packets-books8-10-endgame-bridge-v1.md
+
+### ST-2 Packet field coverage count check
+series/scene-packets-books1-4-v1.md | packets=24 mission=24 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+series/scene-packets-books5-7-bridge-v1.md | packets=20 mission=0 objective=20 conflict=20 tactical=20 reality=20 emotional=20 consequence=20 refs=20
+series/scene-packets-books8-10-endgame-bridge-v1.md | packets=24 mission=0 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+
+### ST-3 Packet field order check
+PASS order-check: series/scene-packets-books1-4-v1.md
+FAIL series/scene-packets-books5-7-bridge-v1.md :: ### Packet B5-S01 — Charter Oxygen Vote missing field #1
+FAIL series/scene-packets-books8-10-endgame-bridge-v1.md :: ### Packet B8-S01 — Kessler Bargain at Perigee Ledger missing field #1
