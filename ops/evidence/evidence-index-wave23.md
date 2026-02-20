@@ -1,7 +1,11 @@
 # Evidence Index — Wave 23
 
+Companion to: `ops/post250k-reconciliation-completion-status-2026-02-19.md` (status rollup), `ops/monitor-pack-wave21.md` (monitor framing), and `ops/start-here-review-path.md` (review routing).
+
 Date: 2026-02-19
 Purpose: Consolidated pointers for reconciliation + monitor evidence used for Wave 23 review/signoff.
+
+Routing note (Wave 27): **Primary route for evidence audit.**
 
 ## Primary evidence artifacts
 

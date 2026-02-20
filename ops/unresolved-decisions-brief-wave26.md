@@ -1,8 +1,12 @@
 # Unresolved Decisions Brief — Wave 26
 
+Companion to: `ops/decision-queue-wave25.md` (analysis backlog), `ops/reviewer-checklist-wave21.md` (gate criteria), and `ops/handoff-briefing-wave23.md` (execution context).
+
 Date: 2026-02-20  
 Source queue: `ops/decision-queue-wave25.md`  
 Purpose: fast human-answer brief (consolidation-only cycle step 2).
+
+Routing note (Wave 27): **Primary route for decision calls.**
 
 ## Decision summary (answer-ready)
 

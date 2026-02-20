@@ -2,6 +2,8 @@
 
 Companion to: `ops/handoff-briefing-wave23.md` (execution sequencing) and `ops/doc-map-dedupe-wave24.md` (keep/merge/archive context).
 
+Routing note (Wave 27): supporting decision analysis queue; **primary decision-call route is `ops/unresolved-decisions-brief-wave26.md`**.
+
 Date: 2026-02-20  
 Scope source docs: `ops/reviewer-checklist-wave21.md`, `ops/reviewer-question-bank-top50-v1.md`, `ops/handoff-briefing-wave23.md`, `ops/executive-summary-wave20.md`, `ops/continuity-holes-register-v1.md`  
 Strategy alignment: latest `ops/strategy-control-log.md` entry (2026-02-20T01:12-05:00) — prioritize decision enablement, contradiction-hunt/compression, and keep/merge/archive outcomes.

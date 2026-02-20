@@ -1,6 +1,10 @@
 # Reviewer Question Bank — Top 50 High-Leverage Decision Questions (v1)
 
+Companion to: `ops/unresolved-decisions-brief-wave26.md` (primary decision-call route) and `ops/decision-queue-wave25.md` (prioritized decision ordering).
+
 Purpose: give Chris a fast, high-signal set of review questions that force consequential decisions early, before line-level edits.
+
+Routing note (Wave 27): supporting deep-question library; use after the primary decision-call route is completed.
 
 Use: at each review pass, answer every question with one of: **LOCKED / REVISE / DEFER (owner + due point)**.
 

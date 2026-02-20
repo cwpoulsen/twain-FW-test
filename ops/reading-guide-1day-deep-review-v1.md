@@ -4,6 +4,10 @@ Date: 2026-02-19
 Audience: Chris  
 Goal: full-coverage confidence pass across canon authority, causality spine, domain mechanics, and residual risk controls.
 
+Companion to: `ops/start-here-review-path.md` (primary routing map), `ops/reviewer-checklist-wave21.md` (go/no-go gate form).
+
+Routing note (Wave 27): **Primary route for deep review.**
+
 Supersession note (Wave 25): this deep-review path is retained as a legacy variant. Primary route ownership is `ops/start-here-review-path.md`; use `ops/executive-summary-wave20.md` for current status and `ops/handoff-briefing-wave23.md` for next actions.
 
 ## Outcomes for end-of-day signoff

@@ -6,6 +6,13 @@ Purpose: fastest path to review current canon, architecture, risks, and scene sy
 
 Role boundary note: for deduplicated guide/index ownership and keep/merge/archive recommendations, see `ops/doc-map-dedupe-wave24.md`.
 
+## Primary Review Routes (Wave 27 routing lock)
+Use exactly these entry points as the primary route for each review intent:
+- **Quick review (primary):** `ops/reading-guide-60min-quick-review-v1.md`
+- **Deep review (primary):** `ops/reading-guide-1day-deep-review-v1.md`
+- **Decision calls (primary):** `ops/unresolved-decisions-brief-wave26.md`
+- **Evidence audit (primary):** `ops/evidence/evidence-index-wave23.md`
+
 ## 0) Orientation (Read first)
 1. `ops/executive-summary-wave20.md`
 2. `ops/archive-index-wave20.md`
