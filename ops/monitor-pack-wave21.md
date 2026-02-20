@@ -1,5 +1,7 @@
 # Monitor Pack — Wave 21 (Post-RC Weekly Maintenance)
 
+Companion to: `ops/reviewer-checklist-wave21.md` (go/no-go gate) and `ops/r005-regression-sentinel-wave25.md` (R-005 cadence evidence).
+
 Date: 2026-02-19  
 Owner: Bible maintenance  
 Cadence: **Weekly** (recommended every Thu/Fri before any major content merge)

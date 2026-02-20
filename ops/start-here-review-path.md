@@ -1,5 +1,7 @@
 # Start Here — Review Path (Top 20 Docs)
 
+Companion to: `ops/executive-summary-wave20.md` (status snapshot), `ops/handoff-briefing-wave23.md` (action queue), `ops/doc-map-dedupe-wave24.md` (dedupe governance).
+
 Purpose: fastest path to review current canon, architecture, risks, and scene systems in a practical order.
 
 Role boundary note: for deduplicated guide/index ownership and keep/merge/archive recommendations, see `ops/doc-map-dedupe-wave24.md`.

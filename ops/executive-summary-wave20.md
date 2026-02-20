@@ -1,5 +1,7 @@
 # Executive Summary Pack — Wave 20
 
+Companion to: `ops/start-here-review-path.md` (primary route) and `ops/handoff-briefing-wave23.md` (execution handoff).
+
 Date: 2026-02-19  
 Prepared for: Chris  
 Repo: `twain-FW-test`

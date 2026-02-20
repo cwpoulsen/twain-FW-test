@@ -1,5 +1,7 @@
 # Handoff Briefing — Wave 23
 
+Companion to: `ops/start-here-review-path.md` (read order) and `ops/executive-summary-wave20.md` (current status baseline).
+
 Date: 2026-02-19  
 Owner: Chris  
 Repo: `twain-FW-test`

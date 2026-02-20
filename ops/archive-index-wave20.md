@@ -1,5 +1,7 @@
 # Archive Index — Wave 20
 
+Companion to: `ops/start-here-review-path.md` (primary route) and `ops/doc-map-dedupe-wave24.md` (overlap/role boundaries).
+
 Purpose: Quick domain-by-domain map of major repository documents, with one-line intent and review priority.
 
 Role boundary note: this file is a broad catalog; for deduplicated routing ownership and keep/merge/archive recommendations, see `ops/doc-map-dedupe-wave24.md`.

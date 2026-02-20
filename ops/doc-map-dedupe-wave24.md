@@ -1,5 +1,7 @@
 # Doc-Map Dedupe — Wave 24
 
+Companion to: `ops/start-here-review-path.md` (primary route), `ops/archive-index-wave20.md` (catalog), and `ops/decision-queue-wave25.md` (human decisions).
+
 Date: 2026-02-20  
 Scope: authority/index/guide overlap reduction across review-routing docs.  
 Constraint: **CANON LOCKS unchanged** (no canon-domain edits).

@@ -1,5 +1,7 @@
 # Reviewer Checklist — Wave 21 (Go / No-Go)
 
+Companion to: `ops/monitor-pack-wave21.md` (recurring checks) and `ops/decision-queue-wave25.md` (decision capture/prioritization).
+
 Owner: Chris  
 Purpose: final practical gate before accepting Wave 21 as canon-safe.  
 Decision rule: if any **Critical** item fails, outcome is **NO-GO** until fixed.
