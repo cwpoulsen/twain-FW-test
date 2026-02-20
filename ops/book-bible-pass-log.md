@@ -434,3 +434,53 @@ Bridge selected Books 1-4 mission seeds to scene packets with explicit immediate
 - **Transit/comms realism:** preserved (no instantaneous reinforcement or zero-latency command introduced).
 - **Unknown-position pursuit model:** preserved (probabilistic dragnet language retained).
 - **Governance-endstate lock:** preserved (Book 4 ends in enforceable but imperfect order, not total resolution).
+
+---
+
+## 2026-02-19 — Post-250k Reconciliation Passes 3–5 (High-Impact Docs Sweep)
+
+### Objective
+Execute framework Pass 3–5 on high-impact scene/timeline bridge docs for: (a) coherence, (b) consequence integrity readability, and (c) cross-packet voice/style unification—without changing locked canon facts.
+
+### Scope (High-Impact Docs)
+- `series/scene-packets-books5-7-bridge-v1.md`
+- `series/scene-packets-books8-10-endgame-bridge-v1.md`
+- `timeline/books8-10-endgame-operational-sequence-map-v1.md`
+
+### Pass 3 — Coherence Repairs
+1. **Master timeline umbrella mismatch (critical coherence defect)**
+   - Before: Books 8–10 sequence map authority line referenced `master-timeline` as "seq 0400+ late-war umbrella continuity".
+   - After: corrected to "seq 0300 campaign umbrella; this file covers its late-war phase." 
+   - Why it matters: avoids false parent-sequence interpretation and keeps bridge map subordinate to the locked 0300 reconquest umbrella.
+
+### Pass 4 — Consequence Integrity Check
+1. Re-validated that all packet consequence ledgers continue to carry delayed systemic/logistics/legitimacy debt forward.
+2. Confirmed no zero-cost outcomes were introduced by edits (all changes were label-level or authority-line coherence fixes).
+
+### Pass 5 — Voice/Style Unification
+1. **Packet emotional beat label normalization**
+   - Before: Books 5–10 packet docs used `**Emotional reversal:**` while Books 1–4 used `**Emotional turn:**`.
+   - After: standardized all Books 5–10 packet entries to `**Emotional turn:**`.
+   - Impact: aligns packet grammar across the full 10-book chain and reduces multi-author seam noise during downstream drafting.
+
+### Canon Lock Preservation Check
+- No changes made to locked canon facts (AI-seed split, Asterion naming, Blackfly Class-2 lock, Class ladder, no-FTL/transit constraints, 10-book arc).
+- No timeline sequence IDs changed; only authority phrasing corrected.
+
+### Before/After Evidence (targeted)
+1. `timeline/books8-10-endgame-operational-sequence-map-v1.md`
+   - Before: `seq 0400+ late-war umbrella continuity`
+   - After: `seq 0300 campaign umbrella; this file covers its late-war phase`
+2. `series/scene-packets-books5-7-bridge-v1.md`
+   - Before: `**Emotional reversal:**`
+   - After: `**Emotional turn:**`
+3. `series/scene-packets-books8-10-endgame-bridge-v1.md`
+   - Before: `**Emotional reversal:**`
+   - After: `**Emotional turn:**`
+
+### Unresolved Risks
+1. **Narrative surface-risk:** some packet consequence lines in Books 5–10 remain compressed one-line ledgers; future readability pass may expand domain tagging where needed for scene-writer handoff.
+2. **Ops audit-risk:** this run did not regenerate a standalone `ops/evidence/post250k-reconciliation-YYYY-MM-DD.txt` transcript because scope was targeted Pass 3–5 document reconciliation only.
+
+### Net Outcome
+High-impact bridge docs are now more internally coherent with master timeline authority, maintain consequence-chain integrity, and share a unified packet voice label across Books 1–10.

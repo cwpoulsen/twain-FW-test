@@ -3,7 +3,7 @@
 Status: Timeline support map for 24 scene packets in Books 8–10 endgame bridge.
 
 Authority refs:
-- `timeline/master-timeline-sequence-v1.md` (seq 0400+ late-war umbrella continuity)
+- `timeline/master-timeline-sequence-v1.md` (seq 0300 campaign umbrella; this file covers its late-war phase)
 - `series/scene-packets-books8-10-endgame-bridge-v1.md`
 - `ops/mission-seed-to-scene-consequence-chains-books8-10-wave12-v1.md`
 
