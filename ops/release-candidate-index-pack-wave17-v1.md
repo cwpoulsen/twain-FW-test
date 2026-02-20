@@ -129,7 +129,7 @@ Total indexed scene packets: **68**
 | Books 8-10 | B8-S01..B10-S08 (24) | ~0420-0535 | Earth approach, controlled seizure, anti-relapse settlement endgame. |
 
 Packet template lock status:
-- R-005 template standardization: CLOSED (Wave 16)
+- R-005 template standardization: OPEN (monitor; canonical ledger).
 - Mandatory packet fields and reality-gate row are present across all packet sets.
 
 ---
@@ -140,22 +140,19 @@ Source basis:
 - `ops/continuity-holes-register-v1.md`
 - `ops/post250k-reconciliation-completion-status-2026-02-19.md`
 
-### 7.1 Active non-blocking risks
+### 7.1 Canonical risk status snapshot (normalized)
 
-| Risk ID | Severity | Status | Notes |
+Canonical source-of-truth: `ops/continuity-holes-register-v1.md` → **Canonical Risk Status Table (R-005..R-008)**.
+
+| Risk ID | Severity | Status | Basis |
 |---|---|---|---|
-| R-006 | P2 | OPEN (monitor) | Asterion League internal governance charter constraints need deeper formalization. |
-| R-008 | P2 | OPEN (monitor) | FVB sub-faction differentiation depth monitor to avoid flattening. |
-
-### 7.2 Recently closed risks
-
-| Risk ID | Severity | Status | Closure Artifact |
-|---|---|---|---|
-| R-005 | P2 | CLOSED (Wave 16) | Scene packet template lock standardized across Books 1-10 packets. |
-| R-007 | P2 | CLOSED (Wave 16) | `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md` |
+| R-005 | P2 | OPEN (monitor) | Scene packet template standardization remains bounded backlog work. |
+| R-006 | P2 | CLOSED (Wave 17) | `ops/asterion-governance-charter-doctrine-pack-v1.md` + wave17 evidence log. |
+| R-007 | P2 | CLOSED (Wave 16) | `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md` + wave16 evidence log. |
+| R-008 | P2 | CLOSED (Wave 17) | `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md` + wave17 evidence log. |
 
 Release interpretation:
-- No P0/P1 blockers; remaining risks are bounded strategic-depth monitors.
+- No P0/P1 blockers; remaining bounded strategic-depth monitor risk is **R-005 only**.
 
 ---
 

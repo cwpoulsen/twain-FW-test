@@ -27,10 +27,12 @@ Baseline SHA at final sweep start: `2855007c8c9af325d740c15b7b1dba1b293028a0`
 - Final full-repo sweep evidence: `ops/evidence/post250k-reconciliation-2026-02-19-final-sweep.txt`
 
 ## Remaining open risks (explicit, non-blocking strategic backlog)
-1. **R-005 (P2):** scene packet template standardization (transit/comms/governor required fields).
-2. **R-006 (P2): CLOSED (Wave 17):** Asterion governance charter doctrine formalized in `ops/asterion-governance-charter-doctrine-pack-v1.md`.
-3. **R-007 (P2):** **CLOSED (Wave 16):** AI-seed safety doctrine formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
-4. **R-008 (P2): CLOSED (Wave 17):** FVB sub-faction drift monitoring/intervention formalized in `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`.
+Canonical source-of-truth table: `ops/continuity-holes-register-v1.md` → **Canonical Risk Status Table (R-005..R-008)**.
+
+- **R-005 (P2): OPEN (monitor).**
+- **R-006 (P2): CLOSED (Wave 17).**
+- **R-007 (P2): CLOSED (Wave 16).**
+- **R-008 (P2): CLOSED (Wave 17).**
 
 ## Wave 17 bounded-risk addendum
 - Added evidence-linked closure artifacts for R-006 and R-008:

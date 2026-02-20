@@ -578,7 +578,7 @@ Close open risk **R-005** by standardizing packet template fields across Books 1
    - Delayed
    - Cross-book dependency
 4. Harmonized label wording in Books 1–4 consequence ledgers (`Second-order` -> `Delayed`) to reduce template seam drift.
-5. Updated continuity risk ledger to mark **R-005 CLOSED (Wave 16)**.
+5. Updated continuity risk ledger to mark **R-005 CLOSED (Wave 16)** at that pass snapshot (**later superseded by Wave 18 normalization to OPEN monitor**).
 
 ### Before/After Examples
 1. **Template lock presence (Books 5–7 / 8–10 / 1–4)**
@@ -602,8 +602,8 @@ Close open risk **R-005** by standardizing packet template fields across Books 1
 - Standardization is structural/formatting-level, improving packet-authoring consistency and reconciliation auditability.
 
 ### Status Impact
-- **R-005 (P2): CLOSED.**
-- Remaining open P2 monitor risks: **R-006, R-008**.
+- **R-005 (P2): CLOSED at Wave 16 snapshot (superseded by later normalization; canonical status now OPEN monitor).**
+- Remaining open P2 monitor risks: **R-006, R-008** at that snapshot (later superseded by Wave 17/Wave 18 normalization).
 
 ---
 
@@ -659,3 +659,22 @@ Run a focused polish pass on highest-impact governance/arc control docs to impro
 - **Warform non-conscious override framing:** preserved.
 - **No-FTL / logistics-finite realism framing:** preserved.
 - **Result:** no canon-fact changes; readability/structure-only polish with stronger mechanism -> decision -> cost traceability.
+
+## 2026-02-19 — Wave 18 Risk-Ledger Normalization Addendum
+
+### Objective
+Normalize R-005/R-006/R-007/R-008 status references across ops docs to remove stale state drift.
+
+### Canonical status (supersedes stale inline references)
+- **R-005 (P2): OPEN (monitor)**
+- **R-006 (P2): CLOSED (Wave 17)**
+- **R-007 (P2): CLOSED (Wave 16)**
+- **R-008 (P2): CLOSED (Wave 17)**
+
+### Source of truth
+- `ops/continuity-holes-register-v1.md` → `Canonical Risk Status Table (R-005..R-008)`
+
+### Contradiction-check summary
+- Reconciled stale references in RC/status logs with canonical risk ledger.
+- No new lock, naming, AI-timing, or warform-agency contradictions introduced.
+- Risk-ledger state is now consistent across updated ops docs.
