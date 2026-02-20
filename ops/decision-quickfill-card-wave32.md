@@ -1,7 +1,7 @@
 # Decision Quickfill Card — Wave 32
 
 Date: 2026-02-20  
-Companion to: `ops/decision-ready-packet-wave30.md`, `ops/decision-answers-template-wave31.md`, `ops/strategy-control-log.md` (latest decision-first cadence entry)  
+Companion to: `ops/decision-ready-packet-wave30.md`, `ops/strategy-control-log.md` (latest decision-first cadence entry)  
 Supersedes: `ops/decision-answers-template-wave31.md`
 
 Purpose: complete D-01..D-07 in under 10 minutes (one line each).
