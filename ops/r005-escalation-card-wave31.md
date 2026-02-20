@@ -2,6 +2,12 @@
 
 Companion to: `ops/r005-next-run-kit-wave30.md` and `ops/r005-watchdog-rollup-wave29.md`
 
+## R-005 Status Banner (Wave 32)
+- **Current state:** `R-005 OPEN (monitor)`; latest executed watchdog snapshot is `ST-1 PASS / ST-2 PASS / ST-3 PASS / ST-4 PASS`, trend **Stable**, escalation **not triggered**.
+- **Latest evidence pointer:** `ops/evidence/wave28-r005-watchdog-run-2026-02-20.txt`
+- **Latest run record:** `ops/r005-watchdog-run-2026-02-20-wave28.md`
+- **Banner maintenance rule:** update this banner on each new watchdog run; keep gate criteria/process logic below unchanged.
+
 Purpose: immediate operator response when any ST gate degrades from PASS.
 
 ## Trigger (escalate immediately)

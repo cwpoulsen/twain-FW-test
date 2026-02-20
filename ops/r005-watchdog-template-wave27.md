@@ -3,6 +3,12 @@
 Companion to: `ops/r005-stability-delta-wave26.md` and `ops/monitor-pack-wave21.md`.
 Routing note (Wave 30): **Primary route for recurring R-005 watchdog runs.**
 
+## R-005 Status Banner (Wave 32)
+- **Current state:** `R-005 OPEN (monitor)`; latest executed watchdog snapshot is `ST-1 PASS / ST-2 PASS / ST-3 PASS / ST-4 PASS`, trend **Stable**, escalation **not triggered**.
+- **Latest evidence pointer:** `ops/evidence/wave28-r005-watchdog-run-2026-02-20.txt`
+- **Latest run record:** `ops/r005-watchdog-run-2026-02-20-wave28.md`
+- **Banner maintenance rule:** update this banner on each new watchdog run; keep gate criteria/process logic below unchanged.
+
 Use this lightweight template for recurring weekly R-005 checks.
 
 ---

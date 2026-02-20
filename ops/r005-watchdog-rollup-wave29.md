@@ -3,6 +3,12 @@
 Companion to: `ops/r005-gate-check-wave24.md`, `ops/r005-regression-sentinel-wave25.md`, `ops/r005-stability-delta-wave26.md`, `ops/r005-watchdog-template-wave27.md`, `ops/r005-watchdog-run-2026-02-20-wave28.md`.
 Routing note (Wave 30): supporting trend rollup for operator context; primary recurring execution route remains `ops/r005-watchdog-template-wave27.md`.
 
+## R-005 Status Banner (Wave 32)
+- **Current state:** `R-005 OPEN (monitor)`; latest executed watchdog snapshot is `ST-1 PASS / ST-2 PASS / ST-3 PASS / ST-4 PASS`, trend **Stable**, escalation **not triggered**.
+- **Latest evidence pointer:** `ops/evidence/wave28-r005-watchdog-run-2026-02-20.txt`
+- **Latest run record:** `ops/r005-watchdog-run-2026-02-20-wave28.md`
+- **Banner maintenance rule:** update this banner on each new watchdog run; keep gate criteria/process logic below unchanged.
+
 ## Purpose
 Consolidate R-005 monitoring evidence from waves 24–28 into one operator-facing trend readout, escalation trigger map, and next-run execution checklist.
 

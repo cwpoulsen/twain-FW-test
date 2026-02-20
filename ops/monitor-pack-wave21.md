@@ -3,6 +3,12 @@
 Companion to: `ops/reviewer-checklist-wave21.md` (go/no-go gate), `ops/r005-regression-sentinel-wave25.md` (R-005 cadence evidence), `ops/r005-watchdog-template-wave27.md` (weekly run template), and `ops/r005-next-run-kit-wave30.md` (copy/paste next-run kit).
 Routing note (Wave 30): **Primary recurring monitor runbook** for weekly post-RC lock/risk checks.
 
+## R-005 Status Banner (Wave 32)
+- **Current state:** `R-005 OPEN (monitor)`; latest executed watchdog snapshot is `ST-1 PASS / ST-2 PASS / ST-3 PASS / ST-4 PASS`, trend **Stable**, escalation **not triggered**.
+- **Latest evidence pointer:** `ops/evidence/wave28-r005-watchdog-run-2026-02-20.txt`
+- **Latest run record:** `ops/r005-watchdog-run-2026-02-20-wave28.md`
+- **Banner maintenance rule:** update this banner on each new watchdog run; keep gate criteria/process logic below unchanged.
+
 Date: 2026-02-19  
 Owner: Bible maintenance  
 Cadence: **Weekly** (recommended every Thu/Fri before any major content merge)
