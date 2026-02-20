@@ -2,6 +2,8 @@
 
 Purpose: fastest path to review current canon, architecture, risks, and scene systems in a practical order.
 
+Role boundary note: for deduplicated guide/index ownership and keep/merge/archive recommendations, see `ops/doc-map-dedupe-wave24.md`.
+
 ## 0) Orientation (Read first)
 1. `ops/executive-summary-wave20.md`
 2. `ops/archive-index-wave20.md`

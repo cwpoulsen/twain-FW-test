@@ -2,6 +2,8 @@
 
 Purpose: Quick domain-by-domain map of major repository documents, with one-line intent and review priority.
 
+Role boundary note: this file is a broad catalog; for deduplicated routing ownership and keep/merge/archive recommendations, see `ops/doc-map-dedupe-wave24.md`.
+
 Priority tags:
 - **[must-read]** = Core source-of-truth docs for understanding canon and execution flow
 - **[secondary]** = Important expansion/context docs used frequently in planning or verification
