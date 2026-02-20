@@ -30,14 +30,14 @@ Purpose: one-page map with exactly four primary review entry docs and their supp
   - `ops/metadata-hygiene-audit-wave30.md` (header/route-role consistency audit)
 
 ## 3) DECISIONS (Primary entry)
-- **Primary:** `ops/unresolved-decisions-brief-wave26.md`
+- **Primary:** `ops/decision-quickfill-card-wave32.md`
 - **Supporting docs:**
   - `ops/decision-queue-wave25.md` (priority + overlap analysis)
   - `ops/reviewer-question-bank-top50-v1.md` (decision prompts)
   - `ops/decision-ballot-pack-wave27.md` (one-screen ballot support)
-  - `ops/decision-signoff-tracker-wave28.md` (execution tracker)
-  - `ops/decision-resolution-sheet-wave29.md` (resolution recording sheet)
   - `ops/decision-ready-packet-wave30.md` (decision-ready summary packet)
+  - `ops/decision-finalization-queue-wave33.md` (finalization tracking)
+  - `ops/decision-capture-sheet-wave36.md` (capture + auto-update sheet)
 
 ## 4) EVIDENCE AUDIT (Primary entry)
 - **Primary:** `ops/evidence/evidence-index-wave23.md`
