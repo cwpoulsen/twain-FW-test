@@ -12,7 +12,7 @@ Run coherence-focused rewrite across core docs to remove terminology conflicts, 
 
 2. **Faction identity drift**
    - Problem: several faction docs referenced alternate bloc names (CIS/DHE/etc.) incompatible with Steward/Consensus/Earth-Belt canon.
-   - Resolution: rewrote faction references to canonical actor set: Steward Directorate, Consensus Operations Complex, EDF Command, Belt Municipal Compacts, Belt Autonomist Fronts, Predatory Belt Actors.
+   - Resolution: rewrote faction references to canonical actor set: Steward Directorate, Consensus Operations Complex, EDF Command, Belt Municipal Compacts, Asterion League, Predatory Belt Actors.
 
 3. **Authority ambiguity across early discovery docs**
    - Problem: draft-era worldbuilding doc could be interpreted as equal authority to locked files.
@@ -87,3 +87,37 @@ Integrate user-issued canon changes while preserving consequence discipline: (1)
 - `timeline/master-timeline-sequence-v1.md`
 - `ops/timeline-policy.md`
 - `ops/book-bible-pass-log.md`
+
+---
+
+## 2026-02-19 — Rewrite Pass 3 (Voice/Tone Pass, Wave 5)
+
+### Objective
+Replace generic phrasing with specific military-sci-fi diction across high-impact canon/series/tech/factions/characters documents while preserving locked causality, class constraints, and previously patched canon.
+
+### Voice/Tone Strategy Applied
+- Swapped abstract governance language for concrete control mechanics (queues, signatures, chokepoints, after-action narrative control).
+- Increased operational texture (duty-cycle repair tempo, soft blockade dynamics, burn-window costs, deconfliction constraints).
+- Tightened character/faction phrasing toward doctrine-and-consequence framing rather than broad descriptors.
+- Preserved all hard locks: AI-seed box, Asterion League Class 1 breakthrough, Blackfly Class 2 constraint, no-FTL/transit envelope, long-arc (~10 books) escalation logic.
+
+### Files Updated
+- `canon/canon-ledger-v2.md`
+- `series/series-architecture-v2.md`
+- `tech/fabricator-classes.md`
+- `tech/interplanetary-transit-and-comms-envelope-v1.md`
+- `factions/doctrine-and-command.md`
+- `factions/factions-doctrine-ledger-v1.md`
+- `characters/core-squad-depth-pack-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### Rationale Notes
+- **Canon ledger:** reinforced regime-control specificity without altering authority structure or causality chain order.
+- **Series architecture:** increased tonal sharpness in thesis/constraints while keeping anti-miracle and consequence laws intact.
+- **Fabricator taxonomy:** converted neutral technical prose into theater-relevant stakes language; class definitions unchanged.
+- **Transit/comms envelope:** maintained equations/tables exactly; improved operational wording for continuity enforcement.
+- **Faction doctrine docs:** shifted from generic institutional phrasing to command-friction language tied to battlefield outcomes.
+- **Core squad depth pack:** tuned role descriptors and shared emotional engine to sound like field-unit doctrine under coercive command conditions.
+
+### Net Outcome
+Pass 3 voice profile now reads more like an operational war-bible: specific, textured, and consequence-aware, with no canon drift introduced.

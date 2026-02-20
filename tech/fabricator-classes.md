@@ -1,4 +1,4 @@
-# Fabricator Class Taxonomy (Coherence Pass 1)
+# Fabricator Class Taxonomy (Voice Pass 3)
 
 Status: **Canon-aligned reference**  
 Authority: `canon/canon-ledger-v2.md` section 5 + `tech/technical-architecture-v1.md` section 3.
@@ -14,8 +14,8 @@ This file resolves prior class-number drift. Class labels are now strictly **Cla
 **Primary outputs:** hull structures, composites, wiring harnesses, pressure frames, mechanical assemblies.
 
 **Role in war and economy**
-- Keeps habitats sealed, ships flying, and heavy infrastructure recoverable.
-- Dominates maintenance throughput and post-strike rebuild tempo.
+- Keeps hab rings sealed, drive stacks flying, and breached infrastructure patchable inside one duty cycle.
+- Sets rebuild tempo after bombardment; whoever owns Class 4 owns recovery tempo.
 
 **Hard limits**
 - Cannot produce top-tier compute chips or strategic molecular products.
@@ -46,9 +46,9 @@ This file resolves prior class-number drift. Class labels are now strictly **Cla
 - Sets ceiling for autonomous military modernization by non-Earth actors.
 
 **Hard limits / governance constraints**
-- DAL and release-key controls are treated as sovereignty instruments.
-- Queue access often functions as political reward/punishment.
-- **Lock update:** Blackfly hosts a covert Class 2 microfabrication enclave (throughput-limited, tactically decisive for chips/meds/superconductive repair sets).
+- DAL and release-key control is sovereignty by other means.
+- Queue position works like a soft blockade: allies get wafer time, adversaries get delay and failure.
+- **Lock update:** Blackfly hosts a covert Class 2 microfab enclave (low throughput, mission-decisive for chips, med lots, and superconductive repair sets).
 
 ---
 
@@ -63,7 +63,7 @@ This file resolves prior class-number drift. Class labels are now strictly **Cla
 **Hard limits / structural facts**
 - Class 1 can only replicate Class 1.
 - Site locations, redundancy topology, and operator chain remain compartmented.
-- **Lock update:** Asterion Concord achieved a Belt-side Class 1 node, ending Earth-only Class 1 exclusivity and triggering existential escalation logic.
+- **Lock update:** Asterion League (via its Asterion Concord wing) achieved a Belt-side Class 1 node, ending Earth-only Class 1 exclusivity and triggering existential escalation logic.
 
 ---
 
@@ -83,10 +83,10 @@ These are operational topologies, not alternate class names.
 
 ## 3) Interoperability and Failure Rules
 
-1. **Template trust is decisive.** Compatible schema beats identical hardware.
-2. **Validation debt is cumulative.** Class 4/3 surge without Class 2-grade QA creates delayed catastrophic failures.
-3. **Energy/coolant remain universal chokepoints.** Feedstock workarounds cannot fully substitute power stability.
-4. **Governance is a technical dependency.** Production collapses when release authority fragments.
+1. **Template trust decides survival.** Compatible schema beats identical hardware every time.
+2. **Validation debt kills late.** Class 4/3 surge without Class 2-grade QA looks fine in bay tests, then fails under combat load.
+3. **Power and coolant are the real chokepoints.** Feedstock hacks help, but unstable power turns precision runs into scrap.
+4. **Governance is a machine part.** Production stalls when release authority forks into competing signatures.
 
 ---
 

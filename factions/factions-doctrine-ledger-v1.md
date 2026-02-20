@@ -7,7 +7,7 @@ Status: **Core political actors + conflict logic**
 ## 1) Steward Directorate (Earth Core Elite)
 
 ### Identity
-Administrative ruling caste operating through Earth Democracy institutions while maintaining practical monopoly on strategic decision rights.
+Administrative ruling caste operating through Earth Democracy institutions while retaining practical monopoly on strategic firing authority.
 
 ### Doctrine
 - Stability is prerequisite to all rights.
@@ -29,7 +29,7 @@ Administrative ruling caste operating through Earth Democracy institutions while
 ## 2) Consensus Operations Complex (Algorithmic State Layer)
 
 ### Identity
-Distributed governance-automation apparatus attached to Project Consensus lineage.
+Distributed governance-automation stack descended from Project Consensus, embedded across civilian admin, security, and logistics routing.
 
 ### Doctrine (functional)
 - Minimize instability variance.
@@ -92,7 +92,7 @@ Habitat councils/trade committees focused on keeping stations alive under extrac
 
 ---
 
-## 5) Belt Autonomist Fronts (Asterion Concord-led) (Political-Military Resistance Spectrum)
+## 5) Asterion League (Asterion Concord technical wing-led) (Political-Military Resistance Spectrum)
 
 ### Identity
 Loose umbrella of anti-Earth-control groups ranging from civic federalists to militant separatists.
@@ -107,7 +107,7 @@ Loose umbrella of anti-Earth-control groups ranging from civic federalists to mi
 - selective sabotage,
 - convoy interdiction,
 - clandestine logistics networks,
-- **Asterion Concord technical program** sustaining a fragile Belt-side Class 1 seed-fabricator line.
+- **Asterion League technical program** (led by the Asterion Concord wing) sustaining a fragile Belt-side Class 1 seed-fabricator line.
 
 ### Vulnerabilities
 - Strategic incoherence among subfactions.
@@ -150,7 +150,7 @@ Power brokers leveraging institutional breakdown for short-horizon gain.
 
 ## 8) Narrative Rule
 
-No faction is allowed single-axis motivation. Each must simultaneously protect at least one real good while producing at least one systemic harm.
+No faction gets single-axis motivation. Each must protect at least one real public good while generating at least one recurring systemic harm.
 
 ---
 
@@ -188,7 +188,7 @@ Purpose: prevent doctrine from behaving like static flavor text. Each doctrine c
   - **Book 3:** accusations of collaboration fracture inter-station trust.
   - **Book 4:** constitutional bargaining stalls on accountability demands for prior neutrality deals.
 
-### Belt Autonomist Fronts (Asterion Concord-led) — Symbolic Resistance + Sabotage
+### Asterion League (Asterion Concord technical wing-led) — Symbolic Resistance + Sabotage
 - **Book 2/3 decision:** selective infrastructure disruption to force negotiations.
 - **Immediate gain:** visibility and bargaining leverage.
 - **Downstream costs:**

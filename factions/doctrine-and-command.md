@@ -6,13 +6,13 @@ Continuity links: `factions/major-factions.md`, `factions/factions-doctrine-ledg
 ---
 
 ## Command Reality in This Setting
-Command authority is not just maneuver control. It also controls:
+Command authority here is not just who moves troops on a tac-map. It also controls:
 - template legitimacy,
 - queue priority,
-- release-key governance,
-- and narrative framing of failure.
+- release-key signatures,
+- and the official story after something burns.
 
-Most strategic defeats begin as administrative fractures before they appear as battlefield losses.
+Most strategic defeats start as paperwork fractures, then show up later as wreckage and body counts.
 
 ---
 
@@ -60,7 +60,7 @@ Most strategic defeats begin as administrative fractures before they appear as b
 
 ### Doctrine
 - Mission continuity over unit sentiment.
-- Expendability when deniability or strategic timing demands it.
+- Controlled expendability when deniability windows or political timing demand a sacrificial unit.
 
 ### Incentive structure
 - Career advancement tied to objective completion and narrative containment.
@@ -95,7 +95,7 @@ Most strategic defeats begin as administrative fractures before they appear as b
 
 ---
 
-## 5) Belt Autonomist Fronts (Asterion Concord-led)
+## 5) Asterion League (Asterion Concord technical wing-led)
 
 ### Doctrine
 - No remote cognitive rule.
@@ -107,7 +107,7 @@ Most strategic defeats begin as administrative fractures before they appear as b
 ### Command architecture
 - Cell-based operational chains.
 - Hybrid political + military leadership, often temporary.
-- Asterion Concord technical directorate controlling a fragile Class 1 seed-fabricator line under extreme compartmentalization.
+- Asterion League technical directorate (Asterion Concord wing) controlling a fragile Class 1 seed-fabricator line under extreme compartmentalization.
 
 ### Typical friction
 - Internal split between patient governance strategy and retaliatory escalation.
@@ -134,9 +134,9 @@ Most strategic defeats begin as administrative fractures before they appear as b
 
 ## Cross-Faction Failure Triggers
 
-1. **Queue legitimacy collapse:** field units reject official priorities.
-2. **Release-key fragmentation:** competing authorities sign incompatible template variants.
-3. **Validation debt denial:** reported output detaches from real combat reliability.
-4. **Civ-mil conversion revolt:** requisition policy exceeds tolerable social cost.
+1. **Queue legitimacy collapse:** deck crews and field commands stop believing published priorities and run shadow queues.
+2. **Release-key fragmentation:** rival authorities sign incompatible template branches; maintenance turns into roulette.
+3. **Validation debt denial:** dashboard readiness diverges from combat reliability until whole units fail at once.
+4. **Civ-mil conversion revolt:** requisition crosses survival red lines and municipal populations refuse further levy support.
 
 These triggers should appear early in scenes before strategic collapse events.

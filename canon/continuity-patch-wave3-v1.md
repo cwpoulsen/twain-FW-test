@@ -9,6 +9,7 @@ Cross-refs:
 - Long arc map: `timeline/books1-10-strategic-reconquest-map-v1.md`
 - Transit/comms envelope: `tech/interplanetary-transit-and-comms-envelope-v1.md`
 - Governor bands: `tech/governor-module-autonomy-bands-v1.md`
+- Faction naming policy: `canon/ops/faction-naming-policy.md`
 
 ---
 
@@ -29,6 +30,7 @@ Cross-refs:
 **Continuity effects:**
 - Consensus Class 1 monopoly becomes broken-contested, not absolute.
 - Escalation logic across Books 2–6 must reflect emergency regime response.
+- Deprecated generic labels are disallowed as narrator faction names; use **Asterion League** per naming policy.
 
 ---
 
