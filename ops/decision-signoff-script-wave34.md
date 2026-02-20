@@ -33,7 +33,7 @@ Example:
 | D-03 | D-03 Next cycle mode | 1 | `ops/strategy-control-log.md`; `ops/decision-queue-wave25.md`; `ops/routing-consolidation-wave28.md` |
 | D-04 | D-04 Signoff depth | 2 | `ops/start-here-review-path.md`; `ops/reading-guide-60min-quick-review-v1.md`; `ops/reviewer-checklist-wave21.md` |
 | D-01 | D-01 RC1 baseline | 3 | `ops/decision-finalization-queue-wave33.md`; `ops/monitor-pack-wave21.md`; `ops/rc1-release-notes-wave22.md` |
-| D-02 | D-02 R-005 policy | 4 | `ops/r005-regression-sentinel-wave25.md`; `ops/r005-watchdog-run-2026-02-20-wave28.md`; `ops/packet-doc-lint-checklist-v1.md` |
+| D-02 | D-02 R-005 policy | 4 | `ops/r005-regression-sentinel-wave25.md`; `ops/r005-health-checkpoint-wave33.md`; `ops/packet-doc-lint-checklist-v1.md` |
 | D-05 | D-05 Provisional→Authority promotion | 5 | `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`; `ops/canon-policy.md` |
 | D-06 | D-06 Anti-dup governance | 6 | `ops/workflow-v2.md`; `ops/doc-map-dedupe-wave24.md`; `ops/final-snapshot-status-wave19.md` |
 | D-07 | D-07 Question-bank policy | 7 | `ops/reviewer-question-bank-top50-v1.md`; `ops/handoff-briefing-wave23.md`; `ops/reading-guide-1day-deep-review-v1.md` |

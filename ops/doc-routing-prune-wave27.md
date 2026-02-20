@@ -14,7 +14,7 @@ Prune routing ambiguity across review docs by making exactly one primary entry r
 ## Primary route lock (now explicit)
 - **Quick review (primary):** `ops/reading-guide-60min-quick-review-v1.md`
 - **Deep review (primary):** `ops/reading-guide-1day-deep-review-v1.md`
-- **Decision calls (primary):** `ops/unresolved-decisions-brief-wave26.md`
+- **Decision calls (primary):** `ops/decision-quickfill-card-wave32.md` (summary context: `ops/decision-ready-packet-wave30.md`)
 - **Evidence audit (primary):** `ops/evidence/evidence-index-wave23.md`
 
 These are now listed directly in `ops/start-here-review-path.md` under a dedicated Wave 27 routing lock section.
@@ -30,7 +30,7 @@ These are now listed directly in `ops/start-here-review-path.md` under a dedicat
    - Added routing note marking this as primary for deep review.
 4. `ops/decision-queue-wave25.md`
    - Added routing note clarifying this is supporting analysis (not primary decision-call entry).
-5. `ops/unresolved-decisions-brief-wave26.md`
+5. `ops/decision-quickfill-card-wave32.md`
    - Added `Companion to` metadata line.
    - Added routing note marking this as primary for decision calls.
 6. `ops/evidence/evidence-index-wave23.md`

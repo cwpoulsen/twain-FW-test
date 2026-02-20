@@ -44,7 +44,7 @@ Purpose: one-page map with exactly four primary review entry docs and their supp
 - **Supporting docs:**
   - `ops/monitor-pack-wave21.md` (recurring monitor runbook)
   - `ops/r005-watchdog-template-wave27.md` (recurring watchdog template)
-  - `ops/r005-watchdog-run-2026-02-20-wave28.md` (latest run artifact)
+  - `ops/r005-health-checkpoint-wave33.md` (current R-005 status anchor)
   - `ops/r005-watchdog-rollup-wave29.md` (run rollup)
   - `ops/r005-stability-delta-wave26.md` (trend delta checkpoint)
   - `ops/r005-gate-check-wave24.md` (gate baseline)

@@ -11,7 +11,7 @@ Constraint: **No canon changes** (ops-layer routing/metadata text only).
 - Ensured each targeted review doc has:
   1) an explicit metadata line (`Companion to:`), and
   2) a clear routing-role note (primary vs supporting route).
-- Removed routing ambiguity by clarifying that decision-call primary route remains `ops/unresolved-decisions-brief-wave26.md`.
+- Removed routing ambiguity by clarifying that decision-call primary route is `ops/decision-quickfill-card-wave32.md` (with `ops/decision-ready-packet-wave30.md` as summary context).
 - Replaced one conflicting routing signal in Wave 27 ballot doc (`Supersedes` claim) with supporting-route language.
 
 ## Changed files (Wave 28 pass)
@@ -29,21 +29,21 @@ Constraint: **No canon changes** (ops-layer routing/metadata text only).
 
 ## Docs reviewed (no edit required)
 - `ops/decision-queue-wave25.md` (already clear supporting-route note + metadata)
-- `ops/unresolved-decisions-brief-wave26.md` (already clear primary decision-call route + metadata)
+- `ops/decision-quickfill-card-wave32.md` (current primary decision-call route + metadata)
 - `ops/doc-routing-prune-wave27.md` (already clear routing lock + metadata)
 
 ## Keep / Merge / Archive recommendations
 
 ### Keep (active)
 - `ops/start-here-review-path.md` (primary review routing owner)
-- `ops/unresolved-decisions-brief-wave26.md` (primary decision-call route)
+- `ops/decision-quickfill-card-wave32.md` (primary decision-call route)
 - `ops/doc-map-dedupe-wave24.md` (dedupe/ownership governance)
 - `ops/doc-merge-plan-wave25.md` (merge/archive execution plan)
 - `ops/supersession-finalize-wave26.md` (annotation control history)
 - `ops/doc-routing-prune-wave27.md` (primary-route lock record)
 
 ### Merge (recommended)
-- Merge `ops/decision-ballot-pack-wave27.md` into `ops/unresolved-decisions-brief-wave26.md` as a compact “one-screen ballot” section in a future pass, then keep ballot as a thin redirect stub.
+- Keep `ops/decision-ballot-pack-wave27.md` as a supporting one-screen ballot alongside `ops/decision-quickfill-card-wave32.md`; avoid creating a legacy-primary dependency.
 - Optionally merge overlapping route-governance notes from:
   - `ops/doc-map-dedupe-wave24.md`
   - `ops/doc-merge-plan-wave25.md`

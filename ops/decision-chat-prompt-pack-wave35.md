@@ -43,7 +43,7 @@ Example:
 | 1 | D-03 | `ops/decision-quickfill-card-wave32.md` (`selected`, `confidence`) | `ops/strategy-control-log.md`; `ops/decision-queue-wave25.md`; `ops/routing-consolidation-wave28.md` |
 | 2 | D-04 | `ops/decision-quickfill-card-wave32.md` | `ops/start-here-review-path.md`; `ops/reading-guide-60min-quick-review-v1.md`; `ops/reviewer-checklist-wave21.md` |
 | 3 | D-01 | `ops/decision-quickfill-card-wave32.md` | `ops/decision-finalization-queue-wave33.md`; `ops/monitor-pack-wave21.md`; `ops/rc1-release-notes-wave22.md` |
-| 4 | D-02 | `ops/decision-quickfill-card-wave32.md` | `ops/r005-regression-sentinel-wave25.md`; `ops/r005-watchdog-run-2026-02-20-wave28.md`; `ops/packet-doc-lint-checklist-v1.md` |
+| 4 | D-02 | `ops/decision-quickfill-card-wave32.md` | `ops/r005-regression-sentinel-wave25.md`; `ops/r005-health-checkpoint-wave33.md`; `ops/packet-doc-lint-checklist-v1.md` |
 | 5 | D-05 | `ops/decision-quickfill-card-wave32.md` | `ops/continuity-lock-check-matrix-v1.md`; `ops/domain-validation-checklists-v1.md`; `ops/canon-policy.md` |
 | 6 | D-06 | `ops/decision-quickfill-card-wave32.md` | `ops/workflow-v2.md`; `ops/doc-map-dedupe-wave24.md`; `ops/final-snapshot-status-wave19.md` |
 | 7 | D-07 | `ops/decision-quickfill-card-wave32.md` | `ops/reviewer-question-bank-top50-v1.md`; `ops/handoff-briefing-wave23.md`; `ops/reading-guide-1day-deep-review-v1.md` |

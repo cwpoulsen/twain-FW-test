@@ -45,11 +45,11 @@ Scope: metadata hygiene + route-role clarity audit for ops markdown docs modifie
 - `ops/start-here-review-path.md` (primary routing entry)
 - `ops/executive-summary-wave20.md` (primary status snapshot)
 - `ops/handoff-briefing-wave23.md` (primary action queue)
-- `ops/unresolved-decisions-brief-wave26.md` (current primary decision-call route until closure)
+- `ops/decision-quickfill-card-wave32.md` (current primary decision-call route)
 - `ops/r005-watchdog-template-wave27.md` + `ops/monitor-pack-wave21.md` (primary recurring R-005/monitor execution routes)
 
 ### Merge candidates (post-decision closeout)
-- Decision surfaces: `ops/decision-ballot-pack-wave27.md`, `ops/decision-signoff-tracker-wave28.md`, `ops/decision-resolution-sheet-wave29.md`  
+- Decision surfaces: `ops/decision-quickfill-card-wave32.md`, `ops/decision-finalization-queue-wave33.md`, `ops/decision-capture-sheet-wave36.md`  
   Recommendation: merge into one consolidated “decision control sheet” after D-01..D-07 are finalized.
 - R-005 trend surfaces: `ops/r005-stability-delta-wave26.md`, `ops/r005-watchdog-run-2026-02-20-wave28.md`, `ops/r005-watchdog-rollup-wave29.md`  
   Recommendation: preserve template separately, merge historical run+rollup into a periodic/monthly trend ledger.
