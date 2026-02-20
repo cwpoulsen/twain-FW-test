@@ -1,0 +1,28 @@
+Wave 19 Markdown Link/Path Integrity Check
+Date: 2026-02-19 20:48:04 EST
+Workdir: /home/chris/.openclaw/workspace/twain-FW-test
+Scope:
+- ops/release-candidate-index-pack-wave17-v1.md
+- ops/release-candidate-index-pack-wave17-commit-manifest.md
+- ops/start-here-review-path.md
+
+Checks performed:
+1) Markdown inline-link validation ([text](target))
+   - Ignored external URLs/schemes and in-page anchors.
+   - Resolved relative targets from each source file directory.
+
+Result:
+- Broken markdown links found: 0
+
+2) Backticked .md path/reference existence validation (`path/to/file.md`)
+   - Validated each reference against repo-root path and file-relative fallback.
+
+Result:
+- Broken backticked .md references found: 0
+
+Patch actions:
+- No broken relative paths/references detected.
+- No document patches required.
+
+Evidence artifact:
+- This file serves as audit evidence for Wave 19 scope.
