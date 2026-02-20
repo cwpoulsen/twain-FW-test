@@ -45,6 +45,7 @@ Reality Gate lock (applies in every packet):
 ## BOOK 5 — *Charter Under Scarcity*
 
 ### Packet B5-S01 — Charter Oxygen Vote
+**Mission-chain anchor:** B5-S01
 **Objective:** Keep Belt charter bloc intact during first life-support allocation vote under visible scarcity.  
 **Conflict:** Habitat delegates threaten walkout after FVB raids delay oxygen canister convoys; Lin must choose speed (executive decree) or legitimacy (slow counted vote).  
 **Tactical geometry:** Ceres-Pallas canister lanes at 0.22–0.61 AU; convoy escort limited to BC-B profile due radiator fatigue. Earth legal consultation unusable in-window at 2–20+ minute one-way lag by node.  
@@ -57,6 +58,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0310; Book 5 row, `series/books1-10-arc-dependency-grid-v1.md`; mission chain `B5-S01`.
 
 ### Packet B5-S02 — Spiral Pier Ambush
+**Mission-chain anchor:** B5-S02
 **Objective:** Break a Freed Voider Bands recruitment funnel at a docking pier without mass civilian detention optics.  
 **Conflict:** Marko can seal and sweep (effective, abusive) or run targeted snatch operations (slower, leak-prone).  
 **Tactical geometry:** Rotating pier interior, mixed-g. Boarding teams mag-clamp before firing; recoil drift turns one corridor into no-fire zone. 27-minute tactical window before convoy undock.  
@@ -69,6 +71,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0315; FVB dossier; mission chain `B5-S02`.
 
 ### Packet B5-S03 — Class-2 Queue Riot on Vesta Ring
+**Mission-chain anchor:** B5-S03
 **Objective:** Prevent fab-allocation board collapse after manipulated queue data sparks riot.  
 **Conflict:** Isaac can restore services by privileged override (fast, anti-plural) or accept a six-hour blackout during audited rebuild.  
 **Tactical geometry:** Data center in spin gravity, perimeter firefight in low-g maintenance spine requiring tethered movement and controlled single-shot discipline. Sensor confidence 0.62 due spoof packets.  
@@ -81,6 +84,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0320; Branch C prevention; mission chain `B5-S03`.
 
 ### Packet B5-S04 — Bitter Amnesty Berth
+**Mission-chain anchor:** B5-S04
 **Objective:** Process ex-Steward technicians requesting reintegration without enabling soft recapture.  
 **Conflict:** Hale wants strict exclusion; Lin argues selective reintegration is required for throughput survival.  
 **Tactical geometry:** Berth transfer under 0.4 AU threat shadow; verification data arrives with 3–11 minute stagger, preventing instant innocence/culpability calls.  
@@ -93,6 +97,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0325; Book 5 handoff #3; mission chain `B5-S04`.
 
 ### Packet B5-S05 — Insurance War at Needle Gate
+**Mission-chain anchor:** B5-S05
 **Objective:** Reopen convoy insurance market after serial piracy drives rates to system-breaking levels.  
 **Conflict:** Valerie can promise aggressive escort ROE (deterrent, collateral risk) or constrained interception with appeals board (slower confidence recovery).  
 **Tactical geometry:** Gate crossing at 0.73 AU median spread; escorts running BC-C pulses accumulate heat debt requiring 18-hour cooldown rotations.  
@@ -105,6 +110,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0330; Book 7 prerequisite; mission chain `B5-S05`.
 
 ### Packet B5-S06 — Quiet Court, Loud Airlocks
+**Mission-chain anchor:** B5-S06
 **Objective:** Keep a tribunal hearing alive during coordinated intimidation of witnesses and judges.  
 **Conflict:** Security proposes sealed proceeding; civics groups demand public access.  
 **Tactical geometry:** Court station life-support ducts become attack vectors; defense teams move in low-g service shafts, weapons only from brace points to avoid ricochet decompression.  
@@ -117,6 +123,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0335; governance continuity chain; mission chain `B5-S06`.
 
 ### Packet B5-S07 — First Stress Winter
+**Mission-chain anchor:** B5-S07
 **Objective:** Hold charter coalition through synchronized oxygen, coolant, and food shortfalls during deep-space winter cycle.  
 **Conflict:** Emergency centralization could save lives fast but violates anti-monopoly commitments.  
 **Tactical geometry:** Multi-lane shortages across 0.2–1.1 AU network; no rapid redistribution possible under BC-B cadence and depleted escort fuel.  
@@ -133,6 +140,7 @@ Reality Gate lock (applies in every packet):
 ## BOOK 6 — *Parity Without Capture*
 
 ### Packet B6-S01 — Coolant Parliament
+**Mission-chain anchor:** B6-S01
 **Objective:** Allocate coolant among warship yards, hospital fabs, and habitat recyclers without board capture.  
 **Conflict:** Isaac and Lin split on efficiency versus plural oversight at a moment where delay kills.  
 **Tactical geometry:** Supply convoys from 0.8 AU outpost arrive in 19-day stagger; no same-day re-task. Board votes occur under stale telemetry bands.  
@@ -145,6 +153,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0350; Book 6 row; mission chain `B6-S01`.
 
 ### Packet B6-S02 — Standards War in Drydock Nine
+**Mission-chain anchor:** B6-S02
 **Objective:** Prevent sabotage-by-standard where rival firmware protocols can brick mixed fab fleets.  
 **Conflict:** Ex-Steward experts offer a fast proprietary patch with hidden control hooks.  
 **Tactical geometry:** Drydock engagement across articulated truss in low-g vacuum; cutters and carbines used only with dual-point tethering; debris cloud reduces sensor confidence to 0.48.  
@@ -157,6 +166,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0355; Branch C mitigation; mission chain `B6-S02`.
 
 ### Packet B6-S03 — Ghost Ledger Procurement Sting
+**Mission-chain anchor:** B6-S03
 **Objective:** Expose procurement sabotage ring siphoning Class-2 outputs into black channels.  
 **Conflict:** Valerie can burn covert sources now or let theft continue to map full network.  
 **Tactical geometry:** Sting synchronized over three nodes at 0.15, 0.47, and 0.9 AU separation; arrest teams cannot adapt in real time due lag, must execute pre-committed branches.  
@@ -169,6 +179,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0360; mission chain `B6-S03`.
 
 ### Packet B6-S04 — Labor Mutiny at Forge Crescent
+**Mission-chain anchor:** B6-S04
 **Objective:** Defuse labor walkout at major fab crescent without military seizure of production.  
 **Conflict:** Commanders want compulsory shifts under emergency statute; labor delegates demand rotation safety after fatigue deaths.  
 **Tactical geometry:** Crescent spins at partial-g; safety incidents concentrated in transfer spokes where micro-g tool recoil caused fatal drift impacts.  
@@ -181,6 +192,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0365; reality gate fatigue lock; mission chain `B6-S04`.
 
 ### Packet B6-S05 — Sunset Audit Trap
+**Mission-chain anchor:** B6-S05
 **Objective:** Prove emergency powers actually expire while adversaries provoke crisis to justify extension.  
 **Conflict:** Fresh FVB convoy bombings create genuine panic; extending powers looks prudent and politically easy.  
 **Tactical geometry:** Audit servers distributed across latency-separated nodes; results cannot be forged centrally fast enough if witnesses compare timestamp chains.  
@@ -193,6 +205,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0370; governance lock; mission chain `B6-S05`.
 
 ### Packet B6-S06 — Spare Parts Triage on the Long Arc
+**Mission-chain anchor:** B6-S06
 **Objective:** Choose which corridors receive scarce reactor bearing kits before cascade failures.  
 **Conflict:** Data suggests military lanes first; civilian mortality modeling demands opposite priority.  
 **Tactical geometry:** Bearing kits require 31–74 day transit windows depending corridor; no emergency sprint without heat penalties that would cancel gains.  
@@ -205,6 +218,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0375; Book 6 condition #3; mission chain `B6-S06`.
 
 ### Packet B6-S07 — Parity Proof Night
+**Mission-chain anchor:** B6-S07
 **Objective:** Demonstrate industrial parity milestone without triggering fear of replacement tyranny.  
 **Conflict:** Celebration optics invite triumphal centralization rhetoric; survivors demand humility and safeguards first.  
 **Tactical geometry:** Facility tours and remote attestations staggered by lag; no single master broadcast can synchronize narrative across system.  
@@ -221,6 +235,7 @@ Reality Gate lock (applies in every packet):
 ## BOOK 7 — *Corridor Law*
 
 ### Packet B7-S01 — Three-Lane Funeral Convoy
+**Mission-chain anchor:** B7-S01
 **Objective:** Protect civilian funeral convoy through contested Mars-Earth-Ceres approach where FVB cells stage symbolic mass-casualty attack.  
 **Conflict:** Valerie can pre-clear entire lane with broad exclusion fire or maintain constrained ROE and risk breakthrough.  
 **Tactical geometry:** Escort wedge spans staggered vectors at 0.3–0.9 AU operational separation; command intent fragments under lag, forcing captain-level autonomy.  
@@ -233,6 +248,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0390; Book 7 row; mission chain `B7-S01`.
 
 ### Packet B7-S02 — Inspection Line at Meridian Spine
+**Mission-chain anchor:** B7-S02
 **Objective:** Implement corridor inspection regime that can detect disguised strike cargos without strangling trade.  
 **Conflict:** Traders demand speed; security demands exhaustive scans that exceed queue tolerance.  
 **Tactical geometry:** Meridian Spine throughput caps at fixed berth turnover; each deep scan adds 14 minutes and cascades into day-scale delays.  
@@ -245,6 +261,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0395; corridor governance stack; mission chain `B7-S02`.
 
 ### Packet B7-S03 — False Positive at Cinder Junction
+**Mission-chain anchor:** B7-S03
 **Objective:** Prevent retaliatory strike after mislabeled sensor return identifies a hospital tug as pirate mothership.  
 **Conflict:** Marko must countermand a respected escort captain minutes before launch authorization chain closes.  
 **Tactical geometry:** Sensor fusion degraded by flare and spoof buoys; confidence split 0.41/0.59 across model sets. Comms lag blocks full adjudication before weapon window.  
@@ -257,6 +274,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0400; reality gate sensor lock; mission chain `B7-S03`.
 
 ### Packet B7-S04 — Sanctions Hearing Under Fire
+**Mission-chain anchor:** B7-S04
 **Objective:** Complete first enforceable sanctions ruling against corridor violators during active intimidation campaign.  
 **Conflict:** Emergency military decree could bypass process and look stronger; legal route is slower and vulnerable.  
 **Tactical geometry:** Hearing node under intermittent micro-meteor shielding outages; security teams rotate on sleep-degraded cycles after 72-hour alert period.  
@@ -269,6 +287,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0405; Book 7 condition #1 maturity; mission chain `B7-S04`.
 
 ### Packet B7-S05 — The Narrow Mercy Raid
+**Mission-chain anchor:** B7-S05
 **Objective:** Interdict FVB terror cell staging decompression attack while preserving live captures for recruitment-funnel intelligence.  
 **Conflict:** Valerie wants certainty kill-box; Isaac insists live capture is required to collapse pipeline economics.  
 **Tactical geometry:** Boarding in zero-g tank farm; all operators hard-anchor before short controlled bursts, then transition to restraints to avoid ricochet punctures.  
@@ -281,6 +300,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0410; FVB policy lock from strategy log; mission chain `B7-S05`.
 
 ### Packet B7-S06 — Corridor Law Threshold
+**Mission-chain anchor:** B7-S06
 **Objective:** Decide whether chokepoint campaign has sufficient legitimacy and casualty trend to hand off into Book 8 Earth-approach staging.  
 **Conflict:** Hawks demand expansion now; civil planners warn support systems are one shock away from fracture.  
 **Tactical geometry:** Campaign review aggregates six months of lane data across delayed reporting windows; some losses remain unresolved due comm latency and missing logs.  

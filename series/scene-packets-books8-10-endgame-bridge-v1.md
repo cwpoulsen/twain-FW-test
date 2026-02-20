@@ -48,6 +48,7 @@ Reality Gate lock (applies in every packet):
 ## BOOK 8 — *Approach Without Illusion*
 
 ### Packet B8-S01 — Kessler Bargain at Perigee Ledger
+**Mission-chain anchor:** B8-S01
 **Objective:** Ratify shared Earth-approach ROE across coalition, labor escorts, and defected command cadres.  
 **Conflict:** Hawks demand preemptive strike authority before civilian corridors are certified.  
 **Tactical geometry:** Staging shells at staggered high orbit with BC-C burn ceilings; any unscheduled sprint burns radiator margin needed for medevac windows.  
@@ -60,6 +61,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0420; Book 8 row, `series/books1-10-arc-dependency-grid-v1.md`; mission chain `B8-S01`.
 
 ### Packet B8-S02 — Dockworker Referendum Under Siren Silence
+**Mission-chain anchor:** B8-S02
 **Objective:** Verify Earth-side labor councils as civil partners for port turnover.  
 **Conflict:** Lin can accept fast but coercive proxy ratifications or endure slow open balloting under bombardment threat.  
 **Tactical geometry:** Orbital relay outages create 6–24 minute signaling gaps; dock security teams operate with pre-briefed rules and no live override.  
@@ -72,6 +74,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0425; mission chain `B8-S02`; timeline cross-link `books8-10` map.
 
 ### Packet B8-S03 — Powder Corridor Feint
+**Mission-chain anchor:** B8-S03
 **Objective:** Hold approach corridor against FVB decoy strikes meant to trigger overreaction optics.  
 **Conflict:** Valerie can authorize saturation fire at uncertain contacts or absorb attrition while isolating confirmed hostile vectors.  
 **Tactical geometry:** Multi-axis clutter field with spoof buoys; confidence never exceeds 0.64; escort wings fuel-limited to one hard intercept cycle.  
@@ -84,6 +87,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0430; mission chain `B8-S03`; Branch D prevention note.
 
 ### Packet B8-S04 — Prisoner Exchange at Lagrange Slipyard
+**Mission-chain anchor:** B8-S04
 **Objective:** Execute POW exchange without allowing hardliner cadres to seed sabotage teams into approach fleet.  
 **Conflict:** Marko can cancel exchange after one biometrics mismatch or proceed under layered quarantine and risk political backlash.  
 **Tactical geometry:** Slipyard transfer lanes require staggered dock cycles; each additional scan adds 11 minutes and compounds exposure window.  
@@ -96,6 +100,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0435; mission chain `B8-S04`; FVB/integration lock.
 
 ### Packet B8-S05 — Glacier Stack Preposition Failure
+**Mission-chain anchor:** B8-S05
 **Objective:** Salvage campaign-cycle stockpile plan after a coolant depot cascade failure.  
 **Conflict:** Isaac can cannibalize hospital reserves to preserve war tempo or accept slower assault pacing.  
 **Tactical geometry:** Depot located in high-radiation service ring; repair teams work tethered in 9-minute exposure intervals; replacement shipments are 27–41 days out.  
@@ -108,6 +113,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0440; mission chain `B8-S05`; logistics table lock.
 
 ### Packet B8-S06 — Broadcast Night of False Invasion
+**Mission-chain anchor:** B8-S06
 **Objective:** Defeat incumbent propaganda claiming coalition plans atmospheric depopulation strikes.  
 **Conflict:** Coalition media wing proposes deepfake counter-propaganda mirroring enemy tactics.  
 **Tactical geometry:** Asynchronous uplink architecture means no single synchronized truth-drop; evidence bundles propagate in staggered legal notarization waves.  
@@ -120,6 +126,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0445; mission chain `B8-S06`; media governance cross-link.
 
 ### Packet B8-S07 — Ascender Shaft Mass-Casualty Drill
+**Mission-chain anchor:** B8-S07
 **Objective:** Test whether Earth ascent/descent bottlenecks can absorb real campaign casualty loads.  
 **Conflict:** Command wants optimistic throughput assumptions; medical planners insist on failure-mode rehearsal.  
 **Tactical geometry:** Ascender cars capped by thermal cycling and structural stress timers; no surge beyond rated cadence without week-long downtime risk.  
@@ -132,6 +139,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0450; mission chain `B8-S07`; reality-gate medical throughput lock.
 
 ### Packet B8-S08 — Threshold Vote at Dawn Meridian
+**Mission-chain anchor:** B8-S08
 **Objective:** Decide whether Book 8 handoff criteria are sufficient to launch Book 9 systems-seizure phase.  
 **Conflict:** Split coalition: one bloc wants symbolic liberation date, another demands proof all three handoff conditions are auditable.  
 **Tactical geometry:** Decision matrix built from delayed reports across six theaters; two corridors still have unresolved escort maintenance debt.  
@@ -148,6 +156,7 @@ Reality Gate lock (applies in every packet):
 ## BOOK 9 — *Seizure Without Ruin*
 
 ### Packet B9-S01 — Kernel Ring Breach Moratorium
+**Mission-chain anchor:** B9-S01
 **Objective:** Neutralize first control-kernel ring while preserving urban life-support continuity.  
 **Conflict:** Fast strike package can collapse enemy command quickly but risks grid-wide oxygen outages.  
 **Tactical geometry:** Orbital-ground command lag prevents fine-grain live retasking; breach teams run pre-scripted branch tables tied to sensor thresholds.  
@@ -160,6 +169,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0460; Book 9 row; mission chain `B9-S01`.
 
 ### Packet B9-S02 — Blackmail Clock in Ward 17
+**Mission-chain anchor:** B9-S02
 **Objective:** Defuse countervalue blackmail threat targeting three hospital districts.  
 **Conflict:** Marko can prioritize neutralizing trigger team or evacuating wards with inadequate transport capacity.  
 **Tactical geometry:** Elevation-layer transit grid bottlenecked by damaged magline; full evacuation requires 14 hours, trigger window 5 hours.  
@@ -172,6 +182,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0465; mission chain `B9-S02`; Branch D risk-managed.
 
 ### Packet B9-S03 — Parliament of Broken Elevators
+**Mission-chain anchor:** B9-S03
 **Objective:** Reopen municipal services council under active shelling and infrastructural paralysis.  
 **Conflict:** Isaac can force provisional technocrat board for speed or accept chaotic multiparty council with slower decisions.  
 **Tactical geometry:** Vertical transport outages make quorum physically hard; delegates rotate through stairwell shelters with 0.3g injury constraints and fatigue collapse risk.  
@@ -184,6 +195,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0470; mission chain `B9-S03`; governance continuity link.
 
 ### Packet B9-S04 — Asterion Conditional Lift
+**Mission-chain anchor:** B9-S04
 **Objective:** Secure Asterion League emergency fabrication support without conceding monopoly privileges.  
 **Conflict:** Asterion negotiators offer rapid Class-1 surge tied to broad immunity clauses.  
 **Tactical geometry:** Fab surge requires transit-slot reallocation; each priority slot moved to Class-1 aid delays Class-2 local recovery kits.  
@@ -196,6 +208,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0475; mission chain `B9-S04`; fabrication ladder lock.
 
 ### Packet B9-S05 — Brother at the Escrow Vault
+**Mission-chain anchor:** B9-S05
 **Objective:** Resolve Valerie brother arc at a kernel escrow facility where he controls a kill-switch shard.  
 **Conflict:** Valerie can execute immediate lethal stop or attempt negotiated surrender with uncertain timing.  
 **Tactical geometry:** Vault approach through low-g maintenance crawl where crossfire risks puncturing coolant loops feeding district shelters.  
@@ -208,6 +221,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0480; mission chain `B9-S05`; character arc linkage.
 
 ### Packet B9-S06 — Night of Twelve Microgrids
+**Mission-chain anchor:** B9-S06
 **Objective:** Keep minimum power across twelve urban microgrids during simultaneous sabotage.  
 **Conflict:** Engineers propose blacking out contested zones to secure core districts.  
 **Tactical geometry:** Grid coupling means dumping one zone can induce cascade faults; restart cycles are 6–18 hours each under spare-transformer scarcity.  
@@ -220,6 +234,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0485; mission chain `B9-S06`; logistics realism lock.
 
 ### Packet B9-S07 — Law Clock Declaration
+**Mission-chain anchor:** B9-S07
 **Objective:** Announce binding war-to-law transition timeline before final kernel neutralization is complete.  
 **Conflict:** Command advisers insist announcing early will telegraph weakness and invite last-ditch attacks.  
 **Tactical geometry:** Multi-front operations force message relay through delayed, redundant notarization nodes to prevent spoof takeover.  
@@ -232,6 +247,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0490; mission chain `B9-S07`; transition lock.
 
 ### Packet B9-S08 — Kernel Winter Ceasefire Window
+**Mission-chain anchor:** B9-S08
 **Objective:** Close Book 9 by escrow-neutralizing remaining kernel controls while holding civil-service continuity floor.  
 **Conflict:** Final assault could end war faster but risks water/oxygen collapse in three megazones.  
 **Tactical geometry:** Assault vectors constrained by frozen transit weather and orbital debris lanes; resupply cadence fixed, no miracle surge possible.  
@@ -248,6 +264,7 @@ Reality Gate lock (applies in every packet):
 ## BOOK 10 — *Settlement Against Relapse*
 
 ### Packet B10-S01 — Emergency Keys Surrender Ceremony
+**Mission-chain anchor:** B10-S01
 **Objective:** Execute first mandatory transfer of emergency command keys out of protagonist control.  
 **Conflict:** Security chiefs warn active cells make handoff premature and dangerous.  
 **Tactical geometry:** Key shards distributed across latency-separated vaults; transfer requires synchronized attestations over delayed channels, creating sabotage windows.  
@@ -260,6 +277,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0500; Book 10 row; mission chain `B10-S01`.
 
 ### Packet B10-S02 — Tribunal Overflow and Mercy Strike
+**Mission-chain anchor:** B10-S02
 **Objective:** Prevent tribunal collapse as caseload exceeds staffing by 4x.  
 **Conflict:** Fast-track sentencing could clear backlog but violates due-process commitments.  
 **Tactical geometry:** Detainee transport lanes and evidence archives are transit-limited; adding judges is month-scale due security vetting and travel lag.  
@@ -272,6 +290,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0505; mission chain `B10-S02`; legal-process cross-link.
 
 ### Packet B10-S03 — FVB Reintegration Corridor Trial
+**Mission-chain anchor:** B10-S03
 **Objective:** Test reintegration corridor for non-principal FVB actors under monitored labor/service contracts.  
 **Conflict:** Revanchists demand blanket suppression; economists warn suppression-only will regenerate piracy funnels.  
 **Tactical geometry:** Corridor monitoring relies on sparse patrol fuel and delayed compliance reporting; no omnipresent enforcement mesh exists.  
@@ -284,6 +303,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0510; mission chain `B10-S03`; FVB strategy lock; drift-monitor playbook (`ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`).
 
 ### Packet B10-S04 — Cognitive Rights Exception Hearing
+**Mission-chain anchor:** B10-S04
 **Objective:** Block security bloc attempt to codify broad cognitive-rights exceptions under perpetual emergency language.  
 **Conflict:** Intelligence services claim only expansive exceptions can prevent kernel resurrection.  
 **Tactical geometry:** Evidence streams arrive from six theaters with integrity lags; hearing cannot rely on live classified drops without chain break risk.  
@@ -296,6 +316,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0515; mission chain `B10-S04`; constitutional lock.
 
 ### Packet B10-S05 — Treaty Trigger at Far Belt Relay
+**Mission-chain anchor:** B10-S05
 **Objective:** Prove dependency-treaty sanctions can constrain domestic power grabs without restarting total war.  
 **Conflict:** Coalition insiders attempt illegal seizure of relay tax authority, expecting allies to ignore violation.  
 **Tactical geometry:** Sanction enforcement rides slow inter-system finance rails; penalties bite in weeks, not hours, requiring political patience.  
@@ -308,6 +329,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0520; mission chain `B10-S05`; postwar treaty lock.
 
 ### Packet B10-S06 — Ombuds Net Under Cut Cables
+**Mission-chain anchor:** B10-S06
 **Objective:** Keep cross-theater ombuds network functioning during coordinated sabotage of communications trunks.  
 **Conflict:** Security services propose temporary gag authority to stop panic rumors.  
 **Tactical geometry:** Trunk outages push appeals to courier pods with 3–9 day latency; triage must prioritize life-critical rights petitions first.  
@@ -320,6 +342,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0525; mission chain `B10-S06`; oversight lock.
 
 ### Packet B10-S07 — Founder Exit Vote
+**Mission-chain anchor:** B10-S07
 **Objective:** Hold binding vote on protagonist withdrawal from permanent executive command.  
 **Conflict:** Popular pressure calls for “temporary extension” of founder authority due ongoing instability.  
 **Tactical geometry:** Vote integrity depends on distributed ledger attestations with delayed reconciliation, preventing instant victory claims.  
@@ -332,6 +355,7 @@ Reality Gate lock (applies in every packet):
 **Continuity refs:** seq 0530; mission chain `B10-S07`; character endgame lock.
 
 ### Packet B10-S08 — Imperfect Peace Stress Test
+**Mission-chain anchor:** B10-S08
 **Objective:** Validate terminal condition: system remains contestable and self-correcting despite coordinated crises.  
 **Conflict:** Three simultaneous shocks (fuel strike, tribunal hack attempt, border raid rumor) test whether emergency recentralization returns.  
 **Tactical geometry:** Crisis response unfolds under real transit delays and depleted reserve stocks; no actor can dominate all theaters instantly.  

@@ -1,0 +1,50 @@
+# Wave 24 R-005 Conformance Gate Check - 2026-02-20
+
+Scope: scene packet authority docs (Books 1-4, 5-7, 8-10)
+Authority refs: ops/monitor-pack-wave21.md; ops/packet-doc-lint-checklist-v1.md; ops/continuity-holes-register-v1.md
+
+## ST-1 Template-lock block present
+PASS: series/scene-packets-books1-4-v1.md
+PASS: series/scene-packets-books5-7-bridge-v1.md
+PASS: series/scene-packets-books8-10-endgame-bridge-v1.md
+ST-1 RESULT: PASS
+
+## ST-2 Required field coverage count check
+series/scene-packets-books1-4-v1.md | packets=24 mission=24 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+series/scene-packets-books5-7-bridge-v1.md | packets=20 mission=20 objective=20 conflict=20 tactical=20 reality=20 emotional=20 consequence=20 refs=20
+series/scene-packets-books8-10-endgame-bridge-v1.md | packets=24 mission=24 objective=24 conflict=24 tactical=24 reality=24 emotional=24 consequence=24 refs=24
+ST-2 RESULT: PASS
+
+## ST-3 Required field order check
+PASS series/scene-packets-books1-4-v1.md
+PASS series/scene-packets-books5-7-bridge-v1.md
+PASS series/scene-packets-books8-10-endgame-bridge-v1.md
+ST-3 RESULT: PASS
+
+## ST-4 Lightweight packet lint checklist (manual + scripted)
+Checklist source: ops/packet-doc-lint-checklist-v1.md
+
+Scripted checks:
+- Reality gate row explicit-line pattern: PASS (all packet docs)
+- Continuity refs concrete-anchor proxy: PASS (all packet docs)
+- Realtime-command anti-pattern grep (perfect tracking / omniscience): PASS (0 hits)
+- Earthlike-combat anti-pattern grep (no-anchoring phrasing): PASS (0 hits)
+
+Manual spot checks (latest-entry-first run):
+- Books 1-4 sampled packets B1-S01, B2-S04, B4-S05: tactical geometry includes concrete operational constraints; consequence ledgers include Immediate + Delayed + broader cost; continuity refs are concrete.
+- Books 5-7 sampled packets B5-S03, B6-S02, B7-S06: tactical geometry includes low-g/lag/cadence constraints; consequence layering and refs present.
+- Books 8-10 sampled packets B8-S03, B9-S04, B10-S07: tactical geometry includes confidence/fuel/radiator/lag constraints; consequence layering and refs present.
+
+ST-4 RESULT: PASS
+
+## Gate Summary
+ST-1: PASS
+ST-2: PASS
+ST-3: PASS
+ST-4: PASS
+
+## Patch actions during this gate
+- Added missing '**Mission-chain anchor:** <PacketID>' field (format/compliance fix only) to:
+  - series/scene-packets-books5-7-bridge-v1.md
+  - series/scene-packets-books8-10-endgame-bridge-v1.md
+- No canon-lock or story-content changes made.
