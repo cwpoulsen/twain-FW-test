@@ -13,6 +13,7 @@ Priority tags:
 
 - **README.md** — Repository mission and scope (canon/timeline/characters/structure source of truth). **[must-read]**
 - **ops/start-here-review-path.md** — Guided entry path through the highest-value documents. **[must-read]**
+- **ops/executive-summary-wave20.md** — Current executive status/risk snapshot with authority anchors. **[must-read]**
 - **ops/reading-guide-60min-quick-review-v1.md** — Fast onboarding path for high-signal review in about an hour. **[must-read]**
 - **ops/reading-guide-1day-deep-review-v1.md** — Extended deep-dive sequence for full-world alignment. **[secondary]**
 
@@ -107,7 +108,9 @@ Priority tags:
 - **ops/contradiction-scanner-checklist-v1.md** — Repeatable contradiction detection checklist for reconciliation passes. **[secondary]**
 - **ops/post-250k-reconciliation-framework-v1.md** — Framework used to reconcile large-scale corpus expansion safely. **[secondary]**
 - **ops/post250k-reconciliation-completion-status-2026-02-19.md** — Status summary of reconciliation completion and closure confidence. **[reference]**
-- **ops/final-snapshot-status-wave19.md** — Latest pre-wave20 baseline snapshot of repository status. **[reference]**
+- **ops/executive-summary-wave20.md** — Current high-level authority/risk readout for signoff routing. **[must-read]**
+- **ops/quality-spotcheck-wave20.md** — Wave 20 QA spot-check outcomes and patch notes. **[reference]**
+- **ops/final-snapshot-status-wave19.md** — Pre-wave20 baseline snapshot of repository status (historical baseline). **[reference]**
 - **ops/release-candidate-index-pack-wave17-v1.md** — Prior release index useful for historical cross-checking and deltas. **[reference]**
 
 ---

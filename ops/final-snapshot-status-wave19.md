@@ -91,9 +91,9 @@ Operational interpretation:
 
 ---
 
-## 4) Top Authority Docs (Current Review Priority)
+## 4) Top Authority Docs (Wave19 Snapshot Priority)
 
-Primary authority set (from `ops/start-here-review-path.md` + canonical lock docs):
+Wave19 primary authority set (historical baseline from `ops/start-here-review-path.md` at snapshot time):
 1. `ops/release-candidate-index-pack-wave17-v1.md`
 2. `ops/final-review-pack-wave17-for-chris.md`
 3. `ops/post250k-reconciliation-completion-status-2026-02-19.md`
@@ -105,7 +105,12 @@ Primary authority set (from `ops/start-here-review-path.md` + canonical lock doc
 9. `tech/technical-architecture-v1.md`
 10. `ops/reality-gate-enforcement-pack-v1.md`
 
-These 10 form the fastest authoritative baseline for lock-state, risk-state, architecture, and continuity constraints.
+For current (Wave20) authority-map routing, use:
+- `ops/executive-summary-wave20.md`
+- `ops/archive-index-wave20.md`
+- `ops/start-here-review-path.md`
+
+The Wave19 list remains authoritative as a historical snapshot baseline for lock-state/risk-state reconstruction.
 
 ---
 

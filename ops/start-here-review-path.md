@@ -3,8 +3,8 @@
 Purpose: fastest path to review current canon, architecture, risks, and scene systems in a practical order.
 
 ## 0) Orientation (Read first)
-1. `ops/release-candidate-index-pack-wave17-v1.md`
-2. `ops/final-review-pack-wave17-for-chris.md`
+1. `ops/executive-summary-wave20.md`
+2. `ops/archive-index-wave20.md`
 3. `ops/post250k-reconciliation-completion-status-2026-02-19.md`
 
 ## 1) Canon Locks / Non-Negotiables
@@ -42,3 +42,5 @@ Purpose: fastest path to review current canon, architecture, risks, and scene sy
 - `ops/fvb-subfaction-drift-monitor-and-intervention-playbook-v1.md`
 - `ops/continuity-lock-check-matrix-v1.md`
 - `ops/continuity-guard-grep-recipes-v1.md`
+- `ops/release-candidate-index-pack-wave17-v1.md` (historical release-candidate snapshot)
+- `ops/final-review-pack-wave17-for-chris.md` (historical signoff packet)

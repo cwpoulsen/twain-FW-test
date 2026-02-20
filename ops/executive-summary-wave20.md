@@ -10,7 +10,7 @@ Repo: `twain-FW-test`
 - **Release posture:** structurally ready for review/signoff work.
 - **Continuity gate state:** **0 unresolved P0**, **0 unresolved P1**, **0 sweep-generated P2 contradictions**.
 - **Core corpus size:** **147,369 words** across 82 core markdown docs (`canon/characters/factions/locations/series/tech/timeline`).
-- **Most recent phase complete:** Wave 19 snapshot + review-path/read-guide packaging after Wave 18 expansion.
+- **Most recent phase complete:** Wave 20 authority-map refresh (start-here + archive index + executive summary alignment) on top of the Wave 19 snapshot baseline.
 
 ## What this means practically
 - The world bible has moved from expansion mode into **governed stabilization mode**.
@@ -38,7 +38,7 @@ Primary source: `canon/canon-ledger-v2.md` + lock docs in `ops/`.
 
 ## 3) What Changed Most Recently
 
-## Latest commit-level delta (most recent first)
+## Recent commit-level delta (pre-wave20 baseline, most recent first)
 1. `5d51866` — added **60-min** and **1-day** reading guides, linked to authority docs + current risk posture.
 2. `5743e72` — added Wave 19 final snapshot status report after Wave 18.
 3. `8e51abb` — added release-candidate/review-path link-integrity evidence.
@@ -104,4 +104,5 @@ Canonical source: `ops/continuity-holes-register-v1.md` (Canonical Risk Status T
 - `canon/canon-ledger-v2.md`
 - `ops/reading-guides-commit-manifest-2026-02-19.md`
 - `ops/start-here-review-path.md`
-- `ops/final-review-pack-wave17-for-chris.md`
+- `ops/archive-index-wave20.md`
+- `ops/quality-spotcheck-wave20.md`
