@@ -369,3 +369,38 @@ Unify narrator voice and command-language cadence across the twelve highest-impa
 
 ### Net Outcome
 Top-12 authority docs now share a single military-space-opera command voice with consistent nomenclature and consequence-forward cadence, reducing multi-author seams without canon drift.
+
+---
+
+## 2026-02-19 — Mission Seed -> Scene Consequence Chain Bridge (Wave 10)
+
+### Objective
+Bridge selected Books 1-4 mission seeds to scene packets with explicit immediate/delayed/cross-book consequence chains across six domains: character, faction, logistics, legitimacy, intel, civilian morale.
+
+### Files Added
+- `ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md`
+
+### Files Updated
+- `series/scene-packets-books1-4-v1.md`
+- `timeline/books1-4-operational-sequence-map-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### Scene Packet Patches (thin consequence logic strengthened)
+- B1-S05 (FRACTURE CHOIR): expanded to explicit domain-tagged immediate/delayed/cross-book consequences.
+- B2-S03 (RUST JUDAS): added faction/logistics/legitimacy continuity debt chain.
+- B2-S06 (MERIDIAN OATH): clarified manifest utility vs personal-network loss over time horizons.
+- B3-S04 (BRIDGE ZERO): made relay governance trade-offs explicit across morale and intel burdens.
+- B4-S01 (FRAIL MANDATE): connected summit legitimacy to convoy-protection logistics consequences.
+- B4-S06 (LAST AUDIT): linked conditional handover to post-Book-4 contest mechanics and civilian anxiety.
+
+### Timeline Link Updates
+- Added a sequence-index-to-packet-cluster map in `timeline/books1-4-operational-sequence-map-v1.md`.
+- Added explicit pointer to Wave 10 consequence bridge doc for sequence blocks 1200-1290.
+
+### Contradiction-Check Summary
+- **AI seed/system custody split:** preserved (opening acquisition vs databank training/provenance value still distinct).
+- **Fabricator class lock:** preserved (Class 4/3/2/1 intact; Blackfly Class 2 and Asterion Class 1 unchanged).
+- **Faction naming lock:** preserved (Asterion League + canonical actor set retained).
+- **Transit/comms realism:** preserved (no instantaneous reinforcement or zero-latency command introduced).
+- **Unknown-position pursuit model:** preserved (probabilistic dragnet language retained).
+- **Governance-endstate lock:** preserved (Book 4 ends in enforceable but imperfect order, not total resolution).

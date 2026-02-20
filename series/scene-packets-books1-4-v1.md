@@ -1,7 +1,7 @@
 # Stewards of Progress — Scene Packets (Books 1–4) v1
 
 Status: Draft-ready packet set tied to mission bank seeds. 24 packets total (6 per book).
-Authority-first refs: `canon/canon-ledger-v2.md`, `canon/continuity-patch-wave3-v1.md`, `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`, `tech/technical-architecture-v1.md`, `timeline/master-timeline-sequence-v1.md`, `ops/continuity-dependency-map-v1.md`, `ops/strategy-control-log.md`, `ops/reality-gate-enforcement-pack-v1.md`.
+Authority-first refs: `canon/canon-ledger-v2.md`, `canon/continuity-patch-wave3-v1.md`, `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`, `tech/technical-architecture-v1.md`, `timeline/master-timeline-sequence-v1.md`, `timeline/books1-4-operational-sequence-map-v1.md`, `ops/continuity-dependency-map-v1.md`, `ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md`, `ops/strategy-control-log.md`, `ops/reality-gate-enforcement-pack-v1.md`.
 
 Method lock applied in every packet:
 - Mission seed tie-in
@@ -76,8 +76,9 @@ Reality gate overlay (mandatory in packet promotion):
 **Tactical geometry:** Blackfly on a drifting belt intra-lane leg **~0.3 AU**, **BC-A concealment profile**; slow movement preserves stealth but lengthens exposure window. One-way light-time between candidate relay and squad: **~2.5 min**, making live conversational verification impossible. Cost: authenticity test consumes a one-use cryptographic salt family, narrowing future anti-deepfake defenses.  
 **Emotional turn:** Valerie chooses protocol over impulse—she does not run to the signal, and that self-denial earns Hale’s trust while hurting her personally.  
 **Consequence ledger:**
-- Immediate: Contact remains unresolved but not discarded.
-- Second-order: Team adopts evidence-first standard for emotionally loaded intel.
+- Immediate (character/intel): Contact remains unresolved but preserved; evidence-first protocol is formalized for emotionally loaded signals.
+- Delayed (logistics/legitimacy): One-use crypto salt expenditure reduces future verification headroom and raises internal dispute costs when speed is demanded.
+- Cross-book (faction/civilian morale): If contact proves genuine, delay ethics become recurring propaganda ammunition; if false, protocol discipline becomes a coalition trust anchor in Book 3 authenticity fights.
 - Moral debt: A real ally may die while they wait for certainty.
 **Continuity refs:** B1-08 seed; timeline **0200–0210 (soft extension)**; canon §12 unknowns; sets Book 2 reveal hinge.
 
@@ -128,8 +129,9 @@ Reality gate overlay (mandatory in packet promotion):
 **Tactical geometry:** Courier lane access window opens for **41 minutes** at relay alignment; follow-on retrieval route sits on **unfavorable 1.1 AU intra-belt arc**, **BC-A/BC-B mixed**, making exfil long and vulnerable. One-way light-time to fallback node **~9 min**; no dynamic re-tasking. Cost: single-use exploit token consumed, reducing future insider verification options.  
 **Emotional turn:** Valerie chooses team protocol over personal urgency, but the cost hardens her: she starts compartmentalizing grief from command trust.  
 **Consequence ledger:**
-- Immediate: Probe confirms insider adjacency, not identity.
-- Second-order: Enemy infers someone inside courier chain is compromised.
+- Immediate (character/intel): Probe confirms insider adjacency without identity proof; Valerie-Hale trust strain is contained but not resolved.
+- Delayed (faction/logistics): Courier networks harden access patterns, shrinking low-signature exploitation windows and raising mission fuel/time costs.
+- Cross-book (legitimacy/civilian morale): Family-linked hesitation can be framed as bias by rivals, but disciplined restraint supports later public claims of evidence governance over vendetta.
 - Moral debt: Caution may have abandoned a family member in active danger.
 **Continuity refs:** B2-05 seed; timeline **~0220**; canon §12; character reveal blueprint linkage.
 
@@ -164,8 +166,9 @@ Reality gate overlay (mandatory in packet promotion):
 **Tactical geometry:** Targets separated by **~0.6 AU equivalent transfer divergence**; one shuttle cannot service both before hunter wing arrival. Fastest profile **BC-C** yields one objective in time, never two. Hunter intercept projection at decision point: **+73 minutes**. Cost: whichever target is abandoned becomes potentially irrecoverable for months.  
 **Emotional turn:** Team chooses the manifest but does so with explicit acknowledgment of personal betrayal cost to Valerie, preventing silent resentment from rotting command structure.  
 **Consequence ledger:**
-- Immediate: Population-scale evidence secured.
-- Second-order: Valerie’s brother line goes dark; emotional fracture enters Book 3.
+- Immediate (intel/legitimacy): Population-scale deprivation evidence secured with admissible chain potential.
+- Delayed (character/faction): Valerie’s brother line goes dark; command cohesion requires explicit repair rituals to prevent factional exploitation of the fracture.
+- Cross-book (logistics/civilian morale): Manifest utility depends on slow institutional processing while affected populations continue suffering, generating anger at both regime and reform actors.
 - Moral debt: They traded one life-network for systemic proof.
 **Continuity refs:** B2-10 seed; timeline **~0230 climax**; canon §10 pressure rule.
 
@@ -216,8 +219,9 @@ Reality gate overlay (mandatory in packet promotion):
 **Tactical geometry:** Relay trident spans **~0.9 AU** (Ceres-Pallas-Vesta mesh). Rekey requires synchronized physical key insertions within 11-minute protocol window despite light-time offsets. Shuttle legs **BC-B 20–40 days** prepositioned in advance. Cost: months of prepositioning exposes coalition movements to statistical detection.  
 **Emotional turn:** Lin accepts visible, accountable bureaucracy over revolutionary purity, choosing auditable board governance.  
 **Consequence ledger:**
-- Immediate: Relays stay up under contested multi-party control.
-- Second-order: Decision-making slows; crisis response degrades in first weeks.
+- Immediate (faction/logistics): Relays stay online under contested multi-party control, preventing immediate life-support synchronization collapse.
+- Delayed (legitimacy/civilian morale): Slower adjudication creates visible service frustration, giving hardliners recruitment narratives about "failed freedom governance."
+- Cross-book (character/intel): Lin/Isaac governance doctrine shifts toward auditable process; backdoor-hunt intelligence becomes a standing campaign line into Book 4.
 - Moral debt: Lives may be lost during the transition from coercive efficiency to accountable delay.
 **Continuity refs:** B3-07 seed; timeline **~0260**; canon §§2,7,10.
 
@@ -256,8 +260,9 @@ Reality gate overlay (mandatory in packet promotion):
 **Tactical geometry:** Delegates converging from 0.2–1.2 AU lanes, arrival spread **10–54 days BC-B**. Charter vote must occur before projected oxygen shortfall in outer habitats. Comms delays prevent central whip control, forcing local bargaining autonomy. Cost: security fleet commitment strips convoy escort from reparations routes.  
 **Emotional turn:** Hale cedes frontline command presence to delegate protection detail, accepting political patience over decisive heroics.  
 **Consequence ledger:**
-- Immediate: Interim charter passes with weak but real checks.
-- Second-order: Hardliners label it illegitimate due to delayed/absent delegations.
+- Immediate (legitimacy/faction): Interim charter passes with weak but real checks and minimum plural representation.
+- Delayed (logistics/civilian morale): Security concentration around summit worsens convoy protection gaps, linking governance progress to visible relief failures.
+- Cross-book (character/intel): Hale's command identity transitions from operator to guarantor; procedural trace records become crucial evidence against later "coup by paperwork" narratives.
 - Moral debt: Procedural fairness still leaves some dying while law is negotiated.
 **Continuity refs:** B4-01 seed; timeline **~0270**; canon §§2,10.
 
@@ -316,8 +321,9 @@ Reality gate overlay (mandatory in packet promotion):
 **Tactical geometry:** Audit requires sampling across Earth-Moon, Earth-Mars, and Belt mesh; true end-to-end verification cannot be instantaneous under comm and transit limits. Conditional handover framework sets rollback triggers keyed to measured failure thresholds rather than rhetoric. Cost: delayed full handover creates accusations that squad seeks permanent emergency authority.  
 **Emotional turn:** Team relinquishes command despite uncertainty, choosing accountable institutions over personal control and accepting nonzero recapture risk.  
 **Consequence ledger:**
-- Immediate: Conditional handover enacted with independent trigger matrix.
-- Second-order: Asterion League and other blocs dispute audit weights, beginning post-Book-4 governance contest.
+- Immediate (legitimacy/intel): Conditional handover enacted with public trigger matrix and auditable rollback criteria.
+- Delayed (faction/logistics): Asterion League and peer blocs dispute weighting, diverting technical teams into arbitration and slowing service optimization.
+- Cross-book (character/civilian morale): Squad relinquishment under uncertainty prevents strongman recapture optics but leaves populations anxious about hidden backdoors, sustaining the Books 5-10 reconquest governance tension.
 - Moral debt: No clean ending—only explicit risk distribution.
 **Continuity refs:** B4-10 seed; timeline **~0290 end-state**; canon §10; long-arc bridge to seq **0300** (Books 5–10 reconquest).
 

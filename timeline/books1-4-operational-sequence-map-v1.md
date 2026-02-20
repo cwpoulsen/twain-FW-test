@@ -36,6 +36,24 @@ Cross-refs:
 4. Inter-book redeployment beats must cite lane + burn class from `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
 5. Reality Gate checks are mandatory before promoting mission seeds to scene packets (`ops/reality-gate-enforcement-pack-v1.md`).
 
+## Scene Packet + Consequence Chain Link Map (Books 1–4)
+
+Primary consequence-bridge doc:
+- `ops/mission-seed-to-scene-consequence-chains-books1-4-wave10-v1.md`
+
+| sequence_index | packet cluster | mission seed span | consequence bridge focus |
+|---:|---|---|---|
+| 1200 | B1-S01..B1-S06 | B1-01,02,04,05,08,10 | Betrayal/custody setup: obedience fracture, AI-seed burden, staged proof doctrine. |
+| 1210 | B2-S01 | B2-01 | Entry into alliance-market legitimacy under logistics coercion. |
+| 1220 | B2-S02..B2-S04 | B2-04,05,06 | Witness integrity, insider ambiguity, anti-panic control ethics. |
+| 1230 | B2-S05..B2-S06 | B2-09,10 | Governor telemetry intake + source-vs-system climax cost. |
+| 1240 | B3-S01..B3-S02 | B3-01,02 | Archive admissibility and deepfake refutation races. |
+| 1250 | B3-S03 | B3-05 | Mutiny containment and module forensics under no-reinforcement reality. |
+| 1260 | B3-S04..B3-S06 | B3-07,09,10 | Relay rekey governance, preemption legitimacy debt, synchronized proof release. |
+| 1270 | B4-S01..B4-S02 | B4-01,02 | Transitional charter legitimacy under famine/lift chokepoint pressures. |
+| 1280 | B4-S03..B4-S04 | B4-03,04 | Class-2 oversight trial and governor-stack retirement mechanics. |
+| 1290 | B4-S05..B4-S06 | B4-08,10 | Coup-kernel suppression and conditional handover audit politics. |
+
 ## Transit-Gated Continuity Hooks (Books 1–4)
 
 | Hook ID | Required lane reality | Plot consequence if ignored |
