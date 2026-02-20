@@ -69,6 +69,25 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 2. Require explicit triage classification for hits (policy/archive vs active canon violation).
 3. Close process drift immediately when authority pointers go stale (auditability first).
 
+
+## 2026-02-19T20:26-05:00 — Wave 14 consequence-chain deepening pass (Books 1–10 packets)
+
+### What changed
+- Added `Wave 14 Consequence-Chain Deepening Addendum` sections to:
+  - `series/scene-packets-books1-4-v1.md`
+  - `series/scene-packets-books5-7-bridge-v1.md`
+  - `series/scene-packets-books8-10-endgame-bridge-v1.md`
+- Each addendum now tracks delayed-systemic effects, legitimacy fallout, logistics debt, and relationship-stress carryover across packet bands.
+- Added `Wave 14 Systemic Carryover Overlay` sections to timeline maps:
+  - `timeline/books1-4-operational-sequence-map-v1.md`
+  - `timeline/books5-7-bridge-operational-sequence-map-v1.md`
+  - `timeline/books8-10-endgame-operational-sequence-map-v1.md`
+
+### Strategy implication
+1. Treat consequence chains as multi-cycle debt ledgers (not just immediate/second-order outcomes).
+2. Require relationship-stress carryover checks at every book handoff gate.
+3. Validate legitimacy and logistics aftershocks together to avoid “governance success / service magic” contradiction drift.
+
 ## 2026-02-19T20:23-05:00 — Post-250k reconciliation framework locked (Wave 14 prep)
 
 ### What changed

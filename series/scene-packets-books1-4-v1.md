@@ -336,3 +336,29 @@ Reality gate overlay (mandatory in packet promotion):
 - Book 4 packets: 6
 
 All packets include objective, conflict, tactical geometry, emotional turn, consequence ledger, and continuity references.
+
+## Wave 14 Consequence-Chain Deepening Addendum (Books 1–4)
+
+Added dimensions per packet: delayed-systemic effects, legitimacy fallout, logistics debt propagation, and relationship stress carryover.
+
+| Packet band | Delayed-systemic effect (30–180 day horizon) | Legitimacy fallout | Logistics debt carryover | Relationship stress carryover |
+|---|---|---|---|---|
+| B1-S01..S02 | Disposal-pattern telemetry spurs copycat route falsification audits across three lanes. | Regime frames caution as insubordination; neutral docks split on whether squad is reckless or honest. | Reserve burn + radiator overrun compresses escape options through early Book 2. | Hale-Valerie trust rises tactically while Marko reads hesitation as command fragility. |
+| B1-S03..S04 | AI-seed custody shifts conflict from mission survival to civilization-risk stewardship. | Harbor allies are recast as insurgent accomplices, shrinking neutral sanctuary markets. | Ammo/suit damage + coolant barter creates chronic maintenance backlog entering B2-S01. | Blood-cost resentment between Hale/Marko hardens; Lin becomes broker under dual suspicion. |
+| B1-S05..S06 | Authentication discipline becomes coalition norm in later proof wars. | Delay ethics can be weaponized as abandonment narrative if brother signal is genuine. | One-use cryptographic salt + relay key split increases future verification and courier burden. | Valerie internalizes restraint as grief tax; Isaac/Hale alignment strengthens but isolates Valerie. |
+| B2-S01..S02 | Consent-first witness architecture slows all downstream legal operations but improves survivability of testimony corpus. | Treaty-with-predators optics fuels "new order = old brokers" claim line. | Escort diversion from med convoys yields preventable morbidity spikes in two habitats. | Lin-Hale friction shifts from ethics disagreement to pacing resentment. |
+| B2-S03..S04 | Insider-window closure drives adversaries to deeper compartmentalization and longer intelligence cycles. | Anti-panic throttling creates durable censorship stigma despite life-saving outcome. | Single-use exploit loss + throttle overhead increases comms governance operating cost. | Valerie-Hale fracture persists beneath formal cohesion; Isaac accepts reputational self-harm role. |
+| B2-S05..S06 | Defector corridor institutionalizes module telemetry intake that later enables governor-stack cases. | Amnesty pilots invite betrayal panic and revenge pressure from victims' blocs. | Berth displacement of medevacs + abandoned-objective latency creates two-cycle recovery drag. | Explicit acknowledgment prevents rupture but leaves Valerie with unresolved abandonment debt. |
+| B3-S01..S02 | Archive custody standards become mandatory for any postwar admissibility regime. | PAC neutrality is contested, forcing third-party institutions into overt political risk. | Stealth-route burn near Earth forces longer future insertion arcs and higher fuel spend. | Hale/Isaac converge on institution-first doctrine; Marko sees legal delay as operational exposure. |
+| B3-S03..S04 | Ceasefire-corridor and relay-board models seed later corridor-law governance templates. | "Both-sides traitor" narratives depress near-term public compliance. | Nonlethal depletion + prepositioning months produce rolling readiness hollows. | Marko redefines loyalty away from command identity, straining old marine bonds. |
+| B3-S05..S06 | Preemption precedent requires explicit constitutional limits in Book 4 charter drafting. | Proof-day panic in low-literacy zones temporarily delegitimizes even true evidence releases. | Elite asset burn + peripheral defense thinning invites opportunistic raids. | Hale's moral injury becomes persistent leadership drag; team cohesion depends on public owning of costs. |
+| B4-S01..S02 | Charter/lift protocols create weak but extensible interdependence rules replacing monopoly command. | Relief failures tied to summit security fuel "law while we starve" backlash. | Escort stripping + inspection burden deepens convoy protection debt into B4 mid-campaign. | Hale-Lin role inversion stabilizes governance but increases personal distance from frontline cadre. |
+| B4-S03..S04 | Class-2 oversight + governor retirement create scalable anti-recapture scaffolding. | Tribunal backlog and phased demobilization perceived as impunity by survivors. | Audit overhead and firmware rollout windows slow service recovery for months. | Marko testimony repairs some trust with civilians while reopening veteran fractures. |
+| B4-S05..S06 | Kernel-failure response + conditional handover anchor Books 5–10 anti-relapse baseline. | Emergency lockout outages regenerate nostalgia for coercive efficiency. | Arbitration drag and technical-team diversion create starting scarcity for Book 5. | Team exits command united procedurally but emotionally exhausted, carrying unresolved grief load. |
+
+### Contradiction-Check Summary (Wave 14 Addendum)
+- No packet now resolves political conflict without delayed administrative or logistics cost.
+- Legitimacy gains and service delivery are intentionally decoupled in several arcs to preserve realism under scarcity.
+- Relationship stress is cumulative and non-resetting across Books 1–4 handoffs.
+- Added systemic effects do not violate transit/comms constraints from fusion-transit assumptions.
+

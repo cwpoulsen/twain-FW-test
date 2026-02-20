@@ -41,3 +41,12 @@ Note: Sequence IDs below continue bridge-local ordering from Books 5–7 map and
 - Sequence preserves cumulative character-state deltas from Books 5–7 into Books 8–10 (no reset drift).
 - Branch D risks are repeatedly mitigated through life-support-first constraints, not rhetorical claims.
 - Terminal state remains imperfect, auditable, and contestable per Book 10 dependency requirement.
+
+## Wave 14 Systemic Carryover Overlay (Books 8–10)
+
+| bridge_seq band | delayed-systemic propagation | legitimacy aftershock | logistics debt propagation | relationship stress carryover |
+|---|---|---|---|---|
+| 0420–0455 | ROE restraint + medevac realism lock anti-relapse behavior before seizure phase. | Missed opportunities become persistent hawk critique. | Depot failure and maintenance debt narrow Book 9 tempo envelope. | Command disagreements stay functional but emotionally unresolved. |
+| 0460–0495 | War-to-law practices activated before total victory, enabling governable transition. | Mercy/slow-war optics split coalition legitimacy blocs. | Evacuation-first and escrow logistics prolong campaign and consume reserve escorts. | Protection-over-punishment shift strains identity of former combat leaders. |
+| 0500–0535 | Constitutional drawdown + correction networks establish imperfect self-correcting peace. | Founder exit causes temporary confidence dip and elite backlash campaigns. | Judicial/oversight workloads and transit latency remain chronic constraints. | Founders maintain private solidarity while public authority intentionally fragments. |
+

@@ -35,3 +35,12 @@ Note: Sequence IDs below are bridge-local children of master seq 0300 and are de
 - No entries violate master timeline umbrella seq 0300.
 - Packet order preserves cumulative character-state deltas (no reset of Lin/Isaac split-reconcile or Valerie restraint arc).
 - Bridge sequence ensures Book 5 -> Book 6 -> Book 7 handoff criteria are testable and auditable.
+
+## Wave 14 Systemic Carryover Overlay (Books 5–7)
+
+| bridge_seq band | delayed-systemic propagation | legitimacy aftershock | logistics debt propagation | relationship stress carryover |
+|---|---|---|---|---|
+| 0310–0340 | Scarcity governance institutions survive first winter and become durable rule substrate. | Narrow wins interpreted as either tyranny or softness, never consensus. | Escort/protection drawdowns and reserve depletion set weak B6 starting conditions. | Lin/Valerie/Marko accumulate public-blame fatigue while preserving process. |
+| 0350–0380 | Anti-capture controls survive sabotage and become default operating standard. | Throughput losses feed restorationist messaging. | Dock/fleet debt and spares triage reduce combat elasticity for Book 7. | Isaac-Lin reconciliation holds under reputational stress, not trust abundance. |
+| 0390–0415 | Corridor-law stack matures into auditable precondition for Earth approach. | Queue pain and adjudicator targeting stress legal credibility. | Escort fatigue + appeals backlog enforce slower handoff to Book 8. | Hale-hawk faction strain rises but team fracture is avoided. |
+

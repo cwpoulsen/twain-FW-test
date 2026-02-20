@@ -242,3 +242,26 @@ All packets include tactical geometry, emotional reversal, and explicit conseque
 - Valerie brother arc resolves as political/moral decision path (not tactical shortcut), matching Book 9 dependency lock.
 - FVB treatment remains dual-track: interdiction of principal terror actors plus monitored reintegration for non-principal cohorts.
 - End-state is intentionally imperfect/self-correcting, avoiding clean-win relapse contradiction.
+
+## Wave 14 Consequence-Chain Deepening Addendum (Books 8–10)
+
+Endgame packets now include explicit delayed-systemic carryover, legitimacy erosion/recovery dynamics, logistics debt propagation, and relationship stress persistence into settlement governance.
+
+| Packet band | Delayed-systemic effect | Legitimacy fallout | Logistics debt carryover | Relationship stress carryover |
+|---|---|---|---|---|
+| B8-S01..S03 | Civilian-veto ROE and restraint norms lock in later anti-relapse safeguards. | Missed strike windows become recurring "leaders chose politics over safety" attack line. | Fuel-limited intercept cycles and deferred kills increase downstream escort demand. | Hale/Valerie absorb divergent blame: over-cautious vs under-protective depending audience. |
+| B8-S04..S06 | POW exchange, depot restraint, and verified media chain create postwar governability substrate. | Mercy and slow truth releases are framed as betrayal by maximalists on both sides. | Depot failure and rerouting produce campaign slippage that narrows Book 9 maneuver slack. | Marko's trust gamble and Lin's anti-disinfo stance increase personal threat exposure. |
+| B8-S07..S08 | Medevac-realism rewrite and delayed threshold vote reduce Branch D relapse probability. | Tempo cuts spark paralysis narrative in hawk coalition sectors. | Deferred launch requires extra maintenance cycles but clears critical corridor debt. | Valerie endorsing delay against preference creates controlled but unresolved command tension. |
+| B9-S01..S03 | Compartmentalized seizure + civilian council restoration sets war-to-law operating pattern before victory. | Escaped hardliners exploit "slow war" framing to recruit. | Slower breach model and evacuation prioritization extend conflict length and resource draw. | Hale/Marko shift from kill-chain identity to protection identity at emotional cost. |
+| B9-S04..S06 | Anti-immunity aid terms, brother alive-capture outcome, and grid triage preserve postwar legal capacity. | Mercy optics split coalition and victim constituencies. | Aid-slot tradeoffs and line-repair security assignments delay offensive closure. | Valerie's negotiated capture preserves law path but leaves unresolved family trauma entering Book 10. |
+| B9-S07..S08 | Early law-clock declaration + ceasefire escrow establish enforceable constraint culture pre-settlement. | Deadlines under fire are attacked as weakness by operational hawks. | Redundant notarization and ceasefire corridor protection consume scarce escorts before demobilization. | Lin/Hale self-limitation strengthens institutional trust while accelerating burnout. |
+| B10-S01..S03 | Key surrender, tribunal triage, and FVB pilot convert victory into administratively fragile peace. | Slower constitutional response is read as incompetence during fresh shocks. | Judicial staffing lag and monitoring burden reduce rapid-crisis capacity. | Hale/Valerie/Marko each relinquish preferred coercive tools, creating identity withdrawal stress. |
+| B10-S04..S06 | Rights-sunset limits, treaty sanctions, and ombuds resilience form anti-relapse correction loop. | Intelligence and allied elites mount legitimacy counter-campaigns against constraints. | Sanctions and courier-appeal routing drain inspection hulls and legal bandwidth. | Isaac/Lin endure elite backlash, reinforcing alliance but deepening social isolation. |
+| B10-S07..S08 | Founder exit and imperfect stress-test normalize non-charismatic governance continuity. | Market/security anxiety spikes after founder withdrawal before stabilizing. | Depleted reserves and latency-fragmented response remain chronic structural friction, not plot error. | Team cohesion persists as private bond, but public role fractures become permanent. |
+
+### Contradiction-Check Summary (Wave 14 Addendum)
+- Endgame now explicitly preserves "no clean ending" constraint with chronic but governed instability.
+- Legitimacy outcomes remain contested after every win; no total narrative monopoly introduced.
+- Logistics debt is persistent across B8–B10 and never hand-waved by late-war urgency.
+- Relationship carryover aligns with prior character locks (including Valerie brother-law path and founder step-back).
+

@@ -62,3 +62,14 @@ Primary consequence-bridge doc:
 | TG-1210 | Mars->Ceres reinforcement under BC-B is ~56–180 d. | “Surprise” Mars fleets in single-chapter timing are invalid. |
 | TG-1220 | Belt intra-lane responses are usually 10–54 d (BC-B), faster only under BC-C at cost. | Coalition trust and resupply cadence must break/falter under long lane delays. |
 | TG-1230 | Ceres->Jovian probes are 95–250 d (BC-B), 50–124 d (BC-C). | Jovian evidence threads must be planned seasons ahead, not tactical next-day pivots. |
+
+## Wave 14 Systemic Carryover Overlay (Books 1–4)
+
+| sequence_index | delayed-systemic propagation | legitimacy aftershock | logistics debt propagation | relationship stress carryover |
+|---:|---|---|---|---|
+| 1200 | Disposal telemetry becomes systemwide audit catalyst. | "Hesitation" stigma seeded in official channels. | BC-C heat debt and key-split courier burden begin. | Hale/Valerie align; Marko distrust increases. |
+| 1210–1220 | Consent-first witness doctrine formalizes evidence culture. | Broker diplomacy read as complicity by victims. | Escort diversion starts med-convoy deficit. | Lin/Hale pacing conflict becomes persistent. |
+| 1230 | Source-vs-system decision institutionalized as recurring command dilemma. | Amnesty corridor politically weaponized. | Abandoned-objective windows cause two-cycle recovery lag. | Valerie betrayal debt carried into Book 3. |
+| 1240–1260 | Authenticity war and relay governance become standing campaigns, not episodic events. | PAC neutrality contested; preemption stain persists post-crisis. | Stealth route burn + elite asset depletion reduce strategic flexibility. | Team cohesion depends on explicit accountability rituals. |
+| 1270–1290 | Charter + oversight architecture replaces monopoly but remains fragile and debt-heavy. | Relief failures and tribunal backlog drive anti-process backlash. | Security concentration, audits, and firmware rollouts slow recovery into Book 5. | Leadership role inversion stabilizes governance while increasing emotional exhaustion. |
+

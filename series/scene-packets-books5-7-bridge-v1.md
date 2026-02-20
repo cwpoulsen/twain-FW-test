@@ -208,3 +208,25 @@ All packets include tactical geometry, emotional reversal, and explicit conseque
 - Character-state progression remains cumulative (no reset of Book 5-7 institutional growth arcs).
 - FVB treatment remains dual-track: hard interdiction + recruitment-funnel disruption + reintegration intelligence.
 - Governance outcomes retain debt/cost; no clean-win or zero-legitimacy-cost resolutions.
+
+## Wave 14 Consequence-Chain Deepening Addendum (Books 5–7)
+
+Expanded each packet cluster with delayed-systemic effects, legitimacy externalities, logistics debt rollover, and interpersonal carryover into the Earth-approach gate.
+
+| Packet band | Delayed-systemic effect | Legitimacy fallout | Logistics debt carryover | Relationship stress carryover |
+|---|---|---|---|---|
+| B5-S01..S02 | Oxygen-vote precedent and funnel-disruption doctrine create durable due-process burdens for security ops. | Narrow vote + selective releases fuels "soft on terror / hard on poor" dual narrative. | Escort and witness-protection drawdowns reduce buffer inventories before stress winter. | Lin/Marko friction increases over detention thresholds and optics risk. |
+| B5-S03..S04 | Audit-first queue governance prevents capture but normalizes service interruption cycles. | Conditional reintegration interpreted as amnesty laundering by victim blocs. | Fab downtime + vetting overhead pushes maintenance backlog into B5-S07 crunch. | Hale's compromise posture strains standing with hardline survivors and with himself. |
+| B5-S05..S07 | Insurance + tribunal + winter governance forms proto-corridor-law institutions under scarcity trauma. | Public reads lawful delay as elite insulation when shortages persist. | Cooldown, reserve exhaustion, and housing burden set weak initial state for B6 coolant politics. | Valerie's restraint and Lin's transparency choices absorb blame, increasing burnout risk. |
+| B6-S01..S03 | Anti-capture infrastructure becomes sticky norm across coolant, standards, and procurement chains. | Throughput losses become propaganda material for restorationists. | Dock loss + sting delay + escort cuts create piracy exposure window mid-Book 6. | Isaac-Valerie tension rises around "acceptable losses" in intelligence pacing decisions. |
+| B6-S04..S05 | Labor safety and sunset compliance harden constitutional culture under active threat. | Letting powers expire during attacks is framed as negligence by hawk blocs. | Shift caps and slower command tempo produce measurable convoy attrition debt. | Hale accepts tactical blame; trust with labor rises while command cadre trust thins. |
+| B6-S06..S07 | Joint triage model and parity-with-restraint doctrine become prerequisites for Book 7 legitimacy. | Restraint is publicly misread as weakness even as civilian metrics improve. | Spare-part prioritization sidelines combat lanes entering chokepoint campaign. | Isaac/Lin reconcile operationally but under persistent moral fatigue and reputational scar tissue. |
+| B7-S01..S03 | ROE-constrained convoy defense institutionalizes false-positive abort norms. | Surviving with escaped attackers feeds "performative legality" criticism. | Escort wear and redirected patrols generate latent vulnerability in secondary lanes. | Valerie/Marko absorb cowardice accusations for restraint decisions, tightening internal solidarity but isolating them publicly. |
+| B7-S04..S06 | Sanctions/appeals stack matures into auditable corridor-law backbone for Book 8 handoff. | Adjudicator targeting and queue delays erode confidence despite lawful wins. | Institutional fatigue debt (sleep, hull hours, med slots) forces tempo reduction before Earth approach. | Hale's deliberate slowdown strategy strains hawk allies but prevents team fracture. |
+
+### Contradiction-Check Summary (Wave 14 Addendum)
+- No B5–B7 success beat remains cost-free; each now projects at least one structural debt into subsequent packets.
+- Added legitimacy fallout is bidirectional (security hawks and civil critics), avoiding one-sided propaganda realism gaps.
+- Logistics debt chains are explicitly transit/maintenance bounded; no miraculous replenishment inserted.
+- Relationship stress carryover is cumulative and compatible with existing reconciliation beats.
+
