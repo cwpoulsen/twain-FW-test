@@ -20,10 +20,10 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 - Privately believes strict obedience is what killed his family and keeps repeating itself.
 
 ### Tactical Decision Pattern
-1. Stabilize immediate casualties.
-2. Preserve maneuver space for extraction.
-3. Accept personal risk before assigning risk down-chain.
-4. Delay irreversible moral compromise if any alternative exists.
+1. Stabilize immediate casualties (tourniquet/airway/pressure integrity in first 90 seconds).
+2. Preserve maneuver space for extraction (always keep one unjammed corridor and one fallback seal-door).
+3. Accept personal risk before assigning risk down-chain (he takes point on blind corners and boarding collars).
+4. Delay irreversible moral compromise if any alternative exists (prefers capture/isolation over execution when timeline permits).
 
 ### Book-Turn Anchors
 - **Turn A (Book 1, ~35%):** Databank raid moral injury confirms that tactical correctness can still be moral failure.
@@ -43,10 +43,10 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 - Still operates from trauma-era assumptions that all authority proximity is predatory.
 
 ### Tactical Decision Pattern
-1. Scan power dynamics in room before mission details.
-2. If coercion signal appears, assume bad faith until disproven.
-3. Under direct threat, uses extreme violence cleanly and fast.
-4. Post-event, reasserts procedural precision to avoid rage spillover.
+1. Scan power dynamics in room before mission details (who controls doors, comms mute rights, and flight authorization).
+2. If coercion signal appears, assume bad faith until disproven; she pre-briefs an extraction vector before debate starts.
+3. Under direct threat, uses extreme violence cleanly and fast (center-mass burst, mobility kill, move).
+4. Post-event, reasserts procedural precision (checklist callouts, throttle discipline, weapons safing) to keep rage from driving second-order mistakes.
 
 ### Book-Turn Anchors
 - **Turn A (Book 1, ~25%):** chooses restraint in a trigger scenario, proving discipline is a weapon.
@@ -66,10 +66,10 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 - Human trust tolerance is low; he over-relies on solvable-machine framing for unsolved emotional realities.
 
 ### Tactical Decision Pattern
-1. Find the weakest protocol edge, not strongest wall.
-2. Chain low-grade vulnerabilities into high-value outcomes.
-3. Keep one shadow route unshared in case command channel is compromised.
-4. Burn identity traces only when exfil route exists.
+1. Find the weakest protocol edge, not strongest wall (maintenance APIs, deprecated certs, human override forms).
+2. Chain low-grade vulnerabilities into high-value outcomes (telemetry spoof -> queue access -> release-key observation).
+3. Keep one shadow route unshared in case command channel is compromised (dead-drop key shard + delayed beacon).
+4. Burn identity traces only when exfil route exists; never erase evidence that could prove command tampering.
 
 ### Book-Turn Anchors
 - **Turn A (Book 1, ~40%):** recognizes command telemetry manipulation and silently starts parallel logs.

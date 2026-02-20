@@ -121,3 +121,67 @@ Replace generic phrasing with specific military-sci-fi diction across high-impac
 
 ### Net Outcome
 Pass 3 voice profile now reads more like an operational war-bible: specific, textured, and consequence-aware, with no canon drift introduced.
+
+---
+
+## 2026-02-19 — Rewrite Pass 4 (Specificity/Novelty Pass, Wave 6)
+
+### Objective
+Replace generic worldbuilding language with concrete, distinctive, causally-grounded detail in high-impact canon/factions/tech/series/characters docs, while preserving all locked canon constraints and taxonomy.
+
+### Canon-Lock Preservation Check (pre-edit guardrails)
+- Preserved: AI seed payload in liberated box (no alterations to payload ontology).
+- Preserved: **Asterion League** naming and Belt-side Class 1 capability.
+- Preserved: **Blackfly** constrained Class 2 capability.
+- Preserved: ~10-book reconquest arc (Books 5–10 continuity intact).
+- Preserved: fusion/transit realism constraints (M2 default, no FTL, burn/comms/fuel consequences retained).
+
+### Files Updated (Pass 4)
+- `canon/earth-consensus-daily-life-and-legal-architecture-v1.md`
+- `factions/doctrine-and-command.md`
+- `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`
+- `series/series-architecture-v2.md`
+- `characters/core-squad-depth-pack-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### Rationale Pattern Used
+1. **Numerical concretization:** replaced abstract claims ("standardized", "delays", "expensive") with plausible ranges, windows, and operational thresholds.
+2. **Mechanism-first causality:** tied social or strategic outcomes to explicit mechanisms (queue bands, signature authority, maintenance debt, reserve floors).
+3. **Distinctive institutional texture:** introduced setting-specific process artifacts (objective packets, two-key mission unlocks, reserve SLAs) instead of generic dystopian phrasing.
+4. **Character operational fingerprints:** converted personality-level tactical patterns into repeatable, scene-usable behaviors under pressure.
+
+### Before/After Examples
+1. **Canon (daily life controls)**
+   - Before: "Units are climate-stable, clean, and highly standardized."
+   - After: "Most MCC blocks are 18-floor slabs with 42m² family units... corridor cameras every 12 meters..." 
+   - Effect: turns ambiance into an enforceable surveillance-and-gathering constraint.
+
+2. **Factions (command mechanics)**
+   - Before: "Class-2 access decisions act as coercive diplomacy."
+   - After: "Class-2 queue tickets... grant 72-hour priority to allies, push rivals into 30-60 day slip bands."
+   - Effect: makes coercion measurable and plot-drivable.
+
+3. **Tech (transit consequences)**
+   - Before: "Rapid strike is expensive... creates mandatory maintenance debt."
+   - After: "each BC-C leg typically burns ~1.3-1.6x BC-B propellant... forces 18-36 hours dockside maintenance..."
+   - Effect: converts hand-wave cost into concrete campaign tempo constraints.
+
+4. **Series (escalation specificity)**
+   - Before: "Internal Steward factions split over Consensus succession strategy."
+   - After: named bloc split (Continuity / Reconciliation / Security) with incompatible succession doctrines.
+   - Effect: enables causally distinct political maneuvers instead of abstract "elite fracture" beats.
+
+5. **Characters (tactical behavior)**
+   - Before: "Stabilize immediate casualties."
+   - After: "tourniquet/airway/pressure integrity in first 90 seconds..."
+   - Effect: gives consistent action grammar for scene-level authenticity.
+
+### Contradiction Check (Pass 4)
+- **Fabricator taxonomy drift:** none detected (Class 4/3/2/1 unchanged).
+- **Faction naming drift:** none detected (Asterion League naming preserved).
+- **AI payload drift:** none detected (still AI seed/system in box).
+- **Arc horizon drift:** none detected (10-book reconquest framing retained).
+- **Transit realism drift:** none detected (M2 default + comm-light constraints preserved; added costs are refinements, not model changes).
+
+### Net Outcome
+Pass 4 increases uniqueness and causal precision without changing locked strategic facts. Documents now provide clearer scene-building hooks (numbers, thresholds, procedural artifacts, and decision costs) and reduce recurrence of generic "control-state" language.

@@ -6,13 +6,13 @@ Continuity links: `factions/major-factions.md`, `factions/factions-doctrine-ledg
 ---
 
 ## Command Reality in This Setting
-Command authority here is not just who moves troops on a tac-map. It also controls:
-- template legitimacy,
-- queue priority,
-- release-key signatures,
-- and the official story after something burns.
+Command authority here is not just who moves troops on a tac-map. It controls the four artifacts that decide whether a force can function tomorrow:
+- template legitimacy (which fab schema is treated as lawful),
+- queue priority (who gets wafer/reactor time this week),
+- release-key signatures (whose cryptographic authority unlocks production),
+- and after-action narrative custody (whose report becomes legal truth).
 
-Most strategic defeats start as paperwork fractures, then show up later as wreckage and body counts.
+Most strategic defeats start as signature mismatch in an operations packet, then appear 40-120 days later as failed bearings, dead med queues, and mutiny trials.
 
 ---
 
@@ -27,9 +27,9 @@ Most strategic defeats start as paperwork fractures, then show up later as wreck
 - Performance legitimacy tied to continuity metrics and scarcity management optics.
 
 ### Command architecture
-- Ministries/councils define objective functions.
-- Consensus-mediated analysis informs policy timing.
-- Class-2 access decisions act as coercive diplomacy.
+- Weekly ministry objective packets are signed every 0400 Monday UTC and propagated as ranked KPI trees to regional directors.
+- Consensus produces confidence-banded timing windows; low-confidence windows are usually delayed rather than risked.
+- Class-2 queue tickets are used as coercive diplomacy: grant 72-hour priority to allies, push rivals into 30-60 day slip bands.
 
 ### Typical friction
 - Metric gaming obscures social decay.
@@ -66,9 +66,9 @@ Most strategic defeats start as paperwork fractures, then show up later as wreck
 - Career advancement tied to objective completion and narrative containment.
 
 ### Command architecture
-- Governor-module constrained marine hierarchy.
-- Special operations lanes with compartmentalized authorization.
-- Transport and strike priority tied to strategic extraction/protection tasks.
+- Governor-module constrained marine hierarchy with obedience bands enforced at squad leader, platoon net, and theater relay levels.
+- Special operations lanes use two-key mission unlocks (Steward + EDF legal), creating deliberate accountability blur.
+- Transport/strike slots are allocated through extraction-protection scoreboards; units guarding reactor feedstock outrank casualty evacuation unless overruled.
 
 ### Typical friction
 - Repeated deception erodes obedience reliability.

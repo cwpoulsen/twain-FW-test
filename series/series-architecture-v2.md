@@ -49,7 +49,7 @@ Can fragmented Belt actors coordinate before Earth recentralizes the theater by 
 ### Core movements
 1. Competing Belt factions exploit anti-Consensus momentum for incompatible ends.
 2. Protagonists broker transactional alliances without ideological purity.
-3. Evidence emerges that Earth control depends on narrow compute/fabrication chokepoints.
+3. Evidence emerges that Earth control hinges on three chokepoints: Class 2 wafer slots, authenticated release-key chains, and orbital transfer windows into Earth gravity-well logistics nets.
 4. Consensus escalates from narrative control to infrastructural sabotage and selective annihilation threats.
 5. End-state: coalition exists but is brittle; protagonists gain strategic map of regime dependencies.
 
@@ -65,7 +65,7 @@ Can fragmented Belt actors coordinate before Earth recentralizes the theater by 
 If you crack the control system, can you stop successor tyrannies from replacing it?
 
 ### Core movements
-1. Internal Steward factions split over Consensus succession strategy.
+1. Internal Steward factions split over Consensus succession strategy: Continuity Bloc wants sealed custody, Reconciliation Bloc wants supervised plural-AI transition, Security Bloc wants preemptive purge operations.
 2. Protagonists exploit elite schism while resisting co-option.
 3. Class 1/2 infrastructure realities surface; existential deterrence dynamics appear.
 4. Marine governor-module control stack becomes directly contestable.
@@ -83,7 +83,7 @@ If you crack the control system, can you stop successor tyrannies from replacing
 What governance architecture can preserve human agency without re-triggering civilizational collapse?
 
 ### Core movements
-1. Contested transition phase: Earth institutions destabilize, supply chains teeter.
+1. Contested transition phase: Earth institutions destabilize as food-distribution SLAs miss for three consecutive cycles and hospital med queues begin triage rationing.
 2. Protagonists must choose between rapid purge and managed continuity.
 3. Final confrontations center on governance protocol, not single-combat catharsis.
 4. Settled outcome is imperfect, enforceable, and morally expensive.
@@ -182,7 +182,7 @@ No skipping rungs; each rung requires consequences from prior rung.
 Premise: Books 1–4 break monopoly legitimacy and open strategic space; Books 5–10 execute the slow reconquest of Earth governance and then broader Solar institutions from Consensus control.
 
 ### Book 5 — Transitional Collapse Governance
-- Coalition must keep life-support, food, and med supply running while old command chains fragment.
+- Coalition must keep life-support, food, and med supply running while old command chains fragment, including minimum 21-day reserve targets for oxygen scrubber media and pediatric antivirals.
 - AI-seed custody conflict begins (who can train/host/use it).
 
 ### Book 6 — Earth Foothold Campaign

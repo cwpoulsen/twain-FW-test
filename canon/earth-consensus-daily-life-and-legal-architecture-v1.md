@@ -21,18 +21,18 @@ Earth under Consensus does not run on dramatic terror events. It runs on procedu
 ## 2) Earth Daily Life: A Standard Week in a Mid-Density Housing Block
 
 ### 2.1 Housing
-- Units are climate-stable, clean, and highly standardized.
-- Private floor area is intentionally tight: enough for sleep, hygiene, and a compact prep space.
-- Building management rotates interior color palettes and scent profiles quarterly to create a feeling of novelty without structural upgrades.
+- Most MCC blocks are 18-floor slabs with 42m² family units, two elevator cores, and corridor cameras every 12 meters feeding local continuity dashboards.
+- Furniture is modular but bolted to standardized wall rails; residents can reconfigure layouts, but cannot remove partitions that cap gathering size.
+- Building management pushes quarterly "renewal packs" (new wall skins + scent cartridges + lighting presets) so tenants experience change without gaining structural autonomy.
 
-**Why this matters:** tight housing lowers informal gathering capacity. Fewer spontaneous in-person assemblies means fewer unmoderated political conversations.
+**Why this matters:** a standard unit can seat 4-6 adults comfortably; anything larger requires a permit-visible common room booking, which creates an automatic attendance trail.
 
 ### 2.2 Food
-- Nutritional adequacy is high; culinary variance is low.
-- Weekly allotments present as branded options, but core nutrient substrate is shared across most products.
-- Flavor packs are distributed by behavior category (high-compliance districts receive broader flavor libraries as “community wellness incentives”).
+- District depots issue seven-day ration slates calibrated to age/work bands; calorie targets are met, but texture and spice variety narrow sharply below top compliance quartiles.
+- Shelf labels look competitive (different brands, color systems), yet 70-80% of meals derive from two ministry-certified protein gels plus algae starch binders.
+- "Flavor library" unlocks are tied to school/work reliability metrics and neighborhood incident scores.
 
-**Behavior effect:** people learn to interpret small upgrades as earned social trust, not as rights.
+**Behavior effect:** households track compliance the way previous generations tracked money—because better taste, not survival, becomes the visible reward channel.
 
 ### 2.3 Water and utilities
 - Water is safe, filtered, and temperature-governed for infrastructure efficiency.
@@ -40,9 +40,9 @@ Earth under Consensus does not run on dramatic terror events. It runs on procedu
 - Power is abundant at grid scale, yet household delivery includes dynamic “harmonic balancing pauses” that conveniently interrupt unscheduled late-night gatherings.
 
 ### 2.4 Work allocation
-- Most labor matching is done through Civic Function Portals (CFPs), which rank “fit probability.”
-- Citizens can reject assignments, but rejection decays portal reputation and lengthens reassignment delays.
-- The legal fiction of choice is preserved; the economic penalty of non-compliance makes the choice mostly symbolic.
+- Labor matching runs through Civic Function Portals (CFPs) with rolling 90-day reliability scores, commute-friction weights, and ministry quota back-pressure.
+- Citizens can reject assignments, but each rejection burns a "cooperation index" tier and pushes them to slower med/childcare scheduling bands for 2-6 weeks.
+- The legal fiction of choice is preserved; in practice, declining three assignments in a quarter can collapse a household's timing access to essentials.
 
 ### 2.5 Leisure
 - Leisure blocks exist and are encouraged, but approved outlets are low-variance: cooperative sims, serialized “reality civic dramas,” and guided wellness communities.

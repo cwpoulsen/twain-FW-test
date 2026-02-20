@@ -146,9 +146,9 @@ At \(v_e=260\,km/s\),
 ## 7) Tactical Implications (continuity hooks)
 
 1. **Geometry dominates strategy:** the same route can vary by 2–4x in duration; campaign plans must state geometry condition (favorable, median, unfavorable).
-2. **Rapid strike is expensive:** BC-C profiles consume propellant margin and create mandatory maintenance debt; repeated BC-C use must degrade later options.
+2. **Rapid strike is expensive:** each BC-C leg typically burns ~1.3-1.6x BC-B propellant and adds injector/heat-exchanger wear that forces 18-36 hours of dockside maintenance before the next hard burn; repeated BC-C use must degrade later options.
 3. **Earth command lag is structural:** Earth->Ceres and Ceres->Jovian operations cannot be tightly micromanaged in real time.
-4. **Interception windows are predictable:** burn-coast-burn legs create vulnerable coast phases; ambush doctrine targets mid-course vector commitment.
+4. **Interception windows are predictable:** burn-coast-burn legs create vulnerable coast phases; once a ship commits vector after flip, meaningful course changes usually require fuel it cannot spare without missing rendezvous. Ambush doctrine therefore targets T+35% to T+70% coast windows.
 5. **Belt politics follow transit reality:** coalition cohesion degrades when intra-lane reinforcement times exceed local stockpile endurance.
 6. **Narrative pacing rule:** any major redeployment beat must include lane, burn class, mode, and elapsed time in chapter-level chronology.
 
@@ -162,6 +162,6 @@ For every transit scene, specify:
 - Transfer mode (M2 by default; M1 only as explicit lower bound)
 - Stated elapsed travel days
 - Comms delay implications on command decisions
-- Operational cost paid (fuel, maintenance, crew fatigue, or missed opportunity)
+- Operational cost paid (fuel, maintenance downtime in hours, crew fatigue markers, or missed queue windows)
 
 If these are absent, scene is under-specified for canon continuity.
