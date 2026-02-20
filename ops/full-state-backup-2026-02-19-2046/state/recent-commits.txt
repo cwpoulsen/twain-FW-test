@@ -1,0 +1,25 @@
+b399e83 Normalize R-005..R-008 risk ledger states across ops docs
+e4725e3 wave18: add 56k continuity-safe reconquest/justice/logistics expansion
+eb21bb5 Add Wave 17 final review pack for Chris with locks/risks/path
+6fbafd2 Close R-006/R-008 with Asterion charter + FVB drift playbook
+f40dd22 Add Wave 17 release-candidate index pack
+71f7651 Wave 17: polish governance/arc docs for mechanism-decision-cost readability
+4f7eb27 Close R-007 with AI-seed safety/governance doctrine pack
+d8fbd9b Close R-005: standardize Books 1-10 scene packet template fields
+b4d49d1 ops: close post-250k final reconciliation sweep
+2855007 post-250k pass6-8: tighten specificity/compression and close reconciliation with evidence
+c89d863 ops: execute post-250k reconciliation passes 0-2
+2258f32 post-250k pass 3-5: unify packet voice and fix B8-10 timeline authority coherence
+aab4870 wave14: deepen consequence chains across Books 1-10 packets
+123d8ce Add continuity-safe post-reconquest governance expansion (20k+ words)
+b2a15b0 Add post-250k reconciliation framework and lock strategy entry
+e4a29e3 Wave13: build Books9-10 closeout mechanics and cross-link gates
+5bb24ac Reality-gate audit wave11-12: patch timeline pressure cues and update enforcement/register
+3b8f109 wave13: add 27k-word stabilization/remnant/reintegration expansion with refs and contradiction summary
+98316e4 Wave12: add Books8-10 endgame bridge scene packets and consequence/timeline maps
+fd82078 Add 31k-word continuity-safe governance/interdiction/recovery expansion
+7f071d3 Reconcile wave10-11 lock drift and duplication seams
+1a7cd44 wave11: add 22k continuity-safe diplomacy/sanctions/scarcity/adjudication corpus
+d282ba2 wave11: add 20 books5-7 bridge scene packets with reality-gate consequence chains
+8899ffc Wave11: reconcile high-volume docs, dedupe boilerplate, align canon locks
+ab79f43 Add 20k continuity-safe expansion on diplomacy/command/justice/resilience
