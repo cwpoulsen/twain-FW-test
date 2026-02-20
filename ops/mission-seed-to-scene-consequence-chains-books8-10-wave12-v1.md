@@ -5,6 +5,7 @@ Status: Consequence hardening pass for Books 8–10 endgame bridge packets.
 Authority anchors:
 - `series/scene-packets-books8-10-endgame-bridge-v1.md`
 - `series/books1-10-arc-dependency-grid-v1.md`
+- `series/books9-10-closeout-arc-mechanics-wave13-v1.md`
 - `timeline/books8-10-endgame-operational-sequence-map-v1.md`
 - `timeline/master-timeline-sequence-v1.md`
 - `ops/reality-gate-enforcement-pack-v1.md`

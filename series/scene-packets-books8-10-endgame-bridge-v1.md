@@ -8,6 +8,7 @@ Authority-first refs:
 - `timeline/master-timeline-sequence-v1.md`
 - `timeline/books8-10-endgame-operational-sequence-map-v1.md`
 - `ops/mission-seed-to-scene-consequence-chains-books8-10-wave12-v1.md`
+- `series/books9-10-closeout-arc-mechanics-wave13-v1.md`
 - `ops/reality-gate-enforcement-pack-v1.md`
 - `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`
 - `ops/logistics-replenishment-cadence-table-v1.md`

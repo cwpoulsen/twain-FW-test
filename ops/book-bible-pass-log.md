@@ -372,6 +372,36 @@ Top-12 authority docs now share a single military-space-opera command voice with
 
 ---
 
+## 2026-02-19 — Closeout Arc Mechanics Build (Books 9–10, Wave 13)
+
+### Objective
+Build Books 9–10 closeout mechanics layer with explicit terminal conditions, anti-relapse governance gates, postwar legitimacy tests, and protagonist team end-state options; cross-link to dependency grid and scene/consequence packets.
+
+### Files Added
+- `series/books9-10-closeout-arc-mechanics-wave13-v1.md`
+
+### Files Updated
+- `series/books1-10-arc-dependency-grid-v1.md`
+- `series/scene-packets-books8-10-endgame-bridge-v1.md`
+- `ops/mission-seed-to-scene-consequence-chains-books8-10-wave12-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### Mechanics Added
+1. Book 9 terminal conditions (kernel neutralization, governability floor, war-to-law credibility, countervalue attrition).
+2. Book 10 anti-relapse governance gate stack (G1-G8) mapped to specific endgame scene packets.
+3. Postwar legitimacy scorecard (L1-L9) with pass/fail signals and scene anchors.
+4. Protagonist team end-state option matrix (full exit, reserve mandate, fragmented exit, failed exit branch).
+5. Dependency + scene-packet crosswalk table linking mechanics to arc-grid and consequence chains.
+
+### Contradiction-Check Summary
+- No miracle logistics/omniscience assumptions introduced.
+- No governance-shortcut drift; progression constrained by auditable gates.
+- No suppression-only FVB drift; recruitment-funnel disruption paired with reintegration maintained.
+- No protagonist-permanence drift; permanent emergency command remains failure branch.
+- Terminal state remains imperfect/self-correcting (no clean-win utopia).
+
+---
+
 ## 2026-02-19 — Mission Seed -> Scene Consequence Chain Bridge (Wave 10)
 
 ### Objective
