@@ -3,6 +3,7 @@
 Date: 2026-02-20  
 Companion to: `ops/decision-signoff-tracker-wave28.md` and `ops/decision-ballot-pack-wave27.md`  
 Supersedes: `ops/unresolved-decisions-brief-wave26.md` (decision-call surface for items D-01..D-07)
+Routing note (Wave 30): primary resolution sheet for Wave27–29 decision outcomes; upstream rationale remains in `ops/unresolved-decisions-brief-wave26.md` and `ops/decision-queue-wave25.md`.
 
 Purpose: single-sheet resolution view for Wave 27/28 decision items with recommended call, fallback path, deadline, and exact files that would require updates if the decision changes from the recommended default.
 

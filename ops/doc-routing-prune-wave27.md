@@ -2,6 +2,7 @@
 
 Date: 2026-02-20
 Companion to: `ops/doc-map-dedupe-wave24.md` (routing/ownership dedupe), `ops/supersession-finalize-wave26.md` (merge/supersession control), `ops/strategy-control-log.md` (latest cycle pivots).
+Routing note (Wave 30): supporting routing-lock implementation record; primary review entry routes remain in `ops/start-here-review-path.md`.
 
 ## Objective
 Prune routing ambiguity across review docs by making exactly one primary entry route obvious for each review intent:

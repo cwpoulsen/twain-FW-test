@@ -1,6 +1,7 @@
 # Executive Summary Pack — Wave 20
 
 Companion to: `ops/start-here-review-path.md` (primary route) and `ops/handoff-briefing-wave23.md` (execution handoff).
+Routing note (Wave 30): **Primary status snapshot route** for current posture, lock state, and bounded risk readout.
 
 Date: 2026-02-19  
 Prepared for: Chris  

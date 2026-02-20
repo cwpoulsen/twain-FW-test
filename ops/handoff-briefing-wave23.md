@@ -1,6 +1,7 @@
 # Handoff Briefing — Wave 23
 
 Companion to: `ops/start-here-review-path.md` (read order) and `ops/executive-summary-wave20.md` (current status baseline).
+Routing note (Wave 30): **Primary action-queue route** translating status + decisions into concrete next steps.
 
 Date: 2026-02-19  
 Owner: Chris  

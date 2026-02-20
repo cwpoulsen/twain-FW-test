@@ -1,5 +1,8 @@
 # R-005 Stability Delta — Wave 26 (2026-02-20)
 
+Companion to: `ops/r005-gate-check-wave24.md`, `ops/r005-regression-sentinel-wave25.md`, and `ops/monitor-pack-wave21.md`.
+Routing note (Wave 30): supporting R-005 trend checkpoint; primary recurring run route is `ops/r005-watchdog-template-wave27.md` with latest execution in `ops/r005-watchdog-run-2026-02-20-wave28.md`.
+
 Scope:
 - `series/scene-packets-books1-4-v1.md`
 - `series/scene-packets-books5-7-bridge-v1.md`

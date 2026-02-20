@@ -1,6 +1,7 @@
 # Reviewer Checklist — Wave 21 (Go / No-Go)
 
 Companion to: `ops/monitor-pack-wave21.md` (recurring checks) and `ops/decision-queue-wave25.md` (decision capture/prioritization).
+Routing note (Wave 30): **Primary go/no-go gate form** for review signoff decisions.
 
 Owner: Chris  
 Purpose: final practical gate before accepting Wave 21 as canon-safe.  

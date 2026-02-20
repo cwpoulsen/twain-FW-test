@@ -2,6 +2,7 @@
 
 Date: 2026-02-20  
 Companion to: `ops/decision-ballot-pack-wave27.md` | Supersedes: `ops/unresolved-decisions-brief-wave26.md`
+Routing note (Wave 30): supporting decision execution tracker; primary decision-call route remains `ops/unresolved-decisions-brief-wave26.md` until explicit final signoff closure.
 
 Purpose: execution tracker for Wave 27 decision signoff items with explicit status, ownership, due-by dates, and impact tiers.
 

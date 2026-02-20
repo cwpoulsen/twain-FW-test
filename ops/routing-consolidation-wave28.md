@@ -1,6 +1,8 @@
 # Routing Consolidation — Wave 28
 
 Date: 2026-02-20  
+Companion to: `ops/doc-routing-prune-wave27.md` (primary-route lock), `ops/supersession-finalize-wave26.md` (metadata/supersession controls), and `ops/start-here-review-path.md` (active review entrypoint).  
+Routing note (Wave 30): supporting consolidation summary; primary review entry routes remain in `ops/start-here-review-path.md`.  
 Input strategy control: `ops/strategy-control-log.md` latest entry (2026-02-20T01:23-05:00) reviewed first.  
 Scope: low-risk routing consolidation pass across review docs touched in Waves 24–27.  
 Constraint: **No canon changes** (ops-layer routing/metadata text only).

@@ -1,6 +1,7 @@
 # R-005 Weekly Watchdog Template — Wave 27
 
-Companion to: `ops/r005-stability-delta-wave26.md` and `ops/monitor-pack-wave21.md`
+Companion to: `ops/r005-stability-delta-wave26.md` and `ops/monitor-pack-wave21.md`.
+Routing note (Wave 30): **Primary route for recurring R-005 watchdog runs.**
 
 Use this lightweight template for recurring weekly R-005 checks.
 

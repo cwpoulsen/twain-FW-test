@@ -1,6 +1,7 @@
 # R-005 Weekly Watchdog Run — Wave 28 (2026-02-20)
 
-Companion to: `ops/r005-watchdog-template-wave27.md`, `ops/r005-stability-delta-wave26.md`, and `ops/monitor-pack-wave21.md`
+Companion to: `ops/r005-watchdog-template-wave27.md`, `ops/r005-stability-delta-wave26.md`, and `ops/monitor-pack-wave21.md`.
+Routing note (Wave 30): execution artifact for one watchdog interval; primary recurring run route is `ops/r005-watchdog-template-wave27.md`.
 
 ## Run Metadata
 - **Run date (YYYY-MM-DD):** 2026-02-20

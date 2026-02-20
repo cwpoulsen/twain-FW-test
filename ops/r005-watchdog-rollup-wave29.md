@@ -1,6 +1,7 @@
 # R-005 Watchdog Trend Rollup — Wave 29 (covering Waves 24–28)
 
-Companion to: `ops/r005-gate-check-wave24.md`, `ops/r005-regression-sentinel-wave25.md`, `ops/r005-stability-delta-wave26.md`, `ops/r005-watchdog-template-wave27.md`, `ops/r005-watchdog-run-2026-02-20-wave28.md`
+Companion to: `ops/r005-gate-check-wave24.md`, `ops/r005-regression-sentinel-wave25.md`, `ops/r005-stability-delta-wave26.md`, `ops/r005-watchdog-template-wave27.md`, `ops/r005-watchdog-run-2026-02-20-wave28.md`.
+Routing note (Wave 30): supporting trend rollup for operator context; primary recurring execution route remains `ops/r005-watchdog-template-wave27.md`.
 
 ## Purpose
 Consolidate R-005 monitoring evidence from waves 24–28 into one operator-facing trend readout, escalation trigger map, and next-run execution checklist.
