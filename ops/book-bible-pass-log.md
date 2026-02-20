@@ -553,3 +553,54 @@ Execute framework Pass 0-2 exactly: (0) freeze snapshot and authority-map check,
 ### Closure Snapshot
 - Closed contradictions: 1 (`TRIAGE-001`, process).
 - Open contradictions: none (P0/P1/P2) from Pass 0-2 scope.
+
+---
+
+## 2026-02-19 — Wave 16 Targeted Risk Closure (R-005 Scene Packet Template Standardization)
+
+### Objective
+Close open risk **R-005** by standardizing packet template fields across Books 1–10 scene-packet docs with consistent heading order, explicit per-packet reality-gate row, and normalized consequence-ledger granularity.
+
+### Scope
+- `series/scene-packets-books1-4-v1.md`
+- `series/scene-packets-books5-7-bridge-v1.md`
+- `series/scene-packets-books8-10-endgame-bridge-v1.md`
+- `ops/continuity-holes-register-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### Changes Applied
+1. Added a shared **Scene Packet Template Lock (R-005)** block to all three packet docs.
+   - Standardized required field order:
+     1) mission seed/mission-chain anchor, 2) objective, 3) conflict, 4) tactical geometry, 5) reality gate row, 6) emotional turn, 7) consequence ledger, 8) continuity refs.
+2. Inserted explicit **Reality gate row** line in every packet entry (Books 1–10 packet files).
+3. Normalized bridge consequence ledgers (Books 5–10) from compressed single-line triplets into bullet-granularity form:
+   - Immediate
+   - Delayed
+   - Cross-book dependency
+4. Harmonized label wording in Books 1–4 consequence ledgers (`Second-order` -> `Delayed`) to reduce template seam drift.
+5. Updated continuity risk ledger to mark **R-005 CLOSED (Wave 16)**.
+
+### Before/After Examples
+1. **Template lock presence (Books 5–7 / 8–10 / 1–4)**
+   - Before: no explicit cross-doc packet template lock block.
+   - After: added `## Scene Packet Template Lock (R-005)` with required ordered fields and minimum consequence granularity.
+
+2. **Reality gate row (packet level)**
+   - Before (`B5-S01`): Tactical geometry -> Emotional turn directly.
+   - After (`B5-S01`): Tactical geometry -> `**Reality gate row:** ...` -> Emotional turn.
+
+3. **Consequence granularity normalization (Books 8–10 bridge)**
+   - Before (`B8-S01`): `**Consequence ledger:** Immediate: ... Delayed: ... Arc dependency: ...`
+   - After (`B8-S01`):
+     - `**Consequence ledger:**`
+     - `- Immediate: ...`
+     - `- Delayed: ...`
+     - `- Cross-book dependency: ...`
+
+### Contradiction/Lock Check Notes
+- No canon lock facts changed (AI timing split, naming locks, fabrication ladder, arc horizon, transit realism).
+- Standardization is structural/formatting-level, improving packet-authoring consistency and reconciliation auditability.
+
+### Status Impact
+- **R-005 (P2): CLOSED.**
+- Remaining open P2 monitor risks: **R-006, R-008**.

@@ -38,9 +38,9 @@ Cross-refs:
 ---
 
 ## Remaining Risks (next pass)
-1. **R-005 (P2):** Add standardized scene packet template with required transit/comms/governor fields.
+1. **R-005 (P2): CLOSED (Wave 16): standardized scene packet template fields now enforced across Books 1-10 packet docs (ordered headings, granular consequence ledger, explicit reality gate row).
 2. **R-006 (P2):** Add Asterion League internal governance charter constraints to prevent faction behavior drift.
-3. **R-007 (P2):** Add AI-seed safety doctrine (containment, test protocol, failure escalation ladder).
+3. **R-007 (P2):** **CLOSED (Wave 16):** AI-seed safety doctrine formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
 4. **R-008 (P2):** Track FVB sub-faction drift to avoid flattening into single villain bloc.
 
 ---
@@ -200,9 +200,9 @@ Scope executed: contradiction-triage sweep, specificity/novelty tightening, clar
 - `ops/evidence/post250k-reconciliation-2026-02-19-pass6-8.txt`
 
 ### Remaining open risks (monitor)
-1. **R-005 (P2):** standardized scene packet template with mandatory transit/comms/governor fields still pending.
+1. **R-005 (P2): CLOSED (Wave 16): scene packet template standardized with mandatory transit/comms/governor-relevant reality gate row and consistent heading order across Books 1-10 packet docs.
 2. **R-006 (P2):** Asterion League internal governance charter constraints still partial.
-3. **R-007 (P2):** AI-seed safety doctrine (containment/test/escalation ladder) not yet formalized.
+3. **R-007 (P2):** **CLOSED (Wave 16):** doctrine now formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
 4. **R-008 (P2):** FVB sub-faction differentiation remains monitor item for future expansions.
 
 ## Post-250k Reconciliation Passes 0-2 (2026-02-19)
@@ -221,3 +221,22 @@ Scope executed: freeze baseline + full lock-matrix grep execution (A1-E2) + cont
 - Lock matrix status: PASS for naming, AI timing, pursuit uncertainty, physics realism, warform agency, fabrication ladder.
 - No active P0/P1 contradictions detected.
 - No open P2 contradictions from this pass after W15-001 patch closure.
+
+---
+
+## Wave 16 AI-Seed Safety Doctrine Closure (2026-02-19)
+
+Scope executed: resolved open risk R-007 by formalizing a full AI-seed safety/governance doctrine pack with integrity, containment, override, audit, and failure-escalation controls.
+
+### Closure artifact
+- `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`
+
+### Contradiction-check summary
+- AI timing lock preserved (seed acquisition first, databank as later augmentation).
+- No new naming drift introduced (Asterion League / Consensus / EDF / Belt compacts retained).
+- No capability-inflation contradiction introduced (containment tiers + logistics caps explicit).
+- Faction/series/timeline implications cross-linked to avoid isolated-policy drift.
+
+### Status impact
+- **R-007 (P2): CLOSED**.
+- Remaining open P2 monitor risks: R-006, R-008.
