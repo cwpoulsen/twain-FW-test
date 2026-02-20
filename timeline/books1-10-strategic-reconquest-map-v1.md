@@ -18,8 +18,8 @@ Cross-refs:
 | 3 | 0240–0260 | Counterintelligence fracture | Regime purges vs distributed proof warfare |
 | 4 | 0270–0290 | Transition crisis | First large governance cracks and power vacuum fights |
 | 5 | 0300-range | Belt consolidation | Asterion League legitimacy and coalition hardening |
-| 6 | 0320-range | Industrial parity race | Class 1/2 throughput contest, queue wars |
-| 7 | 0340-range | Inner-system chokepoint campaigns | Mars-Earth-Ceres route control and attrition |
+| 6 | 0320-range | Industrial parity race | Class 1/2 throughput contest, queue wars + Freed Voider Bands destabilization reveal track |
+| 7 | 0340-range | Inner-system chokepoint campaigns | Mars-Earth-Ceres route control, attrition, and anti-pirate legitimacy dilemmas |
 | 8 | 0360-range | Earth approach operations | Political + military staging for reconquest |
 | 9 | 0380-range | Earth reconquest | Multi-theater seizure and legitimacy conflict |
 | 10 | 0400-range | Solar settlement struggle | Post-Consensus governance and anti-relapse architecture |
@@ -32,3 +32,10 @@ Cross-refs:
 2. Class 1 breakthrough changes strategic options, not physics/logistics constraints.
 3. AI-seed storyline remains a custody/governance problem, not instant superweapon conversion.
 4. Post-victory books must show governance fragility and relapse risk.
+
+
+## Added Arc Thread: Freed Voider Bands (FVB)
+- Books 3-4: background noise of ex-EDF pirate/mercenary bands increases.
+- Books 5-6: reveal that release/exile patterns were structurally exploited to maintain strife.
+- Books 7-9: anti-FVB policy becomes major legitimacy test for coalition governance.
+- Book 10: settlement viability depends on reintegration + anti-predation equilibrium, not suppression-only doctrine.

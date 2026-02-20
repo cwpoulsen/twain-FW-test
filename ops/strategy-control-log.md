@@ -41,3 +41,15 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 - [ ] Include authority files to reference
 - [ ] Require continuity-impact notes in output
 - [ ] Require commit + word count + files list
+
+
+## 2026-02-19T19:36-05:00 — FVB destabilizer lock integration
+
+### New Canon Locks Applied
+- Added Freed Voider Bands (ex-EDF rejected populations) as persistent pirate/mercenary destabilizer ecology.
+- Locked reveal: Consensus intentionally exploited release/exile pattern to sustain outer-system strife.
+
+### Prompting/Planning Implications
+1. Include FVB pressure in lane-security, convoy law, and reintegration policy scenes.
+2. Distinguish agency-bearing FVB actors from non-conscious remote warform units.
+3. Ensure anti-piracy responses include recruitment-funnel disruption, not suppression-only beats.

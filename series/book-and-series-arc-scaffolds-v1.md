@@ -114,3 +114,10 @@ Not just overthrow question now—governance replacement question arrives before
 - Coalition bargaining requires moral compromise records becoming public; leadership credibility is partially pre-spent before settlement implementation.
 - Anti-predation/security centralization tools needed for stabilization risk recreating smaller-scale versions of prior control abuses.
 - Any constitutional settlement that moves too fast triggers supply panic; too slow triggers militia entrepreneurship.
+
+
+## Series Destabilizer Thread — Freed Voider Bands (FVB)
+- Ex-EDF rejected populations form pirate/mercenary ecosystems across outer-system lanes.
+- Their existence should pressure protagonists away from binary “regime vs resistance” framing and into governance triage.
+- Strategic reveal: Consensus exploited release patterns to manufacture chronic insecurity and justify emergency doctrine persistence.
+- Required consequence rule: anti-FVB operations that ignore reintegration economics increase next-cycle recruitment.

@@ -112,3 +112,6 @@ Authority: `factions/factions-doctrine-ledger-v1.md` (primary), `canon/canon-led
 4. **Municipal pragmatism vs symbolic insurgent escalation**.
 
 Use these axes to keep faction behavior causal rather than episodic.
+
+## Added Destabilizer Bloc: Freed Voider Bands (FVB)
+See `factions/freed-voider-bands-dossier-v1.md` for doctrine, recruitment funnel, incentives, and strategic reveal linkage to Consensus release-pattern strife seeding.

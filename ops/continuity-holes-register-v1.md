@@ -33,6 +33,7 @@ Cross-refs:
 | H-008 | P1 | Arc-scale mismatch | 4-book scaffold no longer matched 10-book reconquest directive. | timeline docs | **FIXED (Books 1–10 map added)** |
 | H-009 | P1 | Quantitative transit gap | Need equations/assumptions for travel realism. | tech + ops | **FIXED** |
 | H-010 | P1 | Governor autonomy ambiguity | Needed explicit governor-module autonomy bands. | tech + canon | **FIXED** |
+| H-011 | P1 | Destabilizer ecology gap | Missing faction model for ex-EDF rejection -> piracy/mercenary strife and Consensus intent link. | factions + canon + timeline + series | **FIXED (FVB lock integrated)** |
 
 ---
 
@@ -40,3 +41,4 @@ Cross-refs:
 1. **R-005 (P2):** Add standardized scene packet template with required transit/comms/governor fields.
 2. **R-006 (P2):** Add Asterion League internal governance charter constraints to prevent faction behavior drift.
 3. **R-007 (P2):** Add AI-seed safety doctrine (containment, test protocol, failure escalation ladder).
+4. **R-008 (P2):** Track FVB sub-faction drift to avoid flattening into single villain bloc.

@@ -139,3 +139,10 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 - Chronology authority: `timeline/master-timeline-sequence-v1.md`
 - Quantitative constraints: `tech/interplanetary-transit-and-comms-envelope-v1.md`
 - Governor constraints: `tech/governor-module-autonomy-bands-v1.md`
+
+
+## 14) Destabilizer Faction Lock — Freed Voider Bands
+- **CORE:** A destabilizer ecosystem of former EDF personnel exists after release/exile pathways; many are rejected by both Earth and Belt and survive as pirate/mercenary bands.
+- **CORE:** These bands operate as chronic cross-theater disruptors of lanes, ports, and convoy trust.
+- **CORE:** Strategic reveal: Consensus release pattern intentionally tolerated/steered this churn to seed persistent outer-system strife.
+- **SOFT:** Degree of central coordination among bands remains variable by era and contract incentives.

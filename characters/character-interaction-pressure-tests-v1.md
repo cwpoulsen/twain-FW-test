@@ -526,13 +526,14 @@ Use these rules whenever pressure tests stage action on asteroids/small bodies:
 
 ---
 
-## Continuity Note — Acquisition vs Training Data, Operator Status, Pursuit Awareness, Warform Taxonomy, and Small-Body Physics
+---
 
-- **AI acquisition event (LOCKED):** the AI seed/box is acquired in the **first-scene spec-ops extraction from the asteroid compound**.
-- **Databank event (LOCKED):** the later databank raid is **not** AI acquisition; it is a **training/upgrade-data acquisition** event needed to expand/calibrate/harden the already-acquired AI.
-- **Protagonist status (LOCKED):** crew exits EDF permanently when they steal Blackfly; they operate as free operators across coalition/civic/clandestine networks. EDF remains origin trauma/backstory only.
-- **Escape-signature lock (LOCKED):** the compound nuclear strike covers immediate escape signature/tracks.
-- **Enemy-awareness lock (LOCKED):** EDF/Consensus know Blackfly is missing but do **not** know current location. Pursuit uses probabilistic dragnet logic, not continuous direct tracking certainty.
-- **Warform lock (LOCKED):** many hostile Spec Ops operators are fully overridden non-conscious human puppets driven by remote shipboard processor stacks (Class-1-line context). Treat as remote warforms in threat taxonomy and ROE; do not imply intact personal agency while full override is active.
-- **Genre/frame rule (LOCKED):** narrative emphasis is **space opera first** with tactical realism, not ongoing EDF ownership framing.
-- **Physics lock (LOCKED):** asteroid/small-body surface action requires explicit attachment/anchoring and attitude control; no normal walking depictions without active stabilization.
+## Continuity Note — Acquisition/Databank Split, Free-Operator Status, Pursuit Awareness, Warforms, FVB Destabilizer Lock, Small-Body Physics
+
+- **AI acquisition (LOCKED):** first-scene spec-ops extraction from asteroid compound.
+- **Databank role (LOCKED):** later databank raid supplies training/upgrade data for already-acquired AI; not acquisition.
+- **Status (LOCKED):** crew are permanently post-EDF free operators after Blackfly theft.
+- **Escape/pursuit (LOCKED):** nuclear strike masks immediate tracks; enemy knows Blackfly is missing but not current location (probabilistic dragnet, no continuous certainty).
+- **Warform lock (LOCKED):** many hostile Spec Ops are fully overridden non-conscious human puppets; ROE and portrayal must not imply intact agency under full override.
+- **FVB destabilizer lock (LOCKED):** ex-EDF rejected populations form pirate/mercenary bands causing cross-theater disruption; strategic reveal ties chronic strife seeding to Consensus release-pattern intent.
+- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
