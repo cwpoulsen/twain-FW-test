@@ -61,6 +61,33 @@ Scope executed: repo-wide grep scan for pre-lock residue categories: old EDF-pre
 ### Open / monitor
 - **W8-R1 (Open, P2 monitor):** `series/worldbuilding-core-pack-v1.md` remains a provisional ideation reservoir and still contains early-draft language in historical sections. Current authority precedence note is present; keep under drift watch when promoting content into canon-layer docs.
 
+---
+
+## Wave 9 Continuity Guard Automation Scan (2026-02-19)
+
+Scope executed: added automated-style continuity guard docs (grep recipes, lock-check matrix, per-domain validation checklists), then ran lock scans across active repo paths with archival/evidence exclusions.
+
+### New guard docs added
+- `ops/continuity-guard-grep-recipes-v1.md`
+- `ops/continuity-lock-check-matrix-v1.md`
+- `ops/domain-validation-checklists-v1.md`
+
+### Violations found + patched
+- **W9-001 (Closed, P2 process integrity):** stale hole-register path in megapass tracking section.
+  - Finding: `ops/book-bible-megapass-plan.md` referenced non-canonical `ops/book-bible-holes-register.md`.
+  - Patch: updated tracking pointer to `ops/continuity-holes-register-v1.md`.
+- **W9-002 (Closed, P1 taxonomy drift):** legacy fabricator classes detected in active tech doc.
+  - Finding: `tech/operational-logistics.md` used deprecated `Class-0/I/II/III/IV` ladder.
+  - Patch: normalized to canonical `Class 4/3/2/1` ladder and inserted lock note.
+
+### Evidence
+- Scan transcript: `ops/evidence/wave9-continuity-guard-checks-2026-02-19.txt`
+
+### Result summary
+- No P0 contradictions detected in active canon/series/timeline/scenes layers.
+- Naming/AI-timing/pursuit/physics lock scans return policy/checklist/context hits only.
+- Fabricator taxonomy drift corrected; post-patch check returns clean for deprecated class patterns.
+
 ### Grep Evidence (pre-fix findings)
 - `series/worldbuilding-core-pack-v1.md:67` -> `Solar Defense Force` naming residue.
 - `series/worldbuilding-core-pack-v1.md:312` -> `EDF marine squad inbound to Belt engagement.`

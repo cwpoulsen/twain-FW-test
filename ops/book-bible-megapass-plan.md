@@ -53,4 +53,4 @@ For each section:
 ## Tracking
 - progress ledger in `ops/book-bible-progress-log.md`
 - pass records in `ops/book-bible-pass-log.md`
-- holes in `ops/book-bible-holes-register.md`
+- holes in `ops/continuity-holes-register-v1.md`

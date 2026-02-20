@@ -5,6 +5,8 @@ In this setting, logistics is not merely moving ammunition; it is maintaining **
 
 Linked docs: [Fabrication Systems Architecture](./fabrication-systems.md), [Fabricator Class Taxonomy](./fabricator-classes.md), [Faction Failure Modes](../factions/failure-modes-and-escalation.md).
 
+Lock note: uses canonical class ladder **Class 4 -> Class 3 -> Class 2 -> Class 1**.
+
 ---
 
 ## The Four-Flow Model
@@ -50,27 +52,27 @@ Accumulated unverified output percentage.
 ## Logistics Echelons
 
 ### Echelon 1: Contact Zone
-- Class-0 Stitchers and scavenger drones.
+- Class 4 stitchers and scavenger drones.
 - Objective: keep squads operational through short-cycle repairs.
 - Typical failure: poisoned salvage entering local feedstock.
 
 ### Echelon 2: Mobile Sustainment Belt
-- Class-I Forge Carriers plus convoyed power/coolant.
+- Class 3 forge carriers plus convoyed power/coolant.
 - Objective: restore battalion/brigade combat systems.
 - Typical failure: ambush and signal spoofing on autonomous convoys.
 
 ### Echelon 3: Theater Industrial Core
-- Class-II Bastion Fabs with rail/orbital links.
+- Class 2 bastion fabs with rail/orbital links.
 - Objective: maintain campaign-level replacement and upgrade tempo.
 - Typical failure: labor strikes + cyber queue poisoning.
 
 ### Echelon 4: Strategic Mobility Layer
-- Class-III Seedyards and deep-route transport.
+- Class 2 strategic seedyards and deep-route transport.
 - Objective: reinforce or evacuate theaters.
 - Typical failure: transfer bottleneck and orbital denial.
 
 ### Echelon 5: Sovereign Regeneration Layer
-- Class-IV Genesis systems.
+- Class 1 genesis stacks.
 - Objective: regenerate national war capacity after major damage.
 - Typical failure: legitimacy fracture in release-key governance.
 

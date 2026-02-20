@@ -1,0 +1,36 @@
+# Wave 9 Continuity Guard Check Evidence
+Date: 2026-02-19
+
+Command set executed from repo root.
+
+## A1 Deprecated naming residue
+canon/ops/faction-naming-policy.md:14:- **Belters** / **the Belters** as a generic stand-in for the faction
+ops/continuity-holes-register-v1.md:50:Scope executed: repo-wide grep scan for pre-lock residue categories: old EDF-present framing, wrong AI acquisition timing, generic Belters usage, omniscient tracking assumptions, missing low-g physics anchors.
+ops/continuity-holes-register-v1.md:56:- **W8-002 (Closed):** Legacy naming residue (`Solar Defense Force`) in discovery reservoir.
+ops/continuity-holes-register-v1.md:65:- `series/worldbuilding-core-pack-v1.md:67` -> `Solar Defense Force` naming residue.
+ops/continuity-holes-register-v1.md:68:- `canon/ops/faction-naming-policy.md:14` -> only sanctioned mention of forbidden generic `Belters` label (policy context).
+ops/continuity-holes-register-v1.md:72:- **Generic Belters usage:** no active narrator-canon misuse found outside policy/archival mention.
+ops/continuity-guard-grep-recipes-v1.md:17:grep -RIn $EXCLUDES -E "\bBelters\b|Solar Defense Force" $SCAN_PATHS
+
+## B1 Wrong AI acquisition timing
+ops/continuity-guard-grep-recipes-v1.md:27:grep -RIn $EXCLUDES -E "databank raid.*(acquire|recovers?).*(AI seed|AI system|AI seed/system)" $SCAN_PATHS
+
+## C1 Forbidden certainty tracking
+ops/continuity-guard-grep-recipes-v1.md:37:grep -RIn $EXCLUDES -E "exact position known|always knows? (their|its) position|perfect tracking" $SCAN_PATHS
+
+## D1 Low-g anti-pattern cues
+canon/canon-ledger-v2.md:113:- **CORE:** Small-body combat requires explicit anchoring and attitude control; no normal walking/stance fighting without stabilization.
+canon/supporting-institutions-dossiers-v1.md:350:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+ops/blackfly-unknown-position-pursuit-model-v1.md:220:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+ops/small-body-combat-and-work-credibility-manual-v1.md:18:1. Low-g small-body surfaces do not support normal walking/standing behavior without active stabilization.
+ops/small-body-combat-and-work-credibility-manual-v1.md:246:- Add contradiction scans for “normal walking” phrasing in revision passes.
+ops/small-body-combat-and-work-credibility-manual-v1.md:272:- **Physics lock (LOCKED):** small-body operations require explicit anchoring and attitude control; no normal walking depictions without active stabilization.
+ops/legal-and-military-process-appendices-v1.md:316:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+ops/continuity-guard-grep-recipes-v1.md:47:grep -RIn $EXCLUDES -E "normal walking|earthlike gravity firefight|stood firm without anchoring" $SCAN_PATHS
+ops/operations-doctrine-annex-v1.md:316:- Never depict normal walking on low-g small bodies unless artificial-gravity rigging is explicitly present.
+ops/operations-doctrine-annex-v1.md:403:- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+series/reconquest-institutional-integration-matrix-v1.md:231:8. If small-body scenes imply normal walking without stabilization, patch with anchoring and attitude-control mechanics.
+
+## E2 Fabrication taxonomy drift hints
+
+## Process reference check

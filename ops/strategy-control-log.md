@@ -53,3 +53,18 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 1. Include FVB pressure in lane-security, convoy law, and reintegration policy scenes.
 2. Distinguish agency-bearing FVB actors from non-conscious remote warform units.
 3. Ensure anti-piracy responses include recruitment-funnel disruption, not suppression-only beats.
+
+
+## 2026-02-19T20:08-05:00 — Continuity guard automation hardening (Wave 9)
+
+### What changed
+- Added standardized automation docs for lock enforcement:
+  - `ops/continuity-guard-grep-recipes-v1.md`
+  - `ops/continuity-lock-check-matrix-v1.md`
+  - `ops/domain-validation-checklists-v1.md`
+- Added evidence output convention under `ops/evidence/` and executed scan transcript capture.
+
+### Strategy implication
+1. Treat grep suite as mandatory pre/post wave gate.
+2. Require explicit triage classification for hits (policy/archive vs active canon violation).
+3. Close process drift immediately when authority pointers go stale (auditability first).
