@@ -65,7 +65,7 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 - **CORE:** Fusion generation powers civilization-scale industry.
 - **CORE:** Fusion drives dominate in-space propulsion; no atmospheric fusion ascent.
 - **CORE:** Earth gravity well remains a strategic chokepoint.
-- **CORE:** Transit and command decisions must obey quantified travel/comms envelopes in `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
+- **CORE:** Transit and command decisions must obey quantified travel/comms envelopes in `tech/interplanetary-transit-and-comms-envelope-v1.md`.
 
 ---
 
@@ -81,7 +81,7 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 - **CORE:** Excluded/unlinked populations are funneled into marine service.
 - **CORE:** Standard term = 5 years with embedded governor-module constraints.
 - **CORE:** Refusal breach can trigger lethal enforcement.
-- **CORE:** Governor behavior now constrained by explicit autonomy bands: `tech/governor-module-autonomy-bands-v1.md`.
+- **SOFT:** Governor-module behavior remains constrained by hard obedience boundaries, with local initiative only inside permitted action classes.
 - **CORE:** Completion grants freedom with permanent Earth banishment.
 
 ---
@@ -135,7 +135,7 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 
 ## 13) Continuity Patch References
 - Wave 2 lock: `canon/continuity-patch-wave2-v1.md`
-- **Wave 3 lock:** `canon/continuity-patch-wave3-v1.md`
+- Wave 3 lock: `canon/continuity-patch-wave3-v1.md`
 - Chronology authority: `timeline/master-timeline-sequence-v1.md`
 - Quantitative constraints: `tech/interplanetary-transit-and-comms-envelope-v1.md`
 - Governor constraints: `tech/governor-module-autonomy-bands-v1.md`

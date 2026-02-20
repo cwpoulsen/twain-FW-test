@@ -29,7 +29,7 @@
 - Wave 3 curveball lock integrated:
   - Canon updates locked:
     - `canon/continuity-patch-wave3-v1.md`
-    - `canon/canon-ledger-v2.md` updated for AI-seed box payload, Aegis Spiral naming, Blackfly Class 2, and 10-book arc direction.
+    - `canon/canon-ledger-v2.md` updated for AI-seed box payload, Asterion League naming, Blackfly Class 2, and 10-book arc direction.
   - Added quantitative constraint docs:
     - `tech/interplanetary-transit-and-comms-envelope-v1.md` (equations, assumptions, thrust/trajectory model, lane matrix, comms latency)
     - `tech/governor-module-autonomy-bands-v1.md`

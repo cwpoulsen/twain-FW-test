@@ -107,6 +107,7 @@ Most strategic defeats begin as administrative fractures before they appear as b
 ### Command architecture
 - Cell-based operational chains.
 - Hybrid political + military leadership, often temporary.
+- Asterion Concord technical directorate controlling a fragile Class 1 seed-fabricator line under extreme compartmentalization.
 
 ### Typical friction
 - Internal split between patient governance strategy and retaliatory escalation.

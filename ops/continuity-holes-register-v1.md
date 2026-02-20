@@ -38,5 +38,5 @@ Cross-refs:
 
 ## Remaining Risks (next pass)
 1. **R-005 (P2):** Add standardized scene packet template with required transit/comms/governor fields.
-2. **R-006 (P2):** Add Aegis Spiral internal governance charter constraints to prevent faction behavior drift.
+2. **R-006 (P2):** Add Asterion League internal governance charter constraints to prevent faction behavior drift.
 3. **R-007 (P2):** Add AI-seed safety doctrine (containment, test protocol, failure escalation ladder).

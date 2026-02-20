@@ -12,7 +12,7 @@ Cross-refs:
 ## A) Dependency Backbone (Top-Level)
 
 1. **Governance Control Doctrine** (`canon/canon-ledger-v2.md` §§2–4)
-2. **Fabrication Sovereignty Ladder incl. Blackfly Class 2 + Aegis Spiral Class 1** (`canon/canon-ledger-v2.md` §5)
+2. **Fabrication Sovereignty Ladder incl. Blackfly Class 2 + Asterion League Class 1** (`canon/canon-ledger-v2.md` §5)
 3. **Latency-Limited Control + Quantified Transit/Comms Envelope** (`canon/canon-ledger-v2.md` §§6–7, `tech/interplanetary-transit-and-comms-envelope-v1.md`)
 4. **Marine Contract Trap + Governor Autonomy Bands** (`canon/canon-ledger-v2.md` §8, `tech/governor-module-autonomy-bands-v1.md`)
 5. **Master Timeline + 10-Book Arc Map** (`timeline/master-timeline-sequence-v1.md`, `timeline/books1-10-strategic-reconquest-map-v1.md`)

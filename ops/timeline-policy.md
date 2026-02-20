@@ -22,5 +22,5 @@ Before locking chapters:
 
 
 ## Quantitative Reference
-- Travel math authority: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`
+- Travel math authority: `tech/interplanetary-transit-and-comms-envelope-v1.md`
 - Timeline locks must cite lane distance, accel envelope, and comm delay when operationally relevant.

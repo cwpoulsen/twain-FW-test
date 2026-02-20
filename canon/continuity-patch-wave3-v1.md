@@ -24,7 +24,7 @@ Cross-refs:
 
 ## CP-006 — Anti-Consensus Faction Identity + Class 1 Breakthrough (CORE)
 
-**Rule:** Belt anti-Consensus coalition is named **Aegis Spiral** and has created/fielded a Class 1 fabricator capability.
+**Rule:** Belt anti-Consensus coalition is named **Asterion League** and has created/fielded a Class 1 fabricator capability.
 
 **Continuity effects:**
 - Consensus Class 1 monopoly becomes broken-contested, not absolute.

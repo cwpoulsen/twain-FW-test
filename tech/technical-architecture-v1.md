@@ -56,7 +56,7 @@ Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md
 - Belt can sustain broad infrastructure with Class 3/4 ecosystems.
 - Belt cannot fully sovereignize high-end computation/biomedical stacks without Class 2 access.
 - Earth cannot sustain industrial scale without Belt extraction throughput.
-- Blackfly possession of a Class 2 stack and Aegis Spiral Class 1 emergence end the assumption of uncontested Earth monopoly.
+- Blackfly possession of a Class 2 stack and Asterion League Class 1 emergence end the assumption of uncontested Earth monopoly.
 
 ## 3.3 Failure modes for story
 - Sabotage of calibration libraries can silently poison fab outputs.

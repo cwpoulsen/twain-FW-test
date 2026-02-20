@@ -106,7 +106,8 @@ Loose umbrella of anti-Earth-control groups ranging from civic federalists to mi
 - Information campaigns,
 - selective sabotage,
 - convoy interdiction,
-- clandestine logistics networks.
+- clandestine logistics networks,
+- **Asterion Concord technical program** sustaining a fragile Belt-side Class 1 seed-fabricator line.
 
 ### Vulnerabilities
 - Strategic incoherence among subfactions.

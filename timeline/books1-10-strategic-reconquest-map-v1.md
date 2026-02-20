@@ -17,7 +17,7 @@ Cross-refs:
 | 2 | 0210–0230 | Alliance and provenance war | Who controls the seed, who can verify truth |
 | 3 | 0240–0260 | Counterintelligence fracture | Regime purges vs distributed proof warfare |
 | 4 | 0270–0290 | Transition crisis | First large governance cracks and power vacuum fights |
-| 5 | 0300-range | Belt consolidation | Aegis Spiral legitimacy and coalition hardening |
+| 5 | 0300-range | Belt consolidation | Asterion League legitimacy and coalition hardening |
 | 6 | 0320-range | Industrial parity race | Class 1/2 throughput contest, queue wars |
 | 7 | 0340-range | Inner-system chokepoint campaigns | Mars-Earth-Ceres route control and attrition |
 | 8 | 0360-range | Earth approach operations | Political + military staging for reconquest |
