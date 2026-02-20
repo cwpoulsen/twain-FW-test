@@ -7,10 +7,11 @@ Store this as a core character-defining scene concept for John. This is **not** 
 - Team objective: recover a Belt-held databank containing broad human knowledge backups, including major engineering schematics from immediately pre-Consensus singularity years and a sealed emergent AI seed package.
 - Hostile faction alignment: partially anti-Consensus but brutal/counterproductive methods.
 - Team assumes powered armor + nonlethal munitions will be sufficient for quick suppression and low-casualty extraction.
+- Environment lock: micro/low-g interior requires mag-boot/tether anchoring discipline; recoil drift and line-of-fire instability are active risks.
 
 ## Operational Plan (Intent)
 1. Hard breach in SOF black armor.
-2. Rapid nonlethal suppression.
+2. Rapid nonlethal suppression with anchored movement (mag-boots/handholds) to control recoil and prevent cross-lane drift.
 3. Secure datacube/databank plus sealed artifact case (later identified as a new AI seed/system payload).
 4. Fast exfiltration with minimal bloodshed.
 
@@ -48,3 +49,10 @@ Store this as a core character-defining scene concept for John. This is **not** 
 ## Canon Lock Addendum (2026-02-19)
 - The recovered “box” is confirmed to contain a **new AI seed/system artifact**, not just archival data.
 - Handling rule: no blind boot, no isolated “magic helper” activation; all interactions require chain-of-custody + sandbox constraints + political consequence tracking.
+
+
+## Reality Gate Notes (Applied)
+- **Propulsion/logistics:** Exfil timing is constrained by orbital window; armor damage and ammo expenditure reduce follow-on mission readiness.
+- **Human limits:** John's penetrating hits create immediate medevac/command degradation; post-action fatigue and shock affect downstream decisions.
+- **Sensor uncertainty:** Team cannot cleanly classify every hostile/noncombatant position under ambush smoke and suit damage; misidentification risk is part of scene cost.
+- **Comms latency:** Offsite command cannot adjudicate in real time; accountability is reconstructed later from partial telemetry.

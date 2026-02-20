@@ -5,6 +5,8 @@ Authority: extends `timeline/master-timeline-sequence-v1.md` for Books 1–4 pla
 
 Cross-refs:
 - Canon wave 3 lock: `canon/continuity-patch-wave3-v1.md`
+- Reality gate enforcement: `ops/reality-gate-enforcement-pack-v1.md`
+- Mission bank anchor: `ops/books1-4-mission-scenario-bank-v1.md`
 
 ---
 
@@ -32,6 +34,7 @@ Cross-refs:
 2. No mission may imply instantaneous transit or comm certainty (use transit/comms envelope).
 3. AI-seed custody chain and Class 2/Class 1 fabrication politics must remain active pressure lines, not one-off reveals.
 4. Inter-book redeployment beats must cite lane + burn class from `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
+5. Reality Gate checks are mandatory before promoting mission seeds to scene packets (`ops/reality-gate-enforcement-pack-v1.md`).
 
 ## Transit-Gated Continuity Hooks (Books 1–4)
 

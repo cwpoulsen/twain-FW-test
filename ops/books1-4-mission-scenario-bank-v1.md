@@ -9,8 +9,18 @@ Use with:
 - `timeline/master-timeline-sequence-v1.md`
 - `timeline/books1-4-operational-sequence-map-v1.md`
 - `canon/canon-ledger-v2.md`
+- `ops/reality-gate-enforcement-pack-v1.md`
 
 ---
+
+## Reality Gate Constraints (Applied to all seeds)
+
+- **Low-g anchoring/recoil:** Every boarding/compartment firefight must specify stabilization method and recoil consequence.
+- **Propulsion limits:** Burn-class maneuvers require heat/fuel/maintenance costs; no free repeated BC-C spikes.
+- **Comms latency:** No remote real-time heroics; delayed command ambiguity must remain in decision chains.
+- **Logistics constraints:** Ammo, coolant, meds, and spares are mission-limiting variables, not flavor text.
+- **Human limits:** Fatigue, injury carry burden, and casualty friction must degrade performance over campaign tempo.
+- **Sensor uncertainty:** ID certainty is probabilistic; ambiguous tracks must retain false-positive risk in outcomes.
 
 ## Book 1 — Ashes in the Box (Seeds B1-01 to B1-10)
 

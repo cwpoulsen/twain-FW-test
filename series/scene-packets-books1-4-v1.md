@@ -1,7 +1,7 @@
 # Stewards of Progress — Scene Packets (Books 1–4) v1
 
 Status: Draft-ready packet set tied to mission bank seeds. 24 packets total (6 per book).
-Authority-first refs: `canon/canon-ledger-v2.md`, `canon/continuity-patch-wave3-v1.md`, `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`, `tech/technical-architecture-v1.md`, `timeline/master-timeline-sequence-v1.md`, `ops/continuity-dependency-map-v1.md`, `ops/strategy-control-log.md`.
+Authority-first refs: `canon/canon-ledger-v2.md`, `canon/continuity-patch-wave3-v1.md`, `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`, `tech/technical-architecture-v1.md`, `timeline/master-timeline-sequence-v1.md`, `ops/continuity-dependency-map-v1.md`, `ops/strategy-control-log.md`, `ops/reality-gate-enforcement-pack-v1.md`.
 
 Method lock applied in every packet:
 - Mission seed tie-in
@@ -11,6 +11,11 @@ Method lock applied in every packet:
 - Emotional turn
 - Consequence ledger
 - Continuity refs
+
+Reality gate overlay (mandatory in packet promotion):
+- Explicit low-g anchoring/recoil behavior for armed movement
+- Fatigue/casualty carry costs across adjacent packets
+- Sensor confidence language (never perfect certainty in contested zones)
 
 ---
 
