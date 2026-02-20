@@ -238,10 +238,3 @@ Premise: Books 1–4 break monopoly legitimacy and open strategic space; Books 5
 
 Reference table authority: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md`.
 
-## Book 5–10 Strategic Continuation (Lock)
-- **Book 5:** Begin slow reconquest of Earth control nodes; expose fragility of liberation logistics.
-- **Book 6:** Hold-and-govern campaigns; reclaimed populations resist both old and new authorities.
-- **Book 7:** Interplanetary legitimacy conflicts spread (cislunar/Mars/Belt treaty breakdown cycles).
-- **Book 8:** AI custody wars over seed-derived systems and anti-Consensus successor models.
-- **Book 9:** Systemwide reconstruction under scarcity, sabotage, and revenge politics.
-- **Book 10:** Durable but contested solar constitutional order; no return to single cognitive monopoly.

@@ -149,7 +149,7 @@ Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md
 5. What governor-module boundaries shape marine choices?  
 6. What technical side effect follows the chosen workaround?
 
-If a scene cannot answer these, it is under-specified.
+If a scene cannot answer these, it is not ready for draft.
 
 ---
 

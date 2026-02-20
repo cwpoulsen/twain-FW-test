@@ -660,6 +660,58 @@ Run a focused polish pass on highest-impact governance/arc control docs to impro
 - **No-FTL / logistics-finite realism framing:** preserved.
 - **Result:** no canon-fact changes; readability/structure-only polish with stronger mechanism -> decision -> cost traceability.
 
+## 2026-02-19 — RC2 Polish Pass (Authority Docs + Scene Packet Index Cleanup)
+
+### Objective
+Run an RC2 readability/compression polish on top authority docs and scene packet index surfaces. Remove residual repetition and tighten handoff clarity without changing locked canon facts.
+
+### Scope
+- `canon/canon-ledger-v2.md`
+- `series/series-architecture-v2.md`
+- `tech/technical-architecture-v1.md`
+- `factions/major-factions.md`
+- `characters/core-squad-depth-pack-v1.md`
+- `series/scene-packets-books1-4-v1.md`
+- `series/scene-packets-books5-7-bridge-v1.md`
+- `series/scene-packets-books8-10-endgame-bridge-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### What changed
+1. **Canon ledger dedupe:** removed duplicate long-arc lock subsection (`10.1`) that repeated Book 1-10 lock already present in section 10.
+2. **Series architecture dedupe:** removed trailing “Book 5-10 Strategic Continuation (Lock)” block that restated section 9 content.
+3. **Scene packet index cleanup:** removed redundant boilerplate in Books 1-4 packets where Template Lock + Method Lock + Reality Overlay repeated the same constraints.
+4. **Readability micro-polish:**
+   - `characters/core-squad-depth-pack-v1.md`: compressed section headers by removing repeated “— Deepening Layer” suffix.
+   - `tech/technical-architecture-v1.md`: sharpened checklist closure line (`under-specified` -> `not ready for draft`).
+   - `factions/major-factions.md`: tightened status label wording for command-use context.
+
+### Before/After examples
+1. **Duplicate long-arc text removed (canon ledger)**
+   - Before: Section 10 plus a separate `10.1 Long-arc lock` repeated the same 10-book lock.
+   - After: single authoritative long-arc statement retained in section 10.
+
+2. **Series lock repetition removed**
+   - Before: Section 9 detailed Books 5-10, then a second lock block repeated one-line summaries.
+   - After: Section 9 remains sole authority for Books 5-10 continuation.
+
+3. **Scene packet header boilerplate reduced**
+   - Before (`scene-packets-books1-4`): Template Lock + Method Lock + Reality Overlay repeated packet field/rule constraints.
+   - After: Template Lock retained as single governing header; repeated block removed.
+
+### Contradiction-check summary (RC2)
+- **AI acquisition timing split (opening extraction vs databank training/provenance):** preserved.
+- **Asterion League naming + Belt Class 1 lock:** preserved.
+- **Blackfly constrained Class 2 lock:** preserved.
+- **Fabricator class taxonomy (4/3/2/1):** unchanged.
+- **10-book reconquest arc:** preserved (deduped only).
+- **No-FTL / latency / logistics-consequence realism:** preserved.
+- **Warform non-conscious override + small-body anchoring realism:** unchanged.
+
+### Net outcome
+Authority docs now read cleaner at the top-layer handoff level with less repeated lock prose and lower template noise, while all locked canon facts remain intact.
+
+---
+
 ## 2026-02-19 — Wave 18 Risk-Ledger Normalization Addendum
 
 ### Objective

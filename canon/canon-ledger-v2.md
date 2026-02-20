@@ -121,11 +121,6 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 
 ---
 
-
-### 10.1 Long-arc lock
-- **CORE:** Series strategic horizon extends to approximately **10 books**.
-- **CORE:** Books 1-4 cover betrayal->fracture->transition; Books 5-10 cover slow reconquest/reintegration of Earth and wider solar-system governance away from Consensus control.
-
 ## 11) Locked Contradictions
 1. Equality rhetoric vs cognitive caste.
 2. “Voluntary” links vs coercive exclusion.

@@ -32,7 +32,6 @@ Consequence ledger granularity minimum:
 
 Reality gate row must explicitly assert: low-g anchoring/recoil discipline, comm-latency-constrained command, finite logistics/fatigue carryover, and bounded sensor certainty.
 
-
 Reality Gate lock (applies in every packet):
 - Anchoring + recoil discipline in low-g contact
 - Burn class + heat limits tied to lane geometry

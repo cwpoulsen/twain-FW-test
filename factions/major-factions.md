@@ -1,6 +1,6 @@
 # Major Factions v2 (Specificity/Voice Pass)
 
-Status: **Canon-aligned quick reference**  
+Status: **Canon-aligned command quick reference**  
 Authority anchors: `factions/factions-doctrine-ledger-v1.md` (primary), `canon/canon-ledger-v2.md`, `factions/freed-voider-bands-dossier-v1.md`
 
 ---

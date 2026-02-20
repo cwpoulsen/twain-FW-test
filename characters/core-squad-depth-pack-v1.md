@@ -20,7 +20,7 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 
 ---
 
-## 1) Staff Sergeant John Hale — Deepening Layer
+## 1) Staff Sergeant John Hale
 
 ### Hidden Contradiction
 - Publicly enforces discipline to keep people alive.
@@ -43,7 +43,7 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 
 ---
 
-## 2) Corporal Valerie Wells — Deepening Layer
+## 2) Corporal Valerie Wells
 
 ### Hidden Contradiction
 - Craves cockpit-level control.
@@ -66,7 +66,7 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 
 ---
 
-## 3) Specialist Isaac Beckham — Deepening Layer
+## 3) Specialist Isaac Beckham
 
 ### Hidden Contradiction
 - Systems-level confidence is extreme.
@@ -89,7 +89,7 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 
 ---
 
-## 4) Specialist Marko Branik — Deepening Layer
+## 4) Specialist Marko Branik
 
 ### Hidden Contradiction
 - Performs as fearless blunt instrument.
@@ -112,7 +112,7 @@ Continuity note: formative events should reference `timeline/master-timeline-seq
 
 ---
 
-## 5) Private Lindsay "Lin" Veil — Deepening Layer
+## 5) Private Lindsay "Lin" Veil
 
 ### Hidden Contradiction
 - Wants everyone emotionally stable and connected.

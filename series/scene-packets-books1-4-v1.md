@@ -23,20 +23,6 @@ Consequence ledger granularity minimum:
 Reality gate row must explicitly assert: low-g anchoring/recoil discipline, comm-latency-constrained command, finite logistics/fatigue carryover, and bounded sensor certainty.
 
 
-Method lock applied in every packet:
-- Mission seed tie-in
-- Objective
-- Conflict
-- Tactical geometry (lane state, burn class, elapsed time, comm lag, cost)
-- Emotional turn
-- Consequence ledger
-- Continuity refs
-
-Reality gate overlay (mandatory in packet promotion):
-- Explicit low-g anchoring/recoil behavior for armed movement
-- Fatigue/casualty carry costs across adjacent packets
-- Sensor confidence language (never perfect certainty in contested zones)
-
 ---
 
 ## BOOK 1 — *Ashes in the Box*
