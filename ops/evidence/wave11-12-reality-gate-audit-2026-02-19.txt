@@ -1,0 +1,40 @@
+# Wave 11–12 Reality Gate Audit Evidence
+Date: 2026-02-19 (America/New_York)
+Scope: Wave 11–12 bridge docs for low-g behavior, comm latency, logistics realism, fatigue realism.
+
+## Authority Anchors
+- ops/reality-gate-enforcement-pack-v1.md
+- series/scene-packets-books5-7-bridge-v1.md
+- series/scene-packets-books8-10-endgame-bridge-v1.md
+- ops/mission-seed-to-scene-consequence-chains-books5-7-wave11-v1.md
+- ops/mission-seed-to-scene-consequence-chains-books8-10-wave12-v1.md
+
+## Pre-patch observation
+Violation class W12-001 (P1 abstraction drift):
+- Timeline sequence maps encoded dependency gates, but did not include per-row reality-gate pressure annotations.
+- This created a handoff risk where downstream scene drafting could skip one or more hard constraints (low-g, comm latency, logistics, fatigue) at sequence level.
+
+## Patch Evidence (post-fix)
+1) timeline/books5-7-bridge-operational-sequence-map-v1.md
+- Added reality gate pressure column: line 11
+- Explicit low-g behavior references: lines 14, 21, 27
+- Explicit comm latency references: lines 16, 22, 24, 28, 29
+- Explicit logistics references: lines 15, 19, 20, 25, 30
+- Explicit fatigue references: lines 16, 18, 23, 31, 32
+
+2) timeline/books8-10-endgame-operational-sequence-map-v1.md
+- Added reality gate pressure column: line 12
+- Explicit low-g behavior references: lines 16, 22
+- Explicit comm latency references: lines 14, 15, 19, 26, 33, 35
+- Explicit logistics references: lines 18, 23, 25, 27, 29, 34
+- Explicit fatigue references: lines 17, 20, 21, 24, 31, 36
+
+## Cross-check references showing existing packet-level compliance (no patch required)
+- series/scene-packets-books5-7-bridge-v1.md:17-19, 39, 47, 99, 107, 115, 175, 183
+- series/scene-packets-books8-10-endgame-bridge-v1.md:17-19, 63, 115, 131, 207, 223
+- ops/mission-seed-to-scene-consequence-chains-books5-7-wave11-v1.md:48-50
+- ops/mission-seed-to-scene-consequence-chains-books8-10-wave12-v1.md:52-54
+
+## Result
+- W12-001 closed.
+- No remaining P0/P1 reality-gate contradiction in audited Wave 11–12 scope.

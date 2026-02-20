@@ -157,3 +157,23 @@ Scope executed: targeted reconciliation pass over all Wave 10/11 outputs and bri
 - No low-g realism anti-pattern phrasing found; required anchoring/attitude-control/recoil cues present.
 - No deprecated fabrication taxonomy (`Class-0`, `Class IV`) found in scope.
 - Result: no remaining P0/P1 contradiction in Wave 10/11 outputs after this reconciliation pass.
+
+---
+
+## Wave 11–12 Reality Gate Audit (2026-02-19)
+
+Scope executed: targeted reality-gate audit on newly added Wave 11–12 bridge assets with explicit checks for low-g behavior, comm latency, logistics limits, and fatigue realism.
+
+### Violations found + patched
+- **W12-001 (Closed, P1 abstraction drift):** timeline support maps had event rows without explicit per-row reality-pressure annotation, creating downstream risk of low-g/latency/logistics/fatigue handwave in scene expansion.
+  - Patched: `timeline/books5-7-bridge-operational-sequence-map-v1.md`
+  - Patched: `timeline/books8-10-endgame-operational-sequence-map-v1.md`
+  - Action: added `reality_gate_pressure` column across all Wave 11/12 bridge sequence rows (`0310`–`0535`) with concrete low-g/comms/logistics/fatigue constraints.
+
+### Evidence
+- `ops/evidence/wave11-12-reality-gate-audit-2026-02-19.txt`
+
+### Result summary
+- Scene packets + mission consequence chains already carried explicit reality-gate constraints.
+- Timeline layer now carries matching per-sequence physical/operational pressure cues.
+- No remaining P0/P1 reality-gate contradiction found in audited Wave 11–12 scope.

@@ -49,6 +49,7 @@ Cross-refs:
 - [ ] Crew fatigue/casualty burden changes tempo and outcomes.
 - [ ] Sensor confidence limits and false-positive risk are visible.
 - [ ] Consequences are propagated to timeline + follow-on missions.
+- [ ] Timeline support maps include a per-row `reality_gate_pressure` field (or equivalent) covering low-g/comms/logistics/fatigue implications for each packet.
 
 ## Contradiction Triggers (force rewrite before promotion)
 
@@ -57,6 +58,17 @@ Cross-refs:
 - Recoilless small-arms behavior in low-g without stabilization method.
 - Perfect identification certainty from contested sensors.
 - Zero fatigue penalties after extended or back-to-back operations.
+- Timeline rows that carry major decisions without explicit latency/logistics/fatigue or low-g pressure annotation.
+
+## Wave 11–12 Audit Addendum (2026-02-19)
+
+- Audit scope: Wave 11–12 bridge packets + mission chains + timeline maps.
+- Violation class patched: timeline abstraction drift (event rows lacking explicit reality-pressure annotation risked soft handwave during downstream scene drafting).
+- Patches applied:
+  - `timeline/books5-7-bridge-operational-sequence-map-v1.md` (added `reality_gate_pressure` column for seq `0310`–`0415`)
+  - `timeline/books8-10-endgame-operational-sequence-map-v1.md` (added `reality_gate_pressure` column for seq `0420`–`0535`)
+- Evidence:
+  - `ops/evidence/wave11-12-reality-gate-audit-2026-02-19.txt`
 
 ## Enforcement Note
 
