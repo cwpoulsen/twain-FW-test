@@ -2,7 +2,7 @@
 
 Purpose: continuity-safe implementation scaffold for post-reconquest governance, industrial restoration, and anti-relapse legitimacy building.
 
-Method rule: every policy beat is written as **mechanism -> decision -> cost** under hard constraints (latency, logistics, maintenance debt, fatigue, legal auditability).
+Method rule: every policy beat is written as **mechanism -> decision -> cost** under hard constraints (latency, logistics, maintenance debt, fatigue, legal auditability). Read each section as an execution chain, not a wish list.
 
 ---
 
@@ -59,11 +59,13 @@ Method rule: every policy beat is written as **mechanism -> decision -> cost** u
 
 ### Core approach
 - Suppression-only strategy is continuity-invalid.
-- Counter-FVB design must pair enforcement with recruitment-funnel disruption:
+- Mechanism: FVB persistence is fed by debt, coercive contracts, and blocked lawful exits.
+- Decision: pair interdiction with recruitment-funnel disruption:
   - debt relief buyout windows,
   - conditional amnesty ports,
   - labor transition pathways,
   - contract-tracing prosecution of organizers/financiers.
+- Cost: near-term political blowback and budget strain in exchange for lower long-run relapse pressure.
 
 ### Command constraints
 - No real-time omniscient command assumptions across lane latency.
@@ -72,6 +74,8 @@ Method rule: every policy beat is written as **mechanism -> decision -> cost** u
 ---
 
 ## V. Legitimacy repair metrics
+
+Mechanism: legitimacy rises or collapses through measurable service behavior. Decision: govern against these scoreboards, not speech cycles. Cost: publishing weak numbers invites attack but hiding them accelerates institutional decay.
 
 Track these as narrative and governance scoreboards:
 - service uptime reliability,

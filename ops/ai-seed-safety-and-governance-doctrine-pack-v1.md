@@ -18,7 +18,7 @@ Cross-refs:
 
 ## 1) Doctrine Intent and Non-Negotiables
 
-This doctrine defines how the Blackfly-aligned coalition and partner institutions handle the captured AI seed/system without reproducing Consensus monopoly abuse or triggering uncontrolled proliferation.
+This doctrine defines how the Blackfly-aligned coalition and partner institutions handle the captured AI seed/system without reproducing Consensus monopoly abuse or triggering uncontrolled proliferation. Operational chain: constrain capability growth, force evidence visibility, and make emergency authority reversible.
 
 ### Non-negotiables
 1. **No instant superweapon behavior:** seed capability must emerge through constrained, auditable phases.
@@ -60,6 +60,8 @@ This doctrine defines how the Blackfly-aligned coalition and partner institution
 
 ## 3) Containment Architecture (Layered)
 
+Mechanism: physical and procedural separation blocks silent scale-up. Decision: accept slower iteration in exchange for verifiable control. Cost: operational tempo drops and coordination overhead rises.
+
 ### C-0: Airgapped Seed Vault
 - Seed-core weights and substrate descriptors remain in physically isolated vault nodes.
 - No persistent wide-network route into seed-core environment.
@@ -86,6 +88,8 @@ This doctrine defines how the Blackfly-aligned coalition and partner institution
 
 ## 4) Override Boundaries and Legitimacy Constraints
 
+Mechanism: emergency powers are classed, time-bounded, and reviewable. Decision: codify trigger legality before incidents, not after. Cost: commanders lose unilateral speed but preserve postwar legitimacy.
+
 ### O-1: Override Classes
 1. **Class Green:** advisory throttles; no autonomy revocation.
 2. **Class Amber:** temporary capability disablement under bounded incident criteria.
@@ -111,6 +115,8 @@ This doctrine defines how the Blackfly-aligned coalition and partner institution
 
 ## 5) Auditability and Evidence Governance
 
+Mechanism: signed ledgers + dual-record publication create falsification resistance. Decision: expose enough process data to permit external challenge. Cost: adversaries gain partial visibility into friction and delays.
+
 ### A-1: Immutable Event Ledger
 - All material actions (data ingest, retrain, deploy, rollback, override) generate signed ledger events with synchronized clock references.
 
@@ -135,6 +141,8 @@ This doctrine defines how the Blackfly-aligned coalition and partner institution
 ---
 
 ## 6) Failure-Response Protocols (Escalation Ladder)
+
+Mechanism: standardized incident sequencing prevents improvised cover-up loops. Decision: freeze first, preserve evidence, then adjudicate. Cost: false-positive freezes can degrade active operations.
 
 ### F-1: Detection Categories
 1. **Integrity event:** data poisoning/provenance break.

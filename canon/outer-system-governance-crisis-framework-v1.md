@@ -2,7 +2,7 @@
 
 Status: ACTIVE guidance canon expansion for Books 2-10 political scaffolding.
 
-This framework defines how governance crises propagate after the opening AI-seed extraction, the later databank training/provenance split, and the locked fabrication order (Class 4/3 -> Blackfly Class 2 -> Asterion League fragile Class 1).
+This framework defines how governance crises propagate after the opening AI-seed extraction, the later databank training/provenance split, and the locked fabrication ladder (Class 4/3 -> Blackfly Class 2 -> Asterion League fragile Class 1). It is a decision-pressure map for Books 2-10: mechanism creates a constraint, leadership chooses, and the bill arrives later as legitimacy, logistics, or security debt.
 
 ## Core crisis model (mechanism -> decision -> cost)
 
@@ -10,7 +10,7 @@ This framework defines how governance crises propagate after the opening AI-seed
 2. **Decision:** leaders choose between centralized command coherence and local delegation speed.
 3. **Cost:** every shortcut creates legitimacy debt, black-market adaptation, and future convoy risk.
 
-## Ring-specific failure surfaces
+## Ring crisis lanes (mechanism -> decision -> cost)
 
 ### 1) Cislunar Administrative Ring
 - Trigger: surveillance-heavy queue governance plus stale command maps.

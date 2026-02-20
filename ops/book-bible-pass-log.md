@@ -604,3 +604,58 @@ Close open risk **R-005** by standardizing packet template fields across Books 1
 ### Status Impact
 - **R-005 (P2): CLOSED.**
 - Remaining open P2 monitor risks: **R-006, R-008**.
+
+---
+
+## 2026-02-19 — Wave 17 Focused Governance/Arc Polish (Readability + Flow Tightening)
+
+### Objective
+Run a focused polish pass on highest-impact governance/arc control docs to improve readability and mechanism -> decision -> cost flow, remove residual repetition, and preserve all locked canon facts.
+
+### Strategy/Reconciliation Inputs Read First
+- `ops/strategy-control-log.md` (latest entries through final reconciliation sweep + Wave 16 doctrine closure)
+- `ops/post250k-reconciliation-completion-status-2026-02-19.md`
+- `ops/post-250k-reconciliation-framework-v1.md`
+
+### Scope (Highest-Impact Governance/Arc Docs)
+- `canon/outer-system-governance-crisis-framework-v1.md`
+- `series/post-reconquest-governance-and-restoration-expansion-v1.md`
+- `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### What Was Polished
+1. **Outer-system governance framework**
+   - Tightened purpose language to foreground execution chain and delayed-cost logic.
+   - Renamed ring section to emphasize decision-flow readability (`Ring crisis lanes`).
+2. **Post-reconquest governance/restoration expansion**
+   - Added explicit execution-chain guidance in method preamble.
+   - Reworked FVB section to explicit mechanism/decision/cost sequence.
+   - Added decision-cost framing intro to legitimacy metrics section.
+3. **AI-seed safety doctrine pack**
+   - Added concise mechanism/decision/cost bridge lines to sections 3-6 (containment, override legality, auditability, incident response) for faster operator parsing.
+   - Preserved all doctrine controls, classes, and locks; no capability or timeline changes.
+
+### Before/After Snippets
+1. `canon/outer-system-governance-crisis-framework-v1.md`
+   - Before: `...locked fabrication order (Class 4/3 -> Blackfly Class 2 -> Asterion League fragile Class 1).`
+   - After: `...locked fabrication ladder (...) It is a decision-pressure map for Books 2-10: mechanism creates a constraint, leadership chooses, and the bill arrives later as legitimacy, logistics, or security debt.`
+
+2. `series/post-reconquest-governance-and-restoration-expansion-v1.md`
+   - Before: FVB section listed interventions without explicit tradeoff statement.
+   - After: added:
+     - `Mechanism: FVB persistence is fed by debt, coercive contracts, and blocked lawful exits.`
+     - `Decision: pair interdiction with recruitment-funnel disruption...`
+     - `Cost: near-term political blowback and budget strain in exchange for lower long-run relapse pressure.`
+
+3. `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`
+   - Before: section headers transitioned directly into controls.
+   - After: each major control block now opens with a compact flow statement (e.g., containment: `Decision: accept slower iteration in exchange for verifiable control. Cost: operational tempo drops...`).
+
+### Contradiction-Check Summary (Wave 17)
+- **AI timing lock (seed first, databank later augmentation/provenance):** preserved.
+- **Asterion League naming lock:** preserved.
+- **Fabrication ladder lock (Class 4/3 -> Blackfly 2 -> Asterion 1):** preserved.
+- **Blackfly pursuit uncertainty framing:** preserved.
+- **Warform non-conscious override framing:** preserved.
+- **No-FTL / logistics-finite realism framing:** preserved.
+- **Result:** no canon-fact changes; readability/structure-only polish with stronger mechanism -> decision -> cost traceability.
