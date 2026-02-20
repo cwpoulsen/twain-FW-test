@@ -29,7 +29,7 @@ Baseline SHA at final sweep start: `2855007c8c9af325d740c15b7b1dba1b293028a0`
 ## Remaining open risks (explicit, non-blocking strategic backlog)
 1. **R-005 (P2):** scene packet template standardization (transit/comms/governor required fields).
 2. **R-006 (P2):** Asterion League governance charter constraints need formalization depth.
-3. **R-007 (P2):** AI-seed safety doctrine (containment/testing/escalation ladder) still open.
+3. **R-007 (P2):** **CLOSED (Wave 16):** AI-seed safety doctrine formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
 4. **R-008 (P2):** FVB sub-faction differentiation depth monitor.
 
 ## Final status

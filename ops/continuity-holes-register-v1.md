@@ -38,7 +38,7 @@ Cross-refs:
 ---
 
 ## Remaining Risks (next pass)
-1. **R-005 (P2): CLOSED (Wave 16): standardized scene packet template fields now enforced across Books 1-10 packet docs (ordered headings, granular consequence ledger, explicit reality gate row).
+1. **R-005 (P2):** Add standardized scene packet template with required transit/comms/governor fields.
 2. **R-006 (P2):** Add Asterion League internal governance charter constraints to prevent faction behavior drift.
 3. **R-007 (P2):** **CLOSED (Wave 16):** AI-seed safety doctrine formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
 4. **R-008 (P2):** Track FVB sub-faction drift to avoid flattening into single villain bloc.
@@ -200,7 +200,7 @@ Scope executed: contradiction-triage sweep, specificity/novelty tightening, clar
 - `ops/evidence/post250k-reconciliation-2026-02-19-pass6-8.txt`
 
 ### Remaining open risks (monitor)
-1. **R-005 (P2): CLOSED (Wave 16): scene packet template standardized with mandatory transit/comms/governor-relevant reality gate row and consistent heading order across Books 1-10 packet docs.
+1. **R-005 (P2):** standardized scene packet template with mandatory transit/comms/governor fields still pending.
 2. **R-006 (P2):** Asterion League internal governance charter constraints still partial.
 3. **R-007 (P2):** **CLOSED (Wave 16):** doctrine now formalized in `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md`.
 4. **R-008 (P2):** FVB sub-faction differentiation remains monitor item for future expansions.

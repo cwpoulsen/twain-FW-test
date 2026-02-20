@@ -118,6 +118,23 @@ Rule: Before spawning any new subagent wave, read the latest entries in this fil
 2. Add duplication/compression checks to post-wave acceptance before domain expansion resumes.
 3. Keep unresolved work explicitly bounded to P2 risk register items (R-005..R-008) with no hidden blockers.
 
+## 2026-02-19T20:31-05:00 — Wave 16 R-007 doctrine closure
+
+### What changed
+- Added `ops/ai-seed-safety-and-governance-doctrine-pack-v1.md` to formalize:
+  - training-data integrity controls,
+  - layered containment architecture,
+  - override legality boundaries,
+  - auditability + evidence governance,
+  - failure-response escalation ladder.
+- Cross-linked faction/series/timeline implications to prevent isolated-policy drift.
+- Updated risk ledgers to mark R-007 closed.
+
+### Strategy implication
+1. Treat AI-seed beats as governance-process conflict, not capability hand-wave.
+2. Require provenance + containment + override class cues in scene packets touching seed operations.
+3. Keep P2 backlog focused on R-005, R-006, R-008 only.
+
 ## 2026-02-19T20:29-05:00 — Post-250k reconciliation Passes 0-2 execution lock-in (Wave 15)
 
 ### What changed
