@@ -7,19 +7,9 @@ Cross-refs: `series/book-and-series-arc-scaffolds-v1.md`, `timeline/books1-10-st
 
 ## Purpose
 
-These pressure tests are designed to produce high-stakes character interactions that:
-1. Change tactical behavior after emotional decisions.
-2. Keep core arcs coherent across ten books.
-3. Integrate legal/institutional constraints rather than bypassing them.
-4. Avoid repetitive “argument scenes” by varying moral vectors and operational contexts.
+Use these tests to force decisions that alter tactics, preserve ten-book arc coherence, and keep law/institution constraints on-page.
 
-Each test includes:
-- Setup and trigger
-- Fault line
-- Decision fork
-- Immediate cost
-- Long-tail consequence
-- Canon checks
+Each test includes: setup, fault line, decision fork, immediate cost, long-tail consequence, and canon checks.
 
 ---
 
@@ -528,12 +518,6 @@ Use these rules whenever pressure tests stage action on asteroids/small bodies:
 
 ---
 
-## Continuity Note — Acquisition/Databank Split, Free-Operator Status, Pursuit Awareness, Warforms, FVB Destabilizer Lock, Small-Body Physics
+## Continuity Lock Bundle (Pass 5, compressed)
 
-- **AI acquisition (LOCKED):** first-scene spec-ops extraction from asteroid compound.
-- **Databank role (LOCKED):** later databank raid supplies training/upgrade data for already-acquired AI; not acquisition.
-- **Status (LOCKED):** crew are permanently post-EDF free operators after Blackfly theft.
-- **Escape/pursuit (LOCKED):** nuclear strike masks immediate tracks; enemy knows Blackfly is missing but not current location (probabilistic dragnet, no continuous certainty).
-- **Warform lock (LOCKED):** many hostile Spec Ops are fully overridden non-conscious human puppets; ROE and portrayal must not imply intact agency under full override.
-- **FVB destabilizer lock (LOCKED):** ex-EDF rejected populations form pirate/mercenary bands causing cross-theater disruption; strategic reveal ties chronic strife seeding to Consensus release-pattern intent.
-- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+Hard assumptions for all tests: AI seed acquired in opening spec-op, databank later provides training/provenance data; Blackfly crew remain permanent post-EDF free operators; post-nuke pursuit is probabilistic dragnet under unknown position; full-override warforms are non-conscious remote instruments; FVB instability is intentionally seeded via release patterns; small-body actions require anchoring and attitude control.

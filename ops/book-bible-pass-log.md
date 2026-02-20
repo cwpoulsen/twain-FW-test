@@ -185,3 +185,60 @@ Replace generic worldbuilding language with concrete, distinctive, causally-grou
 
 ### Net Outcome
 Pass 4 increases uniqueness and causal precision without changing locked strategic facts. Documents now provide clearer scene-building hooks (numbers, thresholds, procedural artifacts, and decision costs) and reduce recurrence of generic "control-state" language.
+
+---
+
+## 2026-02-19 — Rewrite Pass 5 (Clarity/Compression, Wave 7)
+
+### Objective
+Tighten high-impact docs by removing repetition, sharpening ambiguous phrasing, and propagating lock language for: post-EDF free-operator status, AI acquisition/databank split, Asterion League naming, staged Class2->Class1 fabrication path, 10-book reconquest, unknown-position Blackfly after nuke masking, warform doctrine, and small-body anchoring physics.
+
+### Files Updated
+- `canon/canon-ledger-v2.md`
+- `canon/continuity-patch-wave3-v1.md`
+- `series/series-architecture-v2.md`
+- `series/reconquest-institutional-integration-matrix-v1.md`
+- `tech/technical-architecture-v1.md`
+- `factions/freed-voider-bands-dossier-v1.md`
+- `characters/character-interaction-pressure-tests-v1.md`
+- `ops/book-bible-pass-log.md`
+
+### Rationale Pattern Used
+1. **Compression by lock bundles:** replaced repeated 7-bullet continuity blocks with one-line hard-assumption bundles where docs already had full authority references.
+2. **Ambiguity removal:** standardized pursuit phrasing to “missing asset, unknown current position, probabilistic dragnet.”
+3. **Causality correction:** fixed acquisition sequence drift by splitting AI first-acquisition (opening spec-op) from databank training/provenance value.
+4. **Mechanics enforcement language:** inserted direct warform and small-body physics phrasing in tech/series/canon control points.
+
+### Before/After Examples
+1. **Acquisition wording fix**
+   - Before: “Databank raid recovers a new AI seed/system.”
+   - After: “Blackfly acquires a new AI seed/system in the opening spec-ops extraction; databank raid later supplies training/upgrade data.”
+
+2. **Continuity-note compression**
+   - Before: repeated 7-bullet lock sections in multiple docs.
+   - After: single compressed “Continuity Lock Bundle” paragraph with same constraints and less boilerplate.
+
+3. **Watchlist clarity**
+   - Before: contradiction list numbering/order drift (6/7/8 out of order) and mixed phrasing.
+   - After: ordered list 1-8 with explicit failure conditions and patch actions.
+
+### Contradiction Check (Pass 5)
+- **Post-EDF status drift:** patched; core crew now explicitly permanent free operators after Blackfly theft.
+- **AI acquisition timing drift:** patched in canon ledger + continuity patch + series architecture.
+- **Faction naming drift:** no new drift; Asterion League naming preserved.
+- **Class path drift:** clarified as staged Class3/4 -> Blackfly Class2 -> Asterion Class1; no taxonomy changes.
+- **Arc horizon drift:** no drift; 10-book reconquest framing preserved.
+- **Pursuit omniscience drift:** patched to unknown-position probabilistic dragnet language.
+- **Warform agency drift:** patched; full override treated as non-conscious remote control.
+- **Small-body physics drift:** patched with explicit anchoring/attitude-control requirements.
+
+### Word Impact (edited docs)
+- `canon/canon-ledger-v2.md`: 991 -> 1073 (**+82**)
+- `canon/continuity-patch-wave3-v1.md`: 301 -> 327 (**+26**)
+- `series/series-architecture-v2.md`: 1523 -> 1546 (**+23**)
+- `series/reconquest-institutional-integration-matrix-v1.md`: 1252 -> 1164 (**-88**)
+- `tech/technical-architecture-v1.md`: 1084 -> 1143 (**+59**)
+- `factions/freed-voider-bands-dossier-v1.md`: 771 -> 692 (**-79**)
+- `characters/character-interaction-pressure-tests-v1.md`: 2641 -> 2523 (**-118**)
+
+**Net across edited canon/series/tech/factions/characters docs:** **-95 words** (clarity gain via compression despite lock-propagation additions).

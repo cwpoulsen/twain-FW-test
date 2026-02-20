@@ -130,12 +130,6 @@ FVB are generally conscious human actors with agency (unlike fully overridden re
 
 ---
 
-## Continuity Note — Acquisition/Databank Split, Free-Operator Status, Pursuit Awareness, Warforms, FVB Destabilizer Lock, Small-Body Physics
+## Continuity Lock Bundle (Pass 5, compressed)
 
-- **AI acquisition (LOCKED):** first-scene spec-ops extraction from asteroid compound.
-- **Databank role (LOCKED):** later databank raid supplies training/upgrade data for already-acquired AI; not acquisition.
-- **Status (LOCKED):** crew are permanently post-EDF free operators after Blackfly theft.
-- **Escape/pursuit (LOCKED):** nuclear strike masks immediate tracks; enemy knows Blackfly is missing but not current location (probabilistic dragnet, no continuous certainty).
-- **Warform lock (LOCKED):** many hostile Spec Ops are fully overridden non-conscious human puppets; ROE and portrayal must not imply intact agency under full override.
-- **FVB destabilizer lock (LOCKED):** ex-EDF rejected populations form pirate/mercenary bands causing cross-theater disruption; strategic reveal ties chronic strife seeding to Consensus release-pattern intent.
-- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+Apply and do not restate in-scene unless plot-relevant: AI acquired in opening spec-op, databank later for training data; Blackfly crew are permanent post-EDF free operators; post-nuke pursuit is probabilistic dragnet (asset missing, position unknown); full-override warforms are non-conscious remote instruments; FVB destabilizer ecology is tied to Consensus release-pattern intent; small-body actions require anchoring and attitude control.

@@ -13,12 +13,13 @@ Cross-refs:
 
 ---
 
-## CP-005 — Databank Box Payload Lock (CORE)
+## CP-005 — AI Acquisition/Databank Split Lock (CORE)
 
-**Rule:** The liberated box from sequence 0180 contains a **new AI seed/system**, not only static evidence payloads.
+**Rule:** Blackfly acquires a **new AI seed/system** in the opening spec-ops extraction. The later databank raid provides training/upgrade data and provenance leverage; it is not first acquisition.
 
 **Continuity effects:**
-- Book 1 moral pivot now also becomes strategic ignition event.
+- Book 1 opening operation now carries both survival and strategic-intelligence ignition weight.
+- Databank scenes must focus on training custody, model hardening, and narrative proof chains.
 - Information-war stakes in later books include AI custody/provenance control.
 
 ---

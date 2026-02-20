@@ -207,10 +207,11 @@ Premise: Books 1–4 break monopoly legitimacy and open strategic space; Books 5
 
 ## 10) Canon Additions Required in All Phases
 
-- Databank raid artifact case includes a **new AI seed/system**.
+- AI seed/system is acquired in the opening spec-op; databank raid later provides training/provenance data.
 - Asterion League is the named Belt anti-Consensus bloc and creator of a fragile **Class 1 seed-fabricator**.
-- Blackfly carries a constrained **Class 2 fabricator**.
-- Fabrication power growth is now a staged ladder across the long arc, not a one-book jump.
+- Blackfly carries a constrained **Class 2 fabricator** as a permanent post-EDF free-operator asset.
+- Post-nuke pursuit follows probabilistic dragnet logic (missing asset awareness, unknown current position).
+- Fabrication power growth is a staged ladder across the long arc, not a one-book jump.
 
 ## 11) Open Architecture Tasks (Next pass)
 

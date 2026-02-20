@@ -221,14 +221,14 @@ This preserves continuity pressure and prevents reset syndrome.
 
 ## Contradiction Watchlist (Series-Level)
 
-1. If any book implies unlimited mobility, reinsert transit envelope constraints.
-2. If any faction gets risk-free Class 1/2 access, reintroduce queue/security and technician bottlenecks.
+1. If any book implies unlimited mobility, reinsert transit-envelope constraints.
+2. If any faction gets risk-free Class 1/2 access, reintroduce queue, security, and technician bottlenecks.
 3. If justice appears costless, add staffing, legitimacy, or retaliation consequences.
-4. If coalition appears unified, show internal doctrine disagreement with material stakes.
-5. If Consensus appears omniscient, add data-latency or institutional conflict seams.
-7. If pursuit scenes assume guaranteed enemy location certainty after Blackfly theft, patch to probabilistic dragnet behavior unless an explicit intel compromise is shown.
-8. If warform scenes imply intact personal agency under full override, patch to remote-control taxonomy and ROE-consistent portrayal.
-6. If small-body surface scenes imply normal walking/standing without stabilization, patch with anchoring and attitude-control mechanics.
+4. If coalition appears unified, show internal doctrine conflict with material stakes.
+5. If Consensus appears omniscient, add latency and institutional-friction seams.
+6. If pursuit scenes assume guaranteed Blackfly location after theft, patch to probabilistic dragnet behavior unless explicit intel compromise is shown.
+7. If warform scenes imply intact agency under full override, patch to remote-control taxonomy and ROE-consistent portrayal.
+8. If small-body scenes imply normal walking without stabilization, patch with anchoring and attitude-control mechanics.
 
 ---
 
@@ -254,12 +254,6 @@ This matrix turns the reconquest arc into a governed campaign rather than a sequ
 
 ---
 
-## Continuity Note — Acquisition/Databank Split, Free-Operator Status, Pursuit Awareness, Warforms, FVB Destabilizer Lock, Small-Body Physics
+## Continuity Lock Bundle (Pass 5, compressed)
 
-- **AI acquisition (LOCKED):** first-scene spec-ops extraction from asteroid compound.
-- **Databank role (LOCKED):** later databank raid supplies training/upgrade data for already-acquired AI; not acquisition.
-- **Status (LOCKED):** crew are permanently post-EDF free operators after Blackfly theft.
-- **Escape/pursuit (LOCKED):** nuclear strike masks immediate tracks; enemy knows Blackfly is missing but not current location (probabilistic dragnet, no continuous certainty).
-- **Warform lock (LOCKED):** many hostile Spec Ops are fully overridden non-conscious human puppets; ROE and portrayal must not imply intact agency under full override.
-- **FVB destabilizer lock (LOCKED):** ex-EDF rejected populations form pirate/mercenary bands causing cross-theater disruption; strategic reveal ties chronic strife seeding to Consensus release-pattern intent.
-- **Physics lock (LOCKED):** asteroid/small-body operations require explicit anchoring + attitude control; no normal walking without active stabilization.
+Use these as hard assumptions: AI seed acquired in opening spec-op; databank later provides training/provenance leverage; Blackfly crew are permanent post-EDF free operators; nuke masking leaves enemies with missing-asset awareness but unknown position; full-override warforms are non-conscious remote instruments; FVB churn is a Consensus-shaped destabilizer ecology; small-body operations require anchoring plus attitude control.

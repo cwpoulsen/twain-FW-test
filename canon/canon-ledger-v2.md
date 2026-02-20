@@ -83,6 +83,7 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 - **CORE:** Refusal breach can trigger lethal enforcement.
 - **SOFT:** Governor-module behavior remains constrained by hard obedience boundaries, with local initiative only inside permitted action classes.
 - **CORE:** Completion grants freedom with permanent Earth banishment.
+- **CORE:** After Blackfly theft, the core crew are permanently post-EDF free operators and cannot be written back into EDF command.
 
 ---
 
@@ -96,17 +97,20 @@ Scope: governance, fabrication sovereignty, military controls, timeline-scale di
 7. Distance latency frays centralized cognition and command confidence at the edge.  
 8. Marine coercion keeps frontier violence deniable but persistent.  
 9. Blackfly slips disposal protocol and gains strategic fabrication leverage (Class 2).  
-10. Databank raid recovers a **new AI seed/system** (“the box”), opening a non-Consensus intelligence axis.  
+10. Blackfly acquires a new AI seed/system in the opening spec-ops extraction; the later databank raid supplies training and upgrade data, not first acquisition.  
 11. The Asterion League’s Class 1 breakthrough shatters monopoly certainty and starts multi-book sovereignty realignment.  
 12. Conflict broadens into reconquest campaigns (Earth first, then wider solar governance settlement).
 
 ---
 
 ## 10) Series Pressure Rules
-- **CORE:** Tactical win always carries strategic/moral cost.
+- **CORE:** Tactical wins carry strategic and moral cost.
 - **CORE:** Consensus is strongest in dense institutions, weakest at friction/latency edges.
 - **CORE:** Steward worldview must remain internally coherent.
-- **CORE:** Long arc is now approximately **10 books**, with phased reconquest and post-reconquest governance risk.
+- **CORE:** Long arc is approximately **10 books**, with phased reconquest and post-reconquest governance risk.
+- **CORE:** Post-escape pursuit is probabilistic dragnet logic: adversaries know Blackfly is missing, not its current position after nuke masking.
+- **CORE:** Fully overridden warforms are non-conscious remote instruments; portrayal and ROE cannot imply intact agency.
+- **CORE:** Small-body combat requires explicit anchoring and attitude control; no normal walking/stance fighting without stabilization.
 
 ---
 

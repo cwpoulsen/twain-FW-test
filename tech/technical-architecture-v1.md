@@ -54,9 +54,10 @@ Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md
 
 ## 3.2 Manufacturing geopolitics
 - Belt can sustain broad infrastructure with Class 3/4 ecosystems.
-- Belt cannot fully sovereignize high-end computation/biomedical stacks without Class 2 access.
+- Belt cannot fully sovereignize high-end computation/biomedical stacks without reliable Class 2 throughput.
 - Earth cannot sustain industrial scale without Belt extraction throughput.
-- Blackfly possession of a Class 2 stack and Asterion League Class 1 emergence end the assumption of uncontested Earth monopoly.
+- Fabrication path is staged, not a jump: distributed Class 3/4 survival capacity -> constrained Blackfly Class 2 precision leverage -> fragile Asterion League Class 1 deterrence.
+- Blackfly Class 2 plus Asterion League Class 1 ends assumptions of uncontested Earth monopoly.
 
 ## 3.3 Failure modes for story
 - Sabotage of calibration libraries can silently poison fab outputs.
@@ -73,9 +74,10 @@ Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md
 - Hard-kill response exists for boundary breach.
 
 ## 4.2 Practical envelope
-- Module does not micromanage every action; it constrains disallowed classes of behavior.
+- Module does not micromanage every action; it constrains disallowed behavior classes.
 - Units retain local initiative necessary for survival in high-latency combat.
 - This creates moral dissonance: tactical freedom inside strategic enslavement.
+- Under full remote override, warforms are non-conscious control endpoints; action scenes must treat them as uplink-dependent instruments, not intact agents.
 
 ## 4.3 Powered armor constraints
 - Armor provides force multiplication but is not invulnerability.
@@ -89,6 +91,7 @@ Quantitative reference: `tech/fusion-transit-assumptions-and-lane-calculus-v1.md
 ## 5.1 Belt habitat baseline
 - Mixed architecture: spin-gravity drums, anchored industrial stations, modular tunnel/rock habitats.
 - Radiation shielding quality varies by wealth and mission criticality.
+- Small-body exterior operations require anchoring and active attitude control; unbraced walking/fighting on asteroid surfaces is non-credible.
 
 ## 5.2 Life support economics
 - Air, water, thermal control, and seal integrity are currency-equivalent assets.
